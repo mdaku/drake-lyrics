@@ -1,0 +1,328 @@
+DRAKE LYRICS - Missin' You (Remix)
+ArtistName = "DRAKE";
+SongName = "Missin' You (Remix)";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Missin' You (Remix)" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Missin' You (Remix)"(feat. Trey Songz)
+
+[Chorus:]
+I can't stop missing you, wish I was still with you
+I can't stop missing you NO, NO, NO, NO
+I can't stop missing you, wish I was still with you
+I can't stop missing you, NO, NO, NO, NO[Drake:]
+Nah,
+I never needed advice about
+All the things you liked to do when it was lights out
+I drove nice cars
+I got a nice house
+But now I'm steady missing you like a strikeout
+I always wished I would of cared more
+That's my only feeling inside when ever I get a song done
+I'm scared that every girl I care for
+Will find a better man and end up happier in the long run
+Ya, and when she not by my side
+And I hear that she gone
+Now it's like a shock to my pride
+I don't care if she know
+Cause that's basically just a male ego
+Speaking aloud to some real people
+But you can bounce back
+Go ladies,
+More records, more sex, more babies
+Yeah, wanna grant one of my wishes
+Tired missing you, I'm tryna make you a misses[Trey Songz:]
+I miss the way you kiss
+I miss the way wear them heels and make it switch
+Miss the way ya hair blows in the wind
+And I miss you staying here till the morning
+Miss the way you put on your makeup
+Miss the way you love me too much
+It's everything about you baby
+Wanna know where you been lately
+Do you go out, do you still live at your old house
+Do you got somebody new in your life
+Cause I can't get you outta my mind[Hook:]
+And I wanna erase but I can't stop seeing your face
+In every girl I try to replace
+You with why can't I get over it
+Simply cause I can't[Chorus:]
+I can't stop missing you, (Can't Stop) wish I was still with you (With you)
+I can't stop missing you NO NO NO NO
+I can't stop missing you, (Can't stop) wish I was still with you (with you)
+I can't stop missing you, NO, NO, NO, NO
+I can't stop[Trey Songz:]
+Missin everything you say,
+Missin all the crazy love we made
+Why'd you throw it all away
+I want you to know it's been hell tryna do this with out you here
+Baby 07' supposed to be our year
+You confront my worst fears
+And I had my doubts every time you was going out
+Cause I knew you were tellin' me lies
+And I can't get that outta my mind[Hook:]
+And I wanna erase but I can't stop seeing your face
+In every girl I try to replace
+You with why can't I get over it
+Simply cause I can't[Chorus:]
+I can't stop missing you, (Can't Stop) wish I was still with you (With you)
+I can't stop missing you NO, NO, NO, NO
+I can't stop missing you, (Can't stop) wish I was still with you (with you)
+I can't stop missing you, NO, NO, NO, NO[Bridge:]
+Wish I, Could wake up and forget about you
+Not tryin to call you when I know I want to
+(O wish I,) I gotta fight this feeling can't let it take over me
+You just don't understand how much you were apart of me[Chorus:]
+I can't stop missing you, (Oooo No) wish I was still with you (With you)
+I can't stop missing you NO, NO, NO, NO
+I can't stop missing you, (Can't stop) wish I was still with you (with you)
+I can't stop missing you, NO, NO, NO, NO[Chorus:]
+I can't stop missing you, (Can't Stop) wish I was still with you (With you)
+I can't stop missing you NO, NO, NO, NO
+I can't stop missing you, (Can't stop) wish I was still with you (with you)
+I can't stop missing you, NO, NO, NO, NO[Chorus:]
+I can't stop, missing you
+I can't stop, missing you
+(I don't wanna stop) I can't stop missing you
+(Baby) I can't stop missing you,
+No, No, No, No
+I can't stop, Missin you
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_6840663/su_0/tr_1_sRgonr_-6z7V7hm6aT9ZG-a8tH-Qp1K3UBNqEKombM2n-a6CQmKyOXZVop604Dv9xpaXYTPqOO5ZY7UWavjzy6AOE8T-uukLxOY0KCOBUDdrya751k81iLhV3IOTsEBcPSNh0h-PsIXnMxgl0_ffwImlK9zcWRdjB_g683VM-xJ9BdgSl7DMvFg6QaUXQau0uCG_Ta7PI7OsOCVUU-owaI-ol188wgxBEJEsR-kk1d6oJPzBqAgejjRY8NbU6UBgROu5r9jsBa5EgXGd6e0Js81rfa20ac6DrHtQTySdiXBAArxlQilHcWCOfx0pVeH-J5DipvWCyiKKAxMKEhEHq4dcij7SQVuLWPzTAOMLQDIAEKTCwt2ucq_kF-AzHJ/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Comeback Season" (2007)
+
+
+
+
+The PresentationComeback SeasonCloserReplacement GirlCity Is MineBarry Bonds FreestyleGoing In For LifeWhere To NowShareGive YaDon't You Have A ManBitch Is CrazyThe Last HopeMust Hate MoneyAsthma TeamDo What U Do (Remix)Easy To PleaseFadedUnderdogThink Good ThoughtsTeach U A LessonMissin' You (Remix)Man Of The Year (Remix)
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Missin' You (Remix)" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

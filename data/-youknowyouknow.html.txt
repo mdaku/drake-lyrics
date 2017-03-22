@@ -1,0 +1,309 @@
+DRAKE LYRICS - You Know, You Know
+ArtistName = "DRAKE";
+SongName = "You Know, You Know";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"You Know, You Know" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"You Know, You Know"
+
+[Hook]
+You know you know
+You know you know[Verse 1]
+Uh, you know you know how the story goes,
+You done jock my style, you done stole my flow,
+You done seen me out, you gets no hello,
+And you wonder why? Man you know you know,
+Yeah and you should let them boys know too,
+Show them n-ggas every single thing I showed you,
+Im here feeling like 50 back in '02, and everybody sayin I'm the man (big mike), so true,
+Yeah but what does it take to feel secure?
+A place with wooden floors and space to put awards,
+A couple of parking spots and maids to do the chores,
+The cars you always wanted, the women that you adore,
+Well I got it, I got it,
+I wonder if id be happy without it, I doubt it,
+I try not to really think about it,
+I made it but I'm still playin like I'm bein scouted til I'm outted,
+Game top bitch, I hope youre proud of us,
+King james sh-t watch me throw the powder up,
+This old g got my whole suite cloudin up,
+But I bet you I be out of time before I'm out of luck,
+They aint routin for me, they aint clappin for me,
+Im only sayin can somebody just be happy for me,
+I really hate to say I told you so,
+So I bite my tongue but you know you know,[Hook][Verse 2]
+Uhh, please make your long story shorter,
+This time is for the essence for the king of first quarter,
+Numbers do the talkin I have nothing for reporters,
+I just hope we make these flights and don't get held up at the border,
+Yeah so you can spare me all the accolades,
+Im the reason you can find my city on an atlas page,
+Half a million dollars later and my taxes paid,
+And I'm still spendin money from my actin days,
+Damn, life is such a lovely thing,
+Feel the perks that a 7 digit budget bring,
+Tell your girlfriend that I can pull some f-ckin strings,
+So were courtside when lebron get a f-ckin ring,
+Yeah, I bet I be there I be there,
+You see that '62 sittin outside? Thats me there,
+Im jumpin to the top its my leap year, prepare,
+Putting in that overtime I never said it be fair,
+Im always left wishin I could have done it in person,
+My apologies to all of the ones I was hurtin,
+I got new girls but none of they love is for certain,
+And call old girls but none of they numbers are workin,
+Damn what happened to us?
+Life can always change, you have to adjust,
+How come when I got a party you stare at me in disgust?
+If it is just to have fun you should see that as a plus,
+Especially when I come flyin through the door
+And kindly ignore the paparazzi outside and tryin to record,
+Why has every woman never dined her before?
+Am I the only 23 year old wine connoisseur?
+The Rothschild's, the Cru's, the 'Caias and the Opuses
+Its always nice when youre out with someone that notices,
+My condo got that art gallery openness,
+Im just really hopin that that isn't what the motive is,
+They aint routin for me, they aint clappin for me,
+Im only sayin can somebody just be happy for me,
+I really hate to say I told you so,
+So I bite my tongue but you know you know
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_15900188/su_0/tr_rx4k1PzgyYhBhVRo8JZ3-IJPsoJyzykzRn0kxVJ4nFwrbJO29BFkfebyevC6AI34il3jkIJDnktXe9EjW8T5gU2Bj7KJnHB0mJF377ZemqAOwNT6WtPNw3zVg0pwJmE2A2qnN0P9Giiwy_NqYO9QTWQFZirroonRF_rJsp3UUmuvARyWuF3gl5CuoRg8J08kfPXhFwxMx3VYcPiq6_Fxp08zQSj9OMGspUBUxHJ7-yYlJ4a2txLs_CHUVmFQ58SBc_CMDaL9yfTogZgAEbWW6QkCrM4315d9rOQa7V5QRF4vYLp2wJA3SdvrwtUCCIHnUxjmQduY_ObvZbsTOB5FvZLC023_6_OdZ9HD53WO9sR8jIkaG6W5nv2zK_tY6xHN/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Young Sweet Jones" (2010)
+
+
+
+
+Messages From YouI'm Ready For YouRight Above ItDo It AllParis Morton MusicThe Resistance (Remix)Still Got ItPut It DownIn My BusinessYou Know, You KnowTo The FloorGreatness
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "You Know, You Know" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

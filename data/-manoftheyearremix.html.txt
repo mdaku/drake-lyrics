@@ -1,0 +1,387 @@
+DRAKE LYRICS - Man Of The Year (Remix)
+ArtistName = "DRAKE";
+SongName = "Man Of The Year (Remix)";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Man Of The Year (Remix)" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Man Of The Year (Remix)"(feat. Lil Wayne)
+
+[Verse 1: Drake]
+Damn!
+I done walked in here
+Lookin' like the mothafuckin' man of the year
+Think I had the mothafuckin' plan of the year
+Which was simply to make groupie fans of my peers
+And I get my girl whatever she desire
+And my niggas get whatever they require
+These rappers old, I'm the reason they expire
+Plus I got a city that I Carey like Mariah
+Damn!
+That punch line was predictable
+I still got you shittin' bricks, homie, quit the bull
+And we don't need new members
+To me the clique is full
+And I be getting' the same women that tip the pool
+Believe or not
+I receive a lot
+So, I be wearing the same Gucci that Jeezy got
+And I be buyin' the Louie that Kanyizzy cop
+And I be rippin' the same reords that Weezy rock
+This shit is east pot
+That's why I'm ready, man
+I'd never copy Norbit like eddie, man
+Did you get it? Eddie Murphy was in Norbit
+Or was it way over your head?
+Did you forfeit?
+Yeah, I take a woman shopping in a store quick
+Her ass big, she just tryin' to make a four fit
+Yeah, they need ot issue out a recall
+I'm goin' up and they headin' into a freefall
+The fundamental are needed, you playin' street
+And I was out at BET, but I didn't see ya'll
+These skee-low rappers wishing they could be tall
+Lettin' all their fake friends use them like a free stall
+Yep![Chorus: Lil' Wayne]
+Damn!
+I done walked in here
+Lookin' like the mothafuckin' man of the year
+My shades so dark
+And my ice so bright
+My buddies and my fans wanna fight your right
+Like, round one, round two, round three
+I told you not to ever bring a bitch 'round me
+'Cause, ain't no nigga like a young money nigga
+No, ain't no nigga like me
+Ya dig?[Verse 2: Drake]
+I said I know you see me chillin'
+Super low key
+If I'm with the right niggas, you can scoop a O.Z.
+All the hustlers and the bouncers
+And the groupies know me
+Fresh denim, fresh shades
+In a group with no kids
+It start up when I touch the door
+And I encourage ladies to touch the floor
+As soon as we finish cuttin', we can cut some more
+Then after you get high, make 'em, get 'em, girl you finna get low
+Lights dimmed down
+Got alota dough
+Plus a hit sound
+What you mean you ain't heard?
+I come highly recommended
+Everybody my friend, even if they been offended
+They ain't really got a choice, it's an obvious decision
+You tryna make a come up in my city, it's a given
+Plus a nigga famous
+Plus I got a vision
+Not to mention havin' bars like a mothafuckin' prison
+They takin' too long
+Their records on hold
+They threatened by my presence
+'Cause I make them feel old
+Guaranteed if they drop, they braggin' 'bout what they sold
+Just remember where I lived at, 50, 000's goin' gold
+Holla at me when you see me, make yourself known
+'Stead of hatin' on my music in the comfort of your home
+Nigga, be a man
+You actin' like a bitch
+I ain't actin' like I'm rude
+I'm just actin' like I'm rich, rich
+Yeah, uh!
+Ridin' with Weezy Fuckin' Baby
+Are you the type of girl that me and Weezy fuckin', baby?
+'Cause I don't waste time, can't yo see a nigga lazy?
+And I might need some help
+But, you know, Weezy's fuckin' crazy[Chorus: Lil' Wayne]
+Damn!
+I done walked in here
+Lookin' like the mothafuckin' man of the year
+My shades so dark
+And my ice so bright
+My buddies and my fans wanna fight your right
+Like, round one, round two, round three
+I told you not to ever bring a bitch 'round me
+'Cause, ain't no nigga like a young money nigga
+No, ain't no nigga like me
+Ya dig?[Spoken: Lil' Wayne]
+Y.M., bitch!
+Everybody!
+Two time on Sunday!
+Spit 'em!
+Check ya blinkers, baby!
+Check ya blinkers, baby!
+'Cause, to me, look like you've been turning right all day! Yeah!
+Right my way! Ha ha!
+I got a boulevard, baby!
+That's right!
+Cash Avenue!
+Wall Street gangsta!
+Carter, ya'll! Heh heh!
+Why would I lie?
+Yeah!
+I ain't rich, bitch, I'm wealthy!
+Young! I talk shit 'til I die!
+Come kill me, nigga!
+Fuck you!
+No homo!
+She like it! Heh ha ha!
+Yeah!
+Boy, these mothafuckin' glasses I got on right now, are so mothafuckin' cold![Chorus: Lil' Wayne]
+I'm feelin' like...
+Damn!
+I done walked in here
+Straight up lookin' like the mothafuckin' man of the year
+My shades so dark
+And my ice so bright
+My buddies and my fans wanna fight your right
+Like, round one, round two, round three
+I told you not to ever bring a bitch 'round me
+'Cause, ain't no nigga
+Ain't no nigga
+Ain't no nigga like a young money nigga
+Damn!
+I done walked in here
+Lookin' like the mothafuckin' man of the year
+My shades so dark
+And my ice so bright
+My buddies and my fans wanna fight your right...
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_6964635/su_0/tr_LZBdEejDHyAV1Q5xiNWYS-eZdoY7qvyIm202iktd0__x13DMRmFdZTPzslRyIKoPx5SShsdQVT_JLB78T41aLZCFv6lrdpWSj9K1Oz55rnQEIy2dxbo5rcDKfISaOk3AjZqqpcp_GAnd8eZ9n5I1ir-4S49euCCw47uLiGsujPDy1AkT99cEkKG50WVxBStSgnSDdYISq-pJOPxZODK-1v9QCCXmd8zNFRHIR2kDjC6mWTvKMY-YfG9nlJ3mboYT4KkrjZeK5dQmsVGkf3JBioWWsDGuqq2kEw65Vpt2tqo6rb9nnSG5z8EnJSTBzrpEswCqxkRql2OomX8FjpN4yUE7FTQqgN0QTg4AmXqnHI1nXY6QndqOWBgywL2RUdJX/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): Dwayne Carter
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Comeback Season" (2007)
+
+
+
+
+The PresentationComeback SeasonCloserReplacement GirlCity Is MineBarry Bonds FreestyleGoing In For LifeWhere To NowShareGive YaDon't You Have A ManBitch Is CrazyThe Last HopeMust Hate MoneyAsthma TeamDo What U Do (Remix)Easy To PleaseFadedUnderdogThink Good ThoughtsTeach U A LessonMissin' You (Remix)Man Of The Year (Remix)
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Man Of The Year (Remix)" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

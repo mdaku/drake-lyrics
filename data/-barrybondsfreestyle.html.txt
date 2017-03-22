@@ -1,0 +1,319 @@
+DRAKE LYRICS - Barry Bonds Freestyle
+ArtistName = "DRAKE";
+SongName = "Barry Bonds Freestyle";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Barry Bonds Freestyle" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Barry Bonds Freestyle"
+
+Yeah Look
+It's what you all been waiting for ain't it?
+Your weekly entertainment
+For me to get a hold of this beat
+And go ahead claim it
+I'm about to paint a picture
+You niggas go 'head frame it
+'cause we getting Seinfeld
+On some Jerry and Elaine shit
+I flow far from mediocre
+And if we talking cards
+I will fold 'em with the poker
+You and your whole crew are like a deck of 54
+So it's obvious y'all gon' steady be rollin' wit' some jokers (unh)
+And me I'm rolling with some brokers
+Like damn, could you niggas get any broker
+Got my new girl so content
+Just save yourself the embarrassment
+Don't even approach her
+Disguise yourself, go buy a costume
+I am making stocks work while you working stock room (unh)
+And I was praying I would drop June but label reps applying pressure to make them pop tunes
+So I keep it rockin' for Pete's sake
+You fake gangsta rappers are cliché
+And if you ain't talking dough when you meet Drake
+I be in your face like "No speaka la englis"
+Soon as you hear it, you quote it
+They tryna be the one that I done left out the show with
+But trust me I'm aware and my car's right there
+Is this interior enough for your ulterior motives
+'Cause if you like it you should stick with me
+My money good I ain't ever had to flip a key
+A lot of ice a lot of cream like Dicky D
+Might cut the phone and disappear like Mishy me
+But I'm tryna have you on that trip with me
+Sliding through Henri Bendel like it's slippery
+And your ex-man is a hater, officially
+Probably 'cause he know I'm exactly what you wish he'd be
+Yeah, that's the reason why he looking hard
+'Cause I done snatched the Chips Ahoy out his cookie jar
+He just mad 'cause his girl at the house with her tongue sticking out like a Michael Jordan rookie card
+Let me address this, pardon me while I fix
+Couple subliminal lines caught me in the mix
+I guess he thought he could've been Gotti in the flicks
+But at this point I'm just poking her body with a stick
+Nowadays rapping is a children's hobby
+And girl's keep telling me I'm still as snobby
+I tell 'em myself who I am feeling probably
+Just because I got a buzz like a building lobby
+It ain't a song that your ass finna skip
+I tried to sell weed, give me cash for the zip
+The way your girlfriend pumped me up in the car
+Seems like she don't really need no gas for the trip
+Millionaire shades, fade with waves, I smirk at a nigga if he still rockin' braids,
+That just lets me know that we ain't on the same page and that goes out to every nigga except Trey
+Ay, I'm outta here baby
+They asked me about the past years and how does it phase me
+I wouldn't take it back, nah, not if you paid me
+Mister bet you that's expensive cause it's not a Fugayze
+Spittin' that crock pot of bottomless gravy
+The shit is so nasty, how is it tasting
+And you can probably find him walking out of a Macy's
+Forget a girl, they just thinking how to replace me
+Exit with a joke, leave these niggas some hope
+He took that
+'Ye beat and you put that shit in a choke,
+well, I think that I should leave out on this note nigga keep your two cents,
+I ain't tryna leave you broke
+Life of a Don, lights keep glowing,
+coming in the club with that fresh shit on with something crazy in my arm, (arm),
+and here's another hit, Barry Bonds'
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_5791195/su_0/tr_1IafRB6bpWMnNFSuZovCnq_yqXHiyoNkJM31ynZIRo13kGLb5KRgWrSW4f_dp2BsXSExdbx4sw7G_uJNS7-N84L0K0Rr877nYYeXOEmY681lE2z5gc0BMqgwEGdE_Uug1a_I5G20mtQiM81bj0oUwR5Lc3_S6bqEFtFId4NxBRVi0F0tPMKt6ge2ixl4vP8kAgucMZ4yrp8d1Bu5a_Rpp3FUChRbyGt4H8NR0qwKG2eCMr3dtEHbHa7P4Enge2_5rCEoioeeiHq_3AvvxTHDz9SH5DrpY7D3j9TQ0tTv_ux0eTjm__JtszJ5FECgEhkncL6BmPwjKtYqwAZWcLkYC48EYBNK5tZp-fBDcISIb97MXp5IXPjMboOdLV1RyQs1/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Kiava G for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Comeback Season" (2007)
+
+
+
+
+The PresentationComeback SeasonCloserReplacement GirlCity Is MineBarry Bonds FreestyleGoing In For LifeWhere To NowShareGive YaDon't You Have A ManBitch Is CrazyThe Last HopeMust Hate MoneyAsthma TeamDo What U Do (Remix)Easy To PleaseFadedUnderdogThink Good ThoughtsTeach U A LessonMissin' You (Remix)Man Of The Year (Remix)
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Barry Bonds Freestyle" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

@@ -1,0 +1,320 @@
+DRAKE LYRICS - I'm Ready For You
+ArtistName = "DRAKE";
+SongName = "I'm Ready For You";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"I'm Ready For You" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"I'm Ready For You"
+
+[Drake]
+R.I.P. to the girl you used to see.
+Her days are over. Baby she's over.
+I've decided to give you all of me.
+Baby come closer, baby come closer.
+I'm ready for ya!
+Kill 'em all, switch it up.
+Put it on, zip it up.
+Let my perfume, soak into your sweater.
+Say you'll be here soon, sooner the better.
+No option for her, you sayin' no.
+I run this game, just play your role.
+Follow my lead, what you waitin' fo'?
+Thought it over and decided tonight is the night.[Background voice]
+Yeah I hear you talkin', don't know who you tryin' to flatter.
+Got my mind made up. I-I-I'm ready for ya.
+I'm in control, but with you bein' the man,
+You don't seem to understand that I-I-I'm ready for ya.
+I-I-I'm ready for ya.
+I-I-I'm ready for ya.
+So keep thinkin' you the man,
+'Cause it's all part of my plan.
+I-I-I'm ready for ya.
+Nothin' on, I strut around.
+I do it big, I shut it down.
+I wonder if you'll be able to handle me.
+Mental picture, no cameras please.[Background voice]
+Yeah I hear you talkin', don't know who you tryin' to flatter.
+Got my mind made up. I-I-I'm ready for ya.
+I'm in control, but with you bein' the man,
+You don't seem to understand that I-I-I'm ready for ya.
+I-I-I'm ready for ya.
+I-I-I'm ready for ya.
+So keep thinkin' you the man,
+'Cause it's all part of my plan.
+I-I-I'm ready for ya.[Drake - Verse]
+Uh, red lipstick on the wine glass cameras in my mind,
+Flash, black lingerie, white diamonds, what a contrast,
+I know you get impatient as the time pass
+You say you want it fast... define fast
+'Cause I can speed it up, and make it last
+And I could audition for this, and I could be part of the cast
+And I could produce for your future, I could co-direct your past,
+And make damn sure you never forget it
+Committed
+I'm ready, I'm with it... still here like a statue
+Pink champagne, green ink in your tattoos,
+You say you got baggage, well I'm packed too
+Plus I got a sex pistol, pointed right at you "BANG!"
+The baddest women ever and the hardest out,
+Proven over and over again that's why I'm hard to doubt
+Plus I'm Young Money 'till the death, I took the carter route
+I'm more than ready too, hope of something that you thought about[Background voice]
+Yeah I hear you talkin', don't know who you tryin' to flatter.
+Got my mind made up. I-I-I'm ready for ya.
+I'm in control, but with you bein' the man,
+You don't seem to understand that I-I-I'm ready for ya.
+I-I-I'm ready for ya.
+I-I-I'm ready for ya.
+So keep thinkin' you the man,
+'Cause it's all part of my plan.
+I-I-I'm ready for ya.
+R.I.P to the girl
+who used to see
+her days are over
+baby shes over
+I-I-I'm ready for ya.
+I-I-I'm ready for ya.
+I-I-I'm ready for ya.
+so keep thinkin you the man
+cause its all part of my plan
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_6269178/su_0/tr_4wu0bqqAh3g17mC88Nj4QkjODFDHualnW9dQ20FXrAFlsIi4cc2F23u6KQHxdSEU_2Yng5cQP_pmrlHHU2d8V7_hTr9CPJSjvZWe3bqXkvl-JJkZSyDawQzRlWOo8WwBrlk5jHXUABLc42X05V3igHd7FcTV8iGr1HSAtzJJ3OKmIvfSjeJCZW9Qq_64LBSKKPDiuZu3fNSzp3qFLAZeg--YrSbYG1ipBj9E6cCQwz1xykNtN4V7i9hfetg_7dfKfeW9aWbIowTB9hX_7L4Ldyf1eEfGqe_WOjzc3EPpR7mpcn9sDjt3584oMz5ji76cZImc2tLM6lC81zDCM8o5H_jM5yp-m227ksFizCCVu5lZREeonAkD0V98waQ8D8jd/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Romi Ezzo for adding these lyrics.
+Thanks to Ali Daoud, mady, r3lax for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Young Sweet Jones" (2010)
+
+
+
+
+Messages From YouI'm Ready For YouRight Above ItDo It AllParis Morton MusicThe Resistance (Remix)Still Got ItPut It DownIn My BusinessYou Know, You KnowTo The FloorGreatness
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "I'm Ready For You" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

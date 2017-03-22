@@ -1,0 +1,287 @@
+DRAKE LYRICS - Karaoke
+ArtistName = "DRAKE";
+SongName = "Karaoke";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Karaoke" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Karaoke"
+
+[Drake singing:]
+Things have been so crazy and hectic
+I should have gotten back by now
+but you know how much I wanted to make it
+it’s proabably better anyhow
+so if you gotta go
+if theres anything I should know
+if the spotlight makes you nervous
+if you looking for a purpose
+you put the tea in the kettle and light it
+put your hand on the metal and feel it
+but do you even feel it anymore
+I remember when you thought I was joking
+now I’m all singing Karaoke
+further than I’ve ever been
+so if you gotta go
+if there’s any way I can help[Drake rapping:]
+Isn’t it ironic that the girl I wanna marry is a wedding planner
+that tells me my life is too much and then moves to Atlanta
+damn, of all the places you could go
+I just thought you’d choose somewhere that has somebody that you know
+I'm always up too late I worry bout you there alone
+in that place you call your home
+warm nights and cold patron
+I hope you don’t get known for nothing crazy
+cause no man ever wants to hear those stories bout his lady
+I know they say the first love is the sweetest
+but that first cut is the deepest
+I tried to keep us together you were busy keeping secrets
+secrets you were telling everybody but me
+don’t be fooled by the money I’m still just young and unlucky
+I’m surprised you couldn’t tell[Drake singing:]
+I was only trying to get ahead
+I was only trying to get ahead
+but the spotlight makes you nervous
+and you looking for a purpose
+I was only trying to get ahead
+I was only trying to get ahead
+but the spotlight makes you nervous
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_12090918/su_0/tr_6MnnBSCLkz2gV86AYCRzRH-sT3HZORBS3dXwWB8SQ9YQpFr5HXnAFvBonbd6clZSbb7vYbsls6XgjYM3wycvPjKEQsKGfluUkXOkVQxbXlKfL9KEJ0VCL7RRrk9J3R7bHz8iccnfmITjjd2YLPBE30J2RayXSMltfv7dkhEWtnd8RcVBXhacqWwCG4Vq7z9a0Uwa_WZ4gjZP9R70ay_SdtbAVUu5But5GhzT6hc3sKzMCAXJXY4tkefQSvacOyVcdzpeTdksrs7RJcr_AZ7gnNMi1IgvCEzWKBSdN8aJ2F2mowuzcZ2pWzoJAd4QVA6tKUgIFTbIDA6PuN9cHpbeYA/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to TiffyTwoCheeks for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Thank Me Later" (2010)
+
+
+
+
+FireworksKaraokeThe ResistanceOverShow Me A Good TimeUp All NightFancyShut It DownUnforgettableLight UpMiss MeCece's InterludeFind Your LoveThank Me Now
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Karaoke" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

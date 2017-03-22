@@ -1,0 +1,346 @@
+DRAKE LYRICS - Fear
+ArtistName = "DRAKE";
+SongName = "Fear";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Fear" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Fear"
+
+[Drake talking:]
+This is why I do this shit.
+I think they call this, uhm, venting.[Verse 1:]
+Look
+Uhh.
+This is me.
+Still the same.
+They want the hits.
+I play the game.
+No auto tune, but you can feel the pain.
+It all comes spilling out like I hit a vein.
+What up lil Braw.
+What up slum Ville.
+I hope you know that yall the reason I have fun still.
+The fans thinking that we all signed for one mill.
+Equal opportunities rapping, that shit is unreal.
+That ain't how it works.
+That ain't that how it goes.
+And I be getting high to balance out the lows.
+And I could use a writer to balance out my flows.
+But I never share my thoughts,
+This is all a nigga knows.
+And every time I try, it opens up my eyes.
+These verses are a chance to remembered and reprised.
+And I would be performing just as long as I'm alive.
+So every word I utter will be mine.[Chorus:]
+Don't believe the lies.
+Look me in my eyes.
+Please don't be scared of me.
+Please don't be scared of me.
+I remember you.
+This feeling isn't new.
+So please don't be scared of me.
+Please don't be scared of me.
+Oh oh oh oh oh uhh.[Verse 2:]
+I never cried when Pac died.
+But I probably will when Hov does.
+And if my tears hold value, then I would drop one for every single thing he showed us.
+And I'll be standing in a puddle.
+I stay away from niggas that could land me in some trouble.
+And ima keep it honest.
+I'm so tired of being subtle.
+Its just me, Forty, O, and Neek standing in a huddle.
+Staring at the members of my team.
+Who get questioned about they profit from this 40 million dollar scheme.
+Just know that I'm in debt for you defending all our dreams.
+I hope you tell your family this shit ain't what it seems.
+But yall the reason for a lot of my devotion.
+You know I spend money because spending time is hopeless.
+And know I pop bottles cause I bottle my emotions.
+At least I put it all in the open.[Chorus:]
+Don't believe the lies.
+Look me in my eyes.
+Please don't be scared of me.
+Please don't be scared of me.
+I remember you.
+This feeling isn't new.
+So please don't be scared of me.
+Please don't be scared of me.
+oh oh oh oh oh uhh.[Verse 3:]
+Look.
+Fuck all yall.
+We ignore feelings here.
+Premature millionaires.
+Welcome to my realest year.
+Yeah.
+I swear we making a killing here.
+I should be on top of the world here just chilling here.
+Uh.
+But its funny having fans.
+Who find you before anybody ever has the chance, and build you up so you could be the biggest in the game.
+And realize when your there, sometimes the shit don't feel the same.
+Yeah.
+And plus things are just surreal at home
+People think I've changed just because my appeal has grown
+And now security follow me everywhere so I never actually am alone, I just always feel alone.
+I think I'm scared of what the future holds.
+I was wishing for some things and now am used to those.
+Every girl I meet thinks I'm fucking groupie hoes.
+The honesty of my music has left me too exposed.
+All my old friends think I got a new crowd.
+And people seem to notice every time I do smile.
+I guess that mean they come few and far between.
+Even though am living out what you would call the dream.
+Yeah.
+And my uncle ain't even messaging me.
+And him missing in my life is kind of messing with me.
+I hope this isn't one of those forever things.
+Its funny how money can change everything.[Chorus:]
+Don't believe the lies.
+Look me in my eyes.
+Please don't be scared of me.
+Please don't be scared of me.
+I remember you.
+This feeling isn't new.
+So please don't be scared of me.
+Please don't be scared of me.
+oh oh oh oh oh uhh.
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_14689524/su_0/tr_ng4LfhSVb2pQ86Kd6s05XcMZ0iMgNjU-tTDee597eK8LukqkHC8t18k5ARwDIgb_zkTop7VvYWCa3_crCQCqiwQuMG44fsGLd86sKKwIXfXVqKCSqiQoW_64w77M_2pUeuHRGyk-09wCrkxT97pa3rFtI9eKwpBb2c4uOMPXWJFozgoJdoDCypBmm_VXEFNoTuY0kJgl4Ssz_AWW8JBG-TBsen4lKX05_PWr7nOpulKlLKTjhBdgxBpoU6vlOBGvVac3jmwwR17TgvqlGnM6y5bqP90NhOsD5wth_pCjR_jeFTBr9VBwZPzKlq6D-rBvuDW63PUU6uukdfNwpZclxw/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Kalin Patel, Jewel, Brendan Barbara, JGuaraldi for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "So Far Gone" (2009)
+
+
+
+
+HoustatlantavegasSuccessfulBest I Ever HadUptownI'm Goin' InThe CalmFear[from "So Far Gone" EP]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Fear" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

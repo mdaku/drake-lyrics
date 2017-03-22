@@ -1,0 +1,311 @@
+DRAKE LYRICS - Take Care
+ArtistName = "DRAKE";
+SongName = "Take Care";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Take Care" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Take Care"(feat. Rihanna)
+
+[Rihanna]
+I know you've been hurt by someone else
+I can tell by the way you carry yourself
+If you let me, here's what I'll do
+I'll take care of you
+I've loved and I've lost[Drake – Verse 1]
+I've asked about you and they told me things
+But my mind didn't change
+And I still feel the same
+What's a life with no fun? please don't be so ashamed
+I've had mine, you've had yours we both know
+We know, they don't get you like I will
+My only wish is I die real
+'Cause that truth hurts, and those lies heal
+And you can't sleep thinking that he lies still
+So you cry still, tears all in the pillow case
+Big girls all get a little taste,ah
+Pushing me away so I give her space,ah
+Dealing with a heart that I didn't break
+I'll be there for you, I will care for you
+I keep thinking you just don't know
+Trying to run from that, say you're done with that
+On your face girl, it just don't show
+When you're ready, just say you're ready
+When all the baggage just ain't as heavy
+And the party's over, just don't forget me
+We'll change the pace and we'll just go slow
+You won't ever have to worry,
+You won't ever have to hide
+You've seen all my mistakes
+So look me in my eyes[Rihanna]
+'Cause if you let me, here's what I'll do
+I'll take care of you
+I've loved and I've lost[Drake – Verse 2]
+Yeah
+It's my birthday, I'll get high if I want to
+Can't deny that I want you, but I'll lie if I have to
+'Cause you don't say you love me
+To your friends when they ask you
+Even though we both know that you do (you do)
+One time, been in love one time
+You and all your girls in the club one time
+All so convinced that you're following your heart
+'Cause your mind don't control what it does sometimes
+We all have our nights though, don't be so ashamed
+I've had mine, you've had yours, we both know
+We know, you hate being alone
+You ain't the only one
+You hate the fact that you bought the dream
+And they sold you one
+You love your friends but somebody shoulda told you somethin' to save you
+Instead they say,
+Don't tell me, I don't care
+If you hurt, I don't tell you
+You don't care, if you're true
+Don't tell me, I don't care
+If you hurt, I don't tell you
+You don't care, if you're true[Rihanna]
+I know you've been hurt by someone else
+I can tell by the way you carry yourself
+If you let me, here's what I'll do
+I'll take care of you
+I've loved and I've lost
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_7747165/su_0/tr_KIyxMcn8yoZoeB3GV0RjHucIC138LinMB61eBF2XhgW2YHQeIOuAbklKsQP7PeZKsuDYH5yun9387A4dSYROsUvjP6urhpEMwKnkXf6IKfC9ZGLqUKAxlVvWrqv2uxIynDZjHkkh3K-_cDzzqNTVCF4n_zA3BBKEdwMXfsPJcqntQitzGsDAFF9tXVu9xpdxDrn2IuIZJuBn15FjRu8C5miTCFhuoIup2E-qNJX71K6coDl807f6m5aoLw2wryriqYtvlN8e3rB_q907UkBQJtD27wB3i8WaSVofxcs8AhJfS6AKgj8XEexqjBsIL8OfxtzivPjPuVuZVJ5cu8dS5z3khVyQgmfOsjqykrM7CQkGBiER1Tpq6dKS68cwlDMt/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to imani, Heather U., Robert Bergeron, Amŷy, Eryn69 for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Take Care" (2011)
+
+
+
+
+Over My Dead BodyShot For MeHeadlinesCrew LoveTake CareMarvin's RoomBuried Alive (Interlude)Under Ground KingsWe'll Be FineMake Me ProudLord KnowsCamerasGood Ones Go (Interlude)Doing It WrongThe Real HerHYFR (Hell Ya Fuckin' Right)Look What You've DonePracticeThe RideHate Sleeping Alone[iTunes Bonus Track]The Motto[Deluxe Edition Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Take Care" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

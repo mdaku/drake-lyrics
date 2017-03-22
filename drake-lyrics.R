@@ -98,6 +98,9 @@ download_links <- function(links, new_dir="data", prefix=NULL, suffix=".txt"){
   file_names <- str_replace(links, "http://","")
   file_names <- str_replace(file_names, prefix,"") %>% str_replace_all("/","-") %>% str_c(suffix) 
   
+  # specific to the drake dataset
+  file_names <- str_replace(file_names, "www.azlyrics.com-lyrics-..-lyrics-drake","")
+  
   # file_names <- str_replace(links, "http://www.whitehouse.gov","") %>% str_replace_all("/","-") %>% str_c(suffix) 
   # We may have some strange file_names
   
@@ -115,12 +118,15 @@ download_links <- function(links, new_dir="data", prefix=NULL, suffix=".txt"){
   #This code chunk will scrape and output if the file doesn't exist already
   if (all(exists_logical)==FALSE) {
     no_exist <- links_list[!exists_logical]
- #   link_text <- map(no_exist, read_html) %>% map(html_text)
+    # The problem here is that this leads to a server overload
+    link_text <- map(no_exist, read_html) %>% map(html_text)
     
     for (i in 1:length(link_text)) {
-      message(link_text[i])
-      #      write_file(link_text[[i]], path = names(link_text[i]))
+      #      message(link_text[i])
+        message("Writing files")
+        write_file(link_text[[i]], path = names(link_text[i]))
     }
+      
   }  
   else {
     message("All new links have been downloaded.")
@@ -128,4 +134,26 @@ download_links <- function(links, new_dir="data", prefix=NULL, suffix=".txt"){
 }
 
 all_lyrics <- get_links(url="http://www.azlyrics.com/d/drake.html", ld="lyrics/drake/", next_text="Next", prefix="http://www.azlyrics.com/lyrics/")
+
+# We can get the first ten and then go from there?
+all_lyrics <- all_lyrics[100:150]
 download_links(all_lyrics, new_dir="data", prefix="http://www.azlyrics.com/lyrics/drake/")
+
+# Still having trouble downloading all of the lyrics - AZ tends to boot us out after downloading too many
+
+
+wc <- lex("wc")
+sent <- lex("dc",md="LSD2015.lc3")
+
+# Let's build the overall dataset
+drake_songs <- wc %>% left_join(sent, by="case") %>% left_join(read_delim("albums.tab", "\t"), by="case")
+
+drake_songs$sentiment <- drake_songs$positive-drake_songs$negative
+
+ggplot(drake_songs) + geom_point(mapping=aes(x=case, y=sentiment, color=album)) + geom_smooth()
+
+ggplot(drake_songs) + geom_bar(mapping=aes(x=album, y=sentiment), stat="summary")
+stat_
+# What we really want to do here is summarize by 
+mean(drake_songs$sentiment)
+# ggplot(data=drake_songs) + geom_bar(mapping=aes(x=case, y=sentiment), stat="identity", position=position_dodge()) + facet_grid(. ~ album)

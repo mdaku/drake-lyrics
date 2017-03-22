@@ -1,0 +1,291 @@
+DRAKE LYRICS - Let's Call It Off
+ArtistName = "DRAKE";
+SongName = "Let's Call It Off";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Let's Call It Off" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Let's Call It Off"
+
+[Verse 1:]
+Uh, when did you get like this
+Least you coulda done is gone an give me a warning
+I don't regret like this
+So I'll be right there when you wake up in the morning
+Saying, this just ain't my style
+You can't say you're happy either
+You don't even smile, for me[Chorus:]
+Did you agree, we should let it be
+And did you agree, it's a must,
+Let's call the whole thing off
+We used to had enough of us
+Let's call the whole thing off
+We used to had enough of us[Verse 2:]
+When you decided to knock on my door
+Did you remember what happened before
+The look on your face said you were expecting more
+But some things look better inside of the store[Chorus:]
+Did you agree, we should let it be
+And did you agree, it's a must,
+Let's call the whole thing off
+We used to had enough of us
+Let's call the whole thing off
+We used to had enough of us[Verse 3:]
+Leave me, leave me, I can't fuckin stand you
+Wish I had the courage to say everything I planned to
+My girlfriend, my girlfriend, call herself my girlfriend
+Tell me that we posed to be together til the world end
+But, ion really feel that
+I just really wanna turn the wheels back
+Give you all ya sweaters and ya heels back
+Convince you that time will heal that
+Uh, you look for reasons for us to argue
+I swear everytime I call
+You jus tell me how I don't call you
+Why you do that... do that... do that
+Yeah[Chorus:]
+Did you agree, we should let it be
+And did you agree, it's a must,
+Let's call the whole thing off
+We used to had enough of us
+Let's call the whole thing off
+We used to had enough of us
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_13052747/su_0/tr_aTfWg5vhHB4CaqO1r9IUIa7RBpPSwA0jtOWbyGLAtzSqbqSY7JJeiC8iHbJf5tlJrecppKTdWw5LhSLm9RHc8AP8ehED7m3fxV9dRktokVRAjmExQgKCBbrCcuF6q3BP7c2dK_K2foFRoO95XpBswn1skJFW8nhVZOjKbHRwrf5c0LD63E_cuEu4_qlxdtiVxZzwjvMRociyUsQgsL3sU6r2DsUi6-NFiG4O9vrFmImmaKdlp0apglWgIBxPxFgVZuVPEHdFJxrz8FXvMECZpwZQDqTMXaUO2fYXsGaiLx3OEq3z-iX5Bkyht7QVNs8K3X7R3Ug4TJQBBhueKw4LDA0I2m4X0HyG8fcmK2sM-wm4Grj_kIpk5cJG4Gc5lbZ9quAEDhJ7KNS_czI_804mkO8KWMtxS8r_WMGu2cqvH70/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Desiree for adding these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "So Far Gone" (2009)
+
+
+
+
+Lust For LifeHoustatlantavegasSuccessfulLet's Call It OffNovember 18thIgnorant ShitA Night OffSay What's RealLittle BitBest I Ever HadUnstoppableUptownSooner Than LaterBria's InterludeThe CalmBrand New[Bonus Track]Congratulations[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Let's Call It Off" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

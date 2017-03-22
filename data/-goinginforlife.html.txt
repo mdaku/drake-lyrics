@@ -1,0 +1,295 @@
+DRAKE LYRICS - Going In For Life
+ArtistName = "DRAKE";
+SongName = "Going In For Life";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Going In For Life" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Going In For Life"
+
+I'on think they really ready for my wardrobe
+I show up right before the store close
+And blow the fee from my last four shows
+I do one song and use four flows
+She use to be a Christian before...
+But now all she wanna do is shop for Christian Dior clothes,
+Like baby those are cute I adore those
+Me and the salesman build a rapport so
+He understands tha fact that I'm spending off shore dough
+Cash only transactions, homie,
+And please no receipts the feds like to explore those
+They can't audit if they don't know I bought it
+I been doin' this for years homie, thoroughly I've thought it
+Through, what it do, I am currently recorded on a track admitting most of my currency's imported
+We're too late now, too legitimate to hit 'em with
+Lawsuits even if they're crimes that I did commit
+Repeat offender, Anita Baker, playin' in the whip as they pull me over my sweet surrender
+I got a Jewish lawyer as my lead defender
+A mitchkeit as they say he's a legal bender
+And ATF is present every legal memeber
+The coalition, we so efficient
+You have to be invited or there's no admission
+We know tradition
+We spend money so don't try to compete if you're in no position
+I wish you would listen,
+I take you back to this trial
+Where I am about to be home again like New Edition
+My foot is just solely meant for this shoe it fits in
+Used to record in a basement that Rennie Grew was piffin'
+When pops turned over keys like a new ignition
+If Hov is Jordan, I guess I'm cool with Pippen
+'til I mention that I wanna play a new position
+No team playin', no screen settin'
+Because I wanna win games, coach I'm through assistin'
+The take over, the break's over, nigga
+And I'm a keep killin' em until the day that Drake's over
+The wait's over, the tape's coming
+They bullshittin' but I am equipped with great plumbing
+The human mentality's so eager to hate something
+I try to play it off like it ain't jumpin'
+And this the predicament that you found Drake in
+The condo that I just purchased sound vacant
+'cause I have just been sittin' in this cell
+Thinkin' what I coulda done to make my first video ground breaking
+And whenever I'm flowing on the mic,
+Aside from talkin' 'bout the d I'm throwin' in ya' wife
+I treat this one session as if it was my last
+And I pretend tomorrow is the day I'm going in for life, like that...
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_2105374/su_0/tr_-6haizlDchnQyMyt1xCZYI7ZhkIsyssKcPvNQnLN1EA0TR3uv0YUYw30lmA5ZeWiKWP6Epbnjn91lHI4JEiGEp0FJzlaEIHx0T0URlhyPmc1ba-zZmtpfMOql60_oT6Fjf4y1_v90BAK5j6mAldMg3YrG-etCZKYzrWEGLKtxIqhFKsxa8hPMUTXb4jM5Ifh__WYjzKyRz6_OYXnEfa-uJLr2ulZLJh685o8GGmEvu5TW2Yx6QBvp8PqnvukWmzsXJI8uxC99yu5HZlTWt5SSY7uMsT83sXQ4W8UKiWd4LFo93262jmrXBUt2J3vp-4d9YTHGbOvZVWrW5rtNcYBiIfe7P_CMmSe3f4kJQjMsydpiY07t4Pzzg4Xm1ZKv7I3/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Comeback Season" (2007)
+
+
+
+
+The PresentationComeback SeasonCloserReplacement GirlCity Is MineBarry Bonds FreestyleGoing In For LifeWhere To NowShareGive YaDon't You Have A ManBitch Is CrazyThe Last HopeMust Hate MoneyAsthma TeamDo What U Do (Remix)Easy To PleaseFadedUnderdogThink Good ThoughtsTeach U A LessonMissin' You (Remix)Man Of The Year (Remix)
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Going In For Life" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

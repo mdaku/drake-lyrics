@@ -1,0 +1,307 @@
+DRAKE LYRICS - To The Floor
+ArtistName = "DRAKE";
+SongName = "To The Floor";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"To The Floor" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"To The Floor"(feat. Rich Boy, Lloyd, Polow Da Don)
+
+[Intro: Polow Da Don]
+Yeah (yeah)
+Polow Da Don
+Ay tell the waitress
+I need a hundred bottles
+(LADIES!) Where the ladies at?
+Yo, a hundred bottles (ZONE 4!)
+Nah really, a hundred bottles
+Oh that trip to Miami wasn't nuttin
+That was just our first date baby![Chorus: Lloyd, Polow Da Don]
+Girl, do whatever you like
+It's your world, oh girl
+Tonight it's on me
+Baby tell me what you want
+We in the zone, gone off Patrón
+In the club, in the club, they playin her song
+That's when I slowly approach you like daddy what you know
+Told her girl (hold my drink) then she dropped it down low
+To the flo', to the flo', she took it to the flo'
+To the flo', to the flo', she took it to the flo'
+Get lower baby!
+To the flo', to the flo', she took it to the flo'
+Oh yeah
+To the flo', to the flo', she took it to the flo'
+Get lower, get lower, get lower baby![Rich Boy]
+Yo, yo, yo
+Ooh-wee, look how sophisticated you look in Louie
+Like Judge Judy I drop a [?] and do your duty
+Let's get some sushi, and just ski on the chatter hoochie
+Stop by the crib, come watch a motherfuckin movie
+I pop bottles with big girls and all the models
+When we leave the party solid bookers they wanna follow
+I know you got older man so tell me what I don't know
+I'm in my four-do', follow me and my partner Polow
+Your girls be all in your business so meet me later solo
+I'll do a promo, tourin and wearin Yokomoto
+I be ballin harder than motherfuckin Tony Romo
+If you worry about the size girl I got a jumbo[Chorus w/ Lloyd ad libs][Drake]
+Okay, okay, sittin in the owner's box
+And in the Caribbean twistin off Corona tops
+I'm sittin down hittin half-court floater shots
+Bitches takin pictures because every night's a photo op
+Yeah, and nothin has been photo-shopped
+I say I'ma buy the bar and they say "Nigga no you're not"
+I be satisfied with the percentage that my lawyer got
+Makin other people rich is somethin I enjoy a lot
+Uhh, can you tell even when your girl won't
+I'ma still be feelin me even when the world don't
+Shit just change forever, first I get a lot of dough
+Then I end up with your woman, that's just how it's gotta go
+Yeah, and I could tell her things to treat her right
+You could get whatever baby, 'member you and me tonight
+Throw the pussy at me, guarantee that you won't see the strike
+I'ma hit it hard, you gon' think you Derek Jeter wife
+Uhh, tell me, how does that sound?
+I could get it ass up or with your back down
+Spit that ahh-sookie-sookie in your ear
+It's the nigga Rich Boy and the "Rookie of the Year"[Chorus w/ Lloyd ad libs][Outro: Lloyd]
+Get low, g-g-go girl [6X]
+Get low get low get low get low
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_7805235/su_0/tr_sv1e5Hr-OojF37bYz1ui8vFqGxjPqXnGNAOGUrTFA6Moy61oSv1xVwF5ae6W4b1h7i7eGfILnzVEEFTAJ5b8_CrtPWzzF5sa1GfOUpEhWpu-GXm8YIjXkavEIZYiJOlf69yR7JeQlrIuf1-V7iwKOskcOEegr5Tvg2a0bVhDjdNtGZfwY182ntu4jcO9B-CTzbrhnPH_unNg-SY6ukeEtVchIB15YXOPdQVWUGyJgzx60myLshc0MZJ6DEeE_lKBQwZXZyPxISbfcpIO69zaFdVxUaUyv7KNKtPhoXjWoiwrQldsKe2vD2HPuAMDsGlM6uv7-Bwv73C12OZgQ_HbE1O1-OZbH9nFjoFP7P7WrkXBdcev4h-cl21lgb1NahTk/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Young Sweet Jones" (2010)
+
+
+
+
+Messages From YouI'm Ready For YouRight Above ItDo It AllParis Morton MusicThe Resistance (Remix)Still Got ItPut It DownIn My BusinessYou Know, You KnowTo The FloorGreatness
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "To The Floor" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

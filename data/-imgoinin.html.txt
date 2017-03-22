@@ -1,0 +1,317 @@
+DRAKE LYRICS - I'm Goin' In
+ArtistName = "DRAKE";
+SongName = "I'm Goin' In";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"I'm Goin' In" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"I'm Goin' In"(feat. Lil Wayne, Young Jeezy)
+
+[Lil Wayne:]
+Yeah uh huh um uh huh
+Hello motherfucker hey hi how ya do'ern?
+It's weezy f baby come to take a shit and urine on the toilet bowl bitches pussy ass niggas
+Stomping on this beat like a motherfucker sigma
+Bad to the bristle
+Hat to the rizzle
+I'm so official all I need is a whistle
+bitch named crystal
+Let her suck my pistol
+She opened up her mouth
+And then I blow her brains out
+You ain't met a nigga like me
+You probably never will
+Riders rollin' with me like 11 wheels
+Find out where you livin'
+Kill you in the kitchen
+The feds trying to clip us but we ain't even trippin'[Chorus:]
+I'm going in [x4]
+And I'ma go hard [x4]
+Bitch I'm going in [x4]
+And I'ma go hard [x4][Drake:]
+First off you know what it is if you heard drake
+Making hoes wobble like a bridge in a earth quake
+Never see me out cause I live in my work place
+I give you the business so button up your shirt straight
+Look at where I landed
+You would think I planned it
+I'm just doing me and you can never understand it
+Chicks get hammered
+Big dick bandit
+Money flowing like a slit wrist
+No bandage
+Blowing purple clouds nigga
+I'm so sky high
+I ain't cutting anybody slices out of my pie
+Out of this world though
+I'm so sci-fi
+And I don't sit still I keep it moving like a drive-by
+I just tell the truth and so I'm cool in every hood spot
+Twenty one years and I ain't never met a good cop
+Me and Wayne lean like Kareem doing hook shots
+Cover me I'm going in to buck you when the hook drops[Chorus:]
+I'm going in [x4]
+And I'ma go hard [x4]
+Bitch I'm going in [x4]
+And I'ma go hard [x4][Young Jeezy:]
+Hold up wait one motherfucking minute
+Its the El capitan I got motherfucking lieutenants
+If I said I'm going in then I motherfucking meant it
+An if I brought in the club then Imma motherfucking spend it
+Cost a few hundred bands an I'm motherfucking in it
+No need for a room cause you know I'm fucking in it
+She acting like she not but she know she fucking wit it
+She said she seen it all I said "No you fucking didn't!!!!"
+You ever bust 10 nuts in a two seater!?
+She said "I can't feel my legs" I'm like "Bitch, me neither"
+I'm going in
+Where should I begin?
+I don't even know maybe where my blunt ends
+An Imma be a legend even when my life ends
+An Imma be a legend even when this night ends
+Til I do my thang, hop up out it like biem
+Bitch I said I'm in so I'm nothing like them[Chorus:]
+I'm going in [x4]
+And I'ma go hard [x4]
+Bitch I'm going in [x4]
+And I'ma go hard [x4]
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_13517520/su_0/tr_B7SFDxDGOvIKMUJS-dIDx1kQZBmhIOzWVS_62onEviPEayZx5yJzVfR3xH4kYiVrzpr64yJC3RwmGkMG2VhGzwnjWjfJryYKBDtu_yBgWbpCSVhp9l-Ih8hIW7g3hw-vZLtNrCwwlTKoQLchEyWdBIXbBgkXH8FtjmyUk5AYA-gHT5OpR7GtJw9T90l25JtwGbhqqVlXIr14KSQl_0_jCKzWBXZ3TmrTmCmSNnxc55s57BoAcbHQHbjC0ddPGM3UjQXiZltuw857Gx5qzrbShY6rc5aLZf5taL1k5NA4v2rI77crXb8eTsTz9_z8SBbVrvUQfI8mZ2IrIYshkl-oZZvHO_sJGV5zi7lHyAOyz7eJDLB5AO9GaMSby0gMRn4-/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to monica, Erik Montano, garza for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Khari Cain, Aubrey Graham, Dwayne Carter, Jay Jenkins
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "So Far Gone" (2009)
+
+
+
+
+HoustatlantavegasSuccessfulBest I Ever HadUptownI'm Goin' InThe CalmFear[from "So Far Gone" EP]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "I'm Goin' In" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

@@ -1,0 +1,303 @@
+DRAKE LYRICS - All This Love
+ArtistName = "DRAKE";
+SongName = "All This Love";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"All This Love" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"All This Love"(feat. Voyce)
+
+Southern Smoke!!![Intro: Voyce]
+This another one from your boy V-O
+I'm gon tell the people, that we locking this down
+This another one from your boy V-O
+I'm gon tell the people, that we locking this down[Chorus: Voyce]
+I never dreamed that you would be so good to me and I know
+I don't deserve, All this Love (loving me)!!
+I can't believe that it's just really you and me, and I know
+I can't contain myself, All this Love (loving me)!![Verse 1: Voyce]
+Girl, I've been thinking about the way, that you love me every day
+And I want to know, if You Feel The Same Way!!
+Because I'm in and out of town, that's just how I got's to get down
+But you understand, that's why I'm your man!![Chorus: Voyce]
+I never dreamed that you would be so good to me and I know
+I don't deserve, All this Love (loving me)!!
+I can't believe that it's just really you and me, and I know
+I can't contain myself, All this Love (loving me)!![Bridge: Voyce (Drake)]
+UH, UH, UH (UH, V-O)
+UH, UH, UH (Yeah man!)
+YEAH YEAH (Haha. It's just me and you girl)
+YEAH YEAH (Keep rocking to this beat)
+UH, UH, UH (You want me to drop to this beat?)
+UH, UH, UH (HO!)
+YEAH YEAH (Let me get a little gospel on them. Yeah. Uh)[Verse 2: Drake]
+They say he wanted the bounce back
+I can make them easily admit that the bounce back
+Without knowing exactly where me accounts at
+Yeah, you best believe
+That I often tend to surpass what the rest achieve
+So, they don't like me
+They throw parties, and yet they never invite me
+I can't lie, sometime it bother me slightly
+Either way the true fans yell
+I appear calm, and it's obvious of who can't tell
+And no, this ain't Blu Cantrell
+This is like perfection, though we both got the light complexion
+Couple things I do damn well,
+And the way that I Jack son, you figure Drake knew Sam. L (Samuel Jackson)
+I'm for real though
+I'm from Memphis, I'm often labeled as Trill so
+They stay kicking it with me like a field goal
+See I'm humble, but I live fame
+For more deals on the table than abridge game. Ahh[Chorus: Voyce]
+I never dreamed that you would be so good to me and I know
+I don't deserve, All this Love (loving me)!!
+I can't believe that it's just really you and me, and I know
+I can't explain myself, All this Love (loving me)!![Bridge: Voyce]
+Even when the sun don't shine, I know you're my sunshine
+And even if the sun outside, we can anything baby
+I need to feel you next to me, You want to feel me next to you
+We can do anything you want to do
+Tell Me the Next Morn Baby!!![Chorus: Voyce]
+I never dreamed that you would be so good to me and I know
+I don't deserve, All this Love (loving me)!!
+I can't believe that it's just really you and me, and I know
+I can't contain myself, All this Love (loving me)!!
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_7816043/su_0/tr_CcnC4DTpCEnWfhtQ4VbeqJzZHH4fPopn-55fTUPp87MnpBcV7Q0T1x5TDOwHQ39yG6GPKQmHsv3kg8Lz1e12BMR8U76Lp9-mJlodyvRwx3bXcLG-GLvPfKdO0xn3pllYhsSX_L3gGwhkPRETiMVh6aHCAzkK68j8kdS0P3rDgJnd6RzaQxeuN7YKODL0CQCaiXX5WZHtR0hq_GIB0vz-8GM91jAY5N6bJ4645uAoBg5yf273OZH52ZwzJtx-fGcYMOhX9Vj_01Q9KYaTQajGlooUKK32kgVuL-lrwVoikAZphbBVZOaafRV4oE8MgrK_YvOZOnwDOyflWqUKqmT-yUBxvX_Sxsx2UPH84XnmHT8M6sCHd6ZFr1gk51t4_eOk/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Room For Improvement" (2006)
+
+
+
+
+IntroSpecialDo What You DoMoney (Remix)A.M. 2 P.M.City Is MineBad Meanin' GoodThrill Is GoneMake Things RightVideo GirlCome WinterExtra SpecialAbout The Game (Remix)All This LoveA Scorpio's MindS.T.R.E.S.S.Try HarderKick, Push (Remix)
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "All This Love" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

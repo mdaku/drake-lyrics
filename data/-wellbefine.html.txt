@@ -1,0 +1,312 @@
+DRAKE LYRICS - We'll Be Fine
+ArtistName = "DRAKE";
+SongName = "We'll Be Fine";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"We'll Be Fine" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"We'll Be Fine"
+
+[Verse 1]
+Yeah, never thoughts of suicide, I'm too alive
+But I still treat it likes it's do or die
+Even though dying isn't in the plans,
+But neither was making it and here I am
+In the presidential do you like your new room?
+Always presidential and tonight's no blue moon
+Since I saw Aaliyah's precious life go too soon,
+She deserve the credit for how I'm about to get it
+That's why I got a new dumb thing moving through the street
+Got a new condo, move it to the beach
+Heard Nicki just bought a brand new crib
+Goddamn man she's beauty and the beast (Lord)
+Seems like yesterday that I was up and coming
+Still so young that I ain't had enough of nothing
+The fam here, the drink here, the girls here?
+Well fuck let's get it then[Hook]
+I'm trying to let go of the past
+Should we make this one a double?
+You ain't even gotta ask, ah
+Because it's hard to say no, say no
+Yeah it's hard to say no
+Are you down, are you down? Yea you all the way down, every time
+Am I down, am I down? Yea I'm all the way down, we'll be fine
+Are you down, are you down? Yea you all the way down, every time
+Am I down, am I down? Yea I'm all the way down, we'll be fine[Verse 2]
+Used to make us proud we had dreams of getting bigger man
+Loved you until now, but now I'm the nigga man
+You keep talking that "You was this and you had this
+And you deserve some fucking credit how did anyone forget it."
+Got a show up in your city, yo girl is in the line
+And the line around the corner it's my motherfucking time
+You should take it as a sign, man I got it right now.
+I wouldn't doubt it cause these bitches all about it right now
+Let's be real about this shit, can I take you home?
+Or come to where you stay? Do you live on your own?
+I heard you got your ways, I never would have known
+She said "you're such a dog" I said "you're such a bone."
+I've been everywhere, where you know me from?
+These days women give it to me like they owe me one
+But they crave attention though they always saying "Show me something."
+But girl you ain't the only one that's trying to be the only one
+At least I admit that, if you get that, and you with that
+Then fuck let's get it then[Hook]
+I'm trying to let go of the past
+Should we make this one a double?
+You ain't even gotta ask, ah
+Because it's hard to say no, say no
+Yeah it's hard to say no
+Are you down, are you down? Yea you all the way down, every time
+Am I down, am I down? Yea I'm all the way down, we'll be fine
+Are you down, are you down? Yea you all the way down, every time
+Am I down, am I down? Yea I'm all the way down, we'll be fine[Outro: Birdman]
+Yeah, Drizzy. Yo turn nigga!
+Take care of the business nigga (shine on these niggas)
+Give these niggas the business nigga!
+Kill spray anything in the way. nigga, fuck em! We don't love em!
+Yeah, it's just that uptown gangsta shit
+Toronto, stand up for one of the realest niggas, Drizzy, with the realest flow
+Toast to this gangsta shit. OVO-YMCMB
+You understand me?
+Playing with these motherfucking millions like they ain't nothing
+Rubber band stacks. That YMCMB shit nigga. Flashy lifestyle
+One hundred
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_6968762/su_0/tr_XvJi4qIBO5eeoTQvYf9m3Sf-SsWqp4UnW4jox0Mn6HQ4KxO-Wot30Hj_8WPuAv3n3sY4J7rfIGLO4HI9a_JnbqkY8SM49JFvnIyv2g5W75T-liSv1ES7HcVyYk2lxg7QLjdItvLkZ99Rx6UsQimlAkiMIR1NlA8sPJ3yIkEO_JDVxO9H12cws-Z2JWGaQx5G5CR0hH1Q8Xvba_6MBEz-FXHsxFe6vH0DfA5Id5BoGrRm074471Km8nXwu8Bz9lxV3FWlVJY5fTs9WCSWA0X-23TLxBuOeeX264MfIMKJKFac7t6XpAlF7NBqzOhkrh5R6yVUqB4-79pHfONwlsAkmkhmyk8yYGD-r2QrCsNX9VSx5KkoRzaieVoLOuChz19X/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): Anthony George Palman, Aubrey Graham, Bryan Williams, Tyler Williams, Noah Shebib
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Take Care" (2011)
+
+
+
+
+Over My Dead BodyShot For MeHeadlinesCrew LoveTake CareMarvin's RoomBuried Alive (Interlude)Under Ground KingsWe'll Be FineMake Me ProudLord KnowsCamerasGood Ones Go (Interlude)Doing It WrongThe Real HerHYFR (Hell Ya Fuckin' Right)Look What You've DonePracticeThe RideHate Sleeping Alone[iTunes Bonus Track]The Motto[Deluxe Edition Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "We'll Be Fine" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

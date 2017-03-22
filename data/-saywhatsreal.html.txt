@@ -1,0 +1,321 @@
+DRAKE LYRICS - Say What's Real
+ArtistName = "DRAKE";
+SongName = "Say What's Real";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Say What's Real" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Say What's Real"
+
+Why do I feel so alone
+Like everybody passing through the studio is in character
+As if he acting out a movie role
+Talking bullshit as if it was for you to know
+And I don't have the heart to give these bitch niggaz the cue to go
+So they stick around, kicking out feedback
+And I entertain it is if I need that
+I had a talk with my uncle and he agreed that
+My privacy about the only thing I need back
+But, It's hard thinkin in polite flows/
+When Stephano Polato suits are your night clothes
+And Jordan sweat suits are you flight clothes
+And you still make it even when they say your flight close
+Eyes hurting from the camera phone light shows
+Life was so full, now the shit just been lypo'd
+Always said I'll say it all on the right track
+But in this game you only lose when you fight back
+Black diamond bracelets, showing you the basics
+I can't live and hold the camera someone got to tape this
+I make hits and like a bitch that's married, I ain't miss
+24 hours from greatness, I'm that close
+Don't ever forget the moment you began to doubt
+Transitioning from fitting in to standing out
+Los Angeles, Cabanas, or Atlanta South
+Watch Hov's show, embarrassed to pull my camera out
+And my mother embarrassed to pull my Phantom out
+So I park about 5 houses down
+She say I shouldn't have it until I have the crown
+But I don't want to feel the need to wear disguises around
+So she wonders where my mind is, account's in the minus
+And yet I role around the fucking city like ya highness
+Got niggaz reacting without a sinus
+Cause what I'm working with is timeless
+And promoters trying to get me out to they club
+And say I have fun, but I can't imagine how
+Cause I just see my ex girl, standing with my next girl, standing with the girl that I'm fucking right now
+And shit can get weird, unless they all down
+And so I stay clear, we from a small town
+And everybody talks, and everybody listen
+And somehow the truth just always comes up missing
+I've always been something that these labels can't buy
+Especially if they trying to take a piece of my soul
+And Silvia be telling Taz damn Drake fly
+And he just be like silly motherfucker I know
+That was your bad, how can you pass up on 'em
+He just take them records and he gas up on 'em
+Wayne would probably put a million cash up on 'em
+Surprised no one ever put your ass up on 'em
+Oh they did Po, at least they tried to
+And that's what happen when you spitting what inside you
+But slip up and shoot the wrong fucking video
+And they think they can market you however they decide to
+Nah, before they told me to 'do me'
+And don't listen to anybody that knew me
+Cause to have known me, would mean that there's a new me
+And if you think I changed in the slightest could have fooled me
+Boy, and to my city I'm the Two Three
+Drug dealers live, vicariously through me
+I quit school and it's not because I'm lazy
+I'm just not the social type and campus life is crazy
+Understand, I could get money with my eyes closed
+Lost some of my hottest verses down in Cabo
+So If you find a blackberry with the side scroll
+Sell that motherfucker to any rapper that I know
+Cause they need it much more than I ever will
+I got new shit, I'm getting better still
+Little niggaz put my name in they verses
+Cause they girlfriend put my ass on a pedestal
+Future said cause it's Ye shit you better kill
+And I think this got that making of a legend feel
+Problem with these other niggaz they ain't never real
+Yea, it's all I can say
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_6995130/su_0/tr_a8z5iDd38zgaKWWnoTNL9lV204VJoqSOGtNEeA9RvaJUiGsFYxUawlXq-_dUDGk_aQdr_R4NUSCNxZU4imudbtYi707_LrjOtRd-IG4-DST1Jvv0lb-oEL9nfTBuANA8PkugAmAMZsTnoLHgLLXqBhU9uAMTIvHBy9zqn4wD6D-sC-nZdnbR6b6gGaYrfkbPQmMZVbPy7RkEhl6gdTE5OABdFrMTQJQBelX5JyFBFwM33DcicnmKN5PtDkIkJeH0qXG3ybhh06fxwlZQPTbizoUpmd1TDDNfm4JVM7nL0pXxBjsNqAgBWHiz6sOp0PHbHeI_eiSneCM6BLPz8GWpn93ggpQ6ZXkddEqV66Q1hXu9ROJ5Cfo9amCZQ_-WMNZF/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Desiree for adding these lyrics.
+Thanks to Kayye, Ronique for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "So Far Gone" (2009)
+
+
+
+
+Lust For LifeHoustatlantavegasSuccessfulLet's Call It OffNovember 18thIgnorant ShitA Night OffSay What's RealLittle BitBest I Ever HadUnstoppableUptownSooner Than LaterBria's InterludeThe CalmBrand New[Bonus Track]Congratulations[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Say What's Real" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

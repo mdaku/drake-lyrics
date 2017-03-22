@@ -1,0 +1,298 @@
+DRAKE LYRICS - Bitch Is Crazy
+ArtistName = "DRAKE";
+SongName = "Bitch Is Crazy";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Bitch Is Crazy" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Bitch Is Crazy"
+
+Aww man
+Ho! Yes!
+Hahaha
+Yea... Can ya'll hear me out there
+It's a lovely night tonight ain't it
+Yea I know
+I know what they thinkin they, they hear the beat they aleady scared
+You know how I get down
+But look I'm just gon keep it real
+I'd like to know if there is a chemical
+Imbalance in your makeup
+Yea
+(Gotta be something wrong with you baby)
+Sometimes I wonder... wonder if you plan
+Half of this shit before I wake up
+(Ohh Yeah)
+Callin my ex-girl or e-mailin my mama (Damn)
+You're the only one
+That's causin me this drama
+And then expect favors (Yea)
+When you come in town
+And I know if I see you garaunteed it's goin down
+Cause
+To stay this girll (Ho!)
+You couldn't pay me
+I respect a woman
+But this bitch is crazy (Hahaha)
+This bitch is crazy (Yea)
+This bitch is crazy
+I respect a woman (I do)
+But this bitch is crazy
+She don't even know
+That's the craziest part rite?
+She just oblivious to the whole shit like
+And you know like I was sayin sometimes
+I gotta get my R&B on you know
+I wanna wear the wife beaters
+With the slit at the top so
+I can tear it easy and all that
+I wanna sing in the rain girl
+You know what I'm talkin bout
+Yea
+I need a R&B name too like uh... like uh... like
+I don't know I'll think of it
+Hey!
+Hahaha
+You crazy man for real
+Ho!
+Oh well nigga fuck that hoe!
+Goddamn
+I said it without sayin it man
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_2105354/su_0/tr_8X2ukNlYxhM3Ze1SkMdBqnz1AKGpP00r0EWwjha1Ce6YLSHIkKum3QbZvRcydF07yTUvG6qbSvAWXDqoG4k4dhpiqohcpAGAQ1fs_9FPJtK2hmWXGlF_vX5z1AidJ_D-eAz4gOIgicSoqe32WU_08a60NS4FKjTxXK-Em7ykyt0CCj9BzmfrinIro_jDHgqv7FCsX6_cfZtEvDFKN9rHiS4aCVZNRmAKV_uoj1vrn8UIvxLrf9r5NFhIWo0Y3cuY0FPJfoC4mcw0urSJ2vfmp3mKms7QGBn-RYnGdTrmryrm6-MvpWa6C7up8KjqPQ0R0c4CcWH8SlMKQ_zc2ylYRwunEKd8Oh5Rk8CCl_yEvduVbT31hMlB-wjCnp54Q6tl/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Comeback Season" (2007)
+
+
+
+
+The PresentationComeback SeasonCloserReplacement GirlCity Is MineBarry Bonds FreestyleGoing In For LifeWhere To NowShareGive YaDon't You Have A ManBitch Is CrazyThe Last HopeMust Hate MoneyAsthma TeamDo What U Do (Remix)Easy To PleaseFadedUnderdogThink Good ThoughtsTeach U A LessonMissin' You (Remix)Man Of The Year (Remix)
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Bitch Is Crazy" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    
