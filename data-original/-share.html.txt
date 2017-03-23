@@ -1,0 +1,260 @@
+DRAKE LYRICS - Share
+ArtistName = "DRAKE";
+SongName = "Share";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Share" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Share"
+
+[Chorus]
+Take what you want, take what you wa-ah-aha-ant 
+Take what you want, take what you want
+But, you gotta share it with the world [X3]
+Lately I've been murdering and avoiding conviction
+This shit is like an addiction conflicting with what I do
+Shout out to K Davis and my connect up at Avis
+'Cause every weekend I'm rollin' out stuntin' in somethin' new
+Fortunately I am at an elevated level
+I'm celebrated at home and I am high above it all
+But apologies to my fans that be super conscious
+Just wait 'til I get my money right and I am going to ball
+Ball ball[Chorus]
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_8242269/su_0/tr_uAkzlPXZ1lFY16IGmWwv-mPnsrwM3Fip087Uzm7G112x64fmMcrx37wheyZ8fu8HnFhjMHasw92pBcq1hG2xPWj7ayXLDIBWjRx_IDf7SkdVgDsHIPHWzIeELW6sTxxA8yfHYNAjCilwxDgq6F4LGnVZNJVm6BX5H8QANpqxXqXEAh4ig4F439vVQl9sNQFregmVcnb0z6VVAb10NKa_bWSk4BA4zgfB-1NbV_6QDat2YRYHD7FhW8uZ_p229tJv3ZYFNOTpjeJrJRA2lXshGV4jT6kInt7ykrqIqFoOZ72wV7E9BofxRAJw3FAJrlGIKFfD7z3Shbcl4o-QsgDtgw/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Comeback Season" (2007)
+
+
+
+
+The PresentationComeback SeasonCloserReplacement GirlCity Is MineBarry Bonds FreestyleGoing In For LifeWhere To NowShareGive YaDon't You Have A ManBitch Is CrazyThe Last HopeMust Hate MoneyAsthma TeamDo What U Do (Remix)Easy To PleaseFadedUnderdogThink Good ThoughtsTeach U A LessonMissin' You (Remix)Man Of The Year (Remix)
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Share" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

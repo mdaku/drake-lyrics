@@ -1,0 +1,315 @@
+DRAKE LYRICS - Draft Day
+ArtistName = "DRAKE";
+SongName = "Draft Day";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Draft Day" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Draft Day"
+
+Draft day, Johnny Manziel
+Five years later how am I the man still
+Draft day, A. Wiggins
+Fuck that other side bitch we stay winnin'
+Aww man, you know I had to do it for you
+You know I had to do it for ya
+Yeah, suits and ties yelling out "pay the guys"
+Man I had to do it for ya
+You know I had to do it for ya
+You know I had to do it for ya
+Aww man, aww man, aww man, man
+You know I had t–
+Sometimes I laugh with God about how you can't stop me
+I'm his darkest angel probably but he still got me
+I'm gettin' mine but still I better lives
+And shit I set aside to make sure my people are gettin' by
+Brunch with some Qatar royals and my cup is all oil
+You know it's real when your niggas will take the fall for you
+All loyal so you keep egging me on
+And we gonna have to crack a shell just to prove to you, you ain't hard boiled
+Last night I tried some raw oysters
+Man that boy growin' up quick, that boy know he the shit
+That boy singin' on every song when he know he can spit
+That boy manifested it, that boy knew it was written
+That boy did it on purpose
+That boy know that they shittin' on you, and they can't get past you
+You should've followed all my moves, you won't realize 'til after
+And if I left shit to chance I would've picked a name like Chance the Rapper
+No offense cause I don't know that nigga
+I'm focused on makin' records and gettin' bigger
+Just hits, no misses, that's for the married folk
+Tell 'em fix my suite up cause I'm comin' home
+I heard they talkin' crazy, I was out of town
+You know they love to pop all that shit when I'm not around
+But when I'm here, not a sound
+That'll make me snap, jot it down
+Go in the booth and lay a body down
+Know some Somalis that say we got it wallahi
+Get us donuts and coffee, we'll wait for him in the lobby
+And I gotta tell him chill, Sprite got me on payroll
+Let that man live, they say "Okay if you say so"
+See whatever I say goes
+I play like I'm on 'roids, no Canseco
+No Oakland A's though, shout out the Bay though
+I think I'm on my eighth flow, just watch me paint flow
+We all do it for the art so I can never hate though
+Signin' off on more deals than a lawyer with a heavy case load
+How the game turn into the Drake show?
+Dog, what the fuck happen to so and so, where did they go?
+They too worried 'bout bitches and fashion, they go missin' in action
+And then you never notice they missin'
+On some Hunger Games shit I would die for my district
+Jennifer Lawrence you can really get it
+I mean forreal, girl you know I had to do it for yah
+You know I had to do it for yah
+You know I had to
+Oh wait sidebar, left some beat at the end
+So that all of you fuck niggas could loop it and get your lies off
+Draft day, Johnny Manziel
+Five years later how am I the man still
+Draft day, A. Wiggins
+Fuck that other side bitch we stay winnin'
+Aww man, you know I had to do it for you
+You know I had to do it for ya
+Yeah, suits and ties yelling out "pay the guys"
+Man I had to do it for ya
+You know I had to do it for ya
+You know I had to do it for ya
+Aww man, aww man, aww man, man
+You know I had t–
+That’s why I don’t read the news, it’s garbage
+And the editor that wrote the thing, he’s garbage
+Got guys on my back about schedule, saying it’s too tough
+Well guess what?
+It’s Division-1 football!
+It’s the SEC!
+Heck, you pledged, didn’t ya?
+Go play intramurals, brother
+Go play intramurals
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_9722119/su_0/tr_YesLvp0wv8bNPWUzJ-EqT9ZOcEDyyRAB0EbCecy5EZiGsOqttsBrag4uuH0Bw4ALfGPdCEmI57DOSViyfMui6AO2DPPbIFz7YpzPFcnDuaoBi4uVnKcVRBk8V6Ln-d-V85mJR4-5fW8lAzGwgBWZAC66WPo2j2JGPuhxtiCeCvoJTbRJOqAyAE6IOqLDJIfUfPUJXSW9BKFP7x-FuerwHPvL5ZCHlNqHMJf1vN-6gspEh9p80IbbqLg3fsB_Ln1MPsyX_WCJZ2XnRxpx20bqSfLFlqInYFVNuOz2VWsAD5xTli_Vi4vAstmAoEneK-ne8bF8WMEindKP1CBHPV4WHw/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Draft Day" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

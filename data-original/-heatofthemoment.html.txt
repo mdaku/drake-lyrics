@@ -1,0 +1,277 @@
+DRAKE LYRICS - Heat Of The Moment
+ArtistName = "DRAKE";
+SongName = "Heat Of The Moment";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Heat Of The Moment" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Heat Of The Moment"
+
+All the school kids are so sick of books and learnin'
+They don't read anymore, they don't even read anymore
+They just wanna be like all the rappers that I can't stand
+Niggas we don't need anymore
+All the niggas we don't need anymore
+And all the cops are still hangin' out at the doughnut shops
+Talkin' 'bout how the weather's changin'
+The ice is meltin' as if the world is endin'
+She asked me
+"Who are you gonna be when it's all over? When it's all over?"
+She asked me
+"Who are you gonna be when it's all over? When it's all over?"
+I don't wanna think about that right now
+Heat of the moment
+Heat of the moment, girl, heat of the moment
+I ain't even got a strap if you think we really need one I'm on it
+The last man fucked up, I'll take it since he doesn't want it
+Everything straight in the heat of the moment, heat of the moment
+What are we even doing?
+Ridin' clean
+With you on my mind and I'm thinkin' dirty things
+Yes Lord, yes Lord, yes Lord
+I've seen some things
+I wish we had met when I was in my teens
+Yes Lord, yes Lord, yes Lord
+Cause these days I only know conditional love
+I'm not used to settlin' down
+I'm too used to switchin' it up, oh
+And she says, "you don't know how good it is to be you cause you're him"
+And I say "well, goddamn"
+Then ask myself
+Who am I gonna be when it's all over? When it's all over?
+Who am I gonna be when it's all over? When it's all over?
+I don't wanna think about that right now
+Heat of the moment
+Heat of the moment, girl, heat of the moment
+I ain't even got a strap if you think we really need one I'm on it
+The last man fucked up, I'll take it since he doesn't want it
+Can't think straight in the heat of the moment, heat of the moment
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_5697807/su_0/tr_dBqJYW1vRUhd56Fas5FJzr44psTZjx24YJU4uGusqqtnFN7O89fMUtkkx4yQiJIBa128qbk5t8HZm6qQLAVUtznsfo7QC8ETfR6wVdTWOzcVAOyhry4mVbxfEQk6iWiRUnqjb_YLpHIP9ZUzMMHw4riOgiA6yz8ZsGsMLmfcOzwEcCkFj1F9mRoAC5FEOg1-PG7pc0JPtZc8rgfsJwpZsmMAi2DkRru6zhvs5BqW5pPA5sga2yjl4PyBBivpJmmR0EsaZlBMk93y5FrZcK9Vjj05hrzMELKMjEuXO3dQCDqwneaTwtAt4bLfixXVI2PC4QCmGiGodw8b4d_zEzkgZhj8MW0HwiAqnx8aV7UITrcyLWoWogpd30jBay40lljK/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to wilson maja for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Kenneth Edmonds, Antonio Reid
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Heat Of The Moment" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

@@ -1,0 +1,303 @@
+DRAKE LYRICS - 6 God
+ArtistName = "DRAKE";
+SongName = "6 God";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"6 God" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"6 God"
+
+Rrrr Ting
+I'll admit it, I'll admit it
+Watch your motherfuckin' tone boy
+Get hurt boy
+Aww here go another mo'fucker that don't understand the concept of puttin' money first boy (first)
+I'm 'bout to hit you with the work boy (work)
+I'm 'bout to hit you with the work boy (work)
+I hate comin' through stuntin' on niggas that I know, ahh that's the worst boy (worst)
+I'll admit it, I'll admit it
+You haven't been a man for like a minute
+I told you that I'm in it for the long haul
+You can really get the business
+I'll admit it, I'll admit it
+Rolling swishers hittin' swishes
+Got me feelin' like a ball hog
+I don't pass 'em when I get it
+I'll admit it, I'll admit it
+You too worried 'bout the bitches
+I got one girl, and she my girl, and nobody else can hit it
+She'll admit it, she'll admit it
+She ain't fuckin' with you niggas
+And just like every single other thing in my life
+You can have her when I'm finished
+I hear the talk on road is I'm the shit boy
+Phone call back home, shit is hot up in the 6 boy
+Shit hot up in the 6 right now shit hot up in the 6 boy
+Shit is hot up in the 6 right now
+Come see us and get it fixed boy
+Black Benz on the road boy
+Already had a Rolls Royce
+Sold a couple Bentley last week, them were my old toys
+I give a fuck about old boy
+I give a fuck about his squad boy
+I give a fuck about your mob boy
+I'm the real 6 God boy
+I'm about to say a true thing
+I'm about to say a true thing
+You was poppin' back when Usher wore a U-chain
+God damn you changed
+I put it on 'erything, it's a err ting
+It's a OVO come through murk things
+I know you heard things
+Bitch I know you heard things
+Yeah, I know you heard things
+I'm not new to this
+Coming from the motherfucking 6 side
+I'm not new to this
+Niggas wouldn't make it on this side
+I'm not new to this
+I'm not new, I'm not new
+Yeah, I know you heard things
+Nobody really likes us except for us
+Yeah, all I ever needed was the squad so that's what's up
+Yeah, my sound got the whole city a way right now
+So I don't give a fuck about what anybody sayin' right now
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_16316940/su_0/tr_nVfccsAIJels2ScKBO9QeXDukw8PLy8yY4ULbIKYV7zkk5IZfnk3YaQWoLlF00E5t1WIN2aCdXZvaQVnMzKtJFCPgAL2bQIjRIe-tjGAU1St6-cYrPpqoJ5nKGCGSNj58RbZ5NnlsOXO-vGZDK9pBs01OxBc5EZsLLd12dR4Z70vQRFXn2XP0IzotYZDAhb6TWgwLZEUiK0oiqelkEz3bzJxAXon_nixWXZ9bKveQWePZ2kY7Og0UI8RbZ4I2l6Y1JxDDwClPD0OX08T7SKnPognvdNqIR8G252YprWdmKzm279zWNH8KEHJyySHXWVgKxD-sRrXH235FdZ8KSxMZg/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): Aubrey Drake Graham, Matthew "Boi-1da" Samuels, Joshua "Syk Sense" Scruggs, David Wise
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "If You're Reading This It's Too Late" (2015)
+
+
+
+
+LegendEnergy10 BandsKnow YourselfNo Tellin'Madonna6 GodStar67PreachWednesday Night InterludeUsed To6 ManNow & ForeverCompanyYou & The 6Jungle6PM In New York[Bonus Track]My Side[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "6 God" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

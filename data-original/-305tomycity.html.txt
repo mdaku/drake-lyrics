@@ -1,0 +1,316 @@
+DRAKE LYRICS - 305 To My City
+ArtistName = "DRAKE";
+SongName = "305 To My City";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"305 To My City" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"305 To My City"(feat. Detail)
+
+[Intro]
+Drop down, drop-drop
+Shit is real out here
+Drop down, drop-drop
+Drop down, drop-drop, get it
+Get it, drop down, drop-drop[Hook]
+Ooo, 305 to my city
+I get it I get it
+I get it I get it I swear that I get it
+I get it I get it
+We did it we did it
+We did it we did it
+We so far from finished
+I brought you right back just so we can relive it
+I get it I get it, I get it I get it
+Your hustle don't ever go unnoticed baby, I'm with you I'm with it
+I get it I get it, I get it I get it
+I get it I get it[Verse 1]
+They don't work hard as you, they are not so crazy
+At the end of the night when you count, numbers don't lie to my baby
+Locker room full of money, girl you just did it
+I get it I get it, man fuck all that talking, take shots to the kidney
+Down payment on the Jaguar, your roommate got credit
+12 months on the lease, that's a come up baby don't you ever forget it
+Connections are heavy, every real nigga they fuck with you
+Now shit down in diamonds, you sparkle but fuck man is sparklin' enough for you?[Hook]
+Ooo, 305 to my city
+I get it I get it
+I get it I get it I swear that I get it
+I get it I get it
+We did it we did it
+We did it we did it
+We so far from finished
+I brought you right back just so we can relive it
+I get it I get it, I get it I get it
+Your hustle don't ever go unnoticed baby, I'm with you I'm with it
+I get it I get it, I get it I get it
+I get it I get it[Verse 2]
+Tonight was your night, go get you some lobsters and shrimp
+You smart and you know it, I get it I get it you outdo these pimps
+I hope you don't fall, that's you on the top of the ceiling
+Don't you ever forget 'bout your story, I get it, you did it you did it
+Got a link on the champagne, your best friend is bar-tending
+Your parents sayin' this another phase in your life
+They can't wait until it's all finished
+Shine on them hoes, let 'em know that you run shit
+I get it I get it, I'm workin' too hard let's get into some fun shit
+281 in my city, heard you had trouble at customs
+Your girl got a DUI, I'll make the calls to get y'all through customs
+Tell your best friend, "Girl get your paperwork right."
+I get it I get it, what's up for the night?[Hook]
+Ooo, 305 to my city
+I get it I get it
+I get it I get it I swear that I get it
+I get it I get it
+We just did it we did it
+We did it we did it
+We so far from finished
+I brought you right back just so we can relive it
+I get it I get it, I get it I get it
+Your hustle don't ever go unnoticed baby, I'm with you I'm with it
+I get it I get it, I get it I get it
+I get it I get it[Outro]
+Your momma used to live at the church on Sunday
+You just go to LIV after church on Sunday
+Oh Lord, oh Lord we're not in Kansas anymore
+We're not in Kansas anymore
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_12676337/su_0/tr_JeZmfJkkeVqJGUZSoeawTDY7UZZQnBcsWPwUPwZqJwHBv0MIBxkiJpVVnQD8_-HfE5oENtV4q2UuHnUAQNtibnZwAfTtoQEUi7cGeo3YmtryOQ2pmafe8A1vM8uxATaA4AJ7MnM0ZZVvOBUMS1Js49si6xyohtJEdY1cBWbf9oCYfp0CxbYsHWjZYQRPXV9MIamhyFHvEZ3DhXGpAlyu-VC5nFlK27-uh_chSbJW5GMzY7EhzV6slcRuBS6hFq1qluyUBh5brh3MuDS52ueEa4H1x0OSuHjMghAJgWUeK4UT3pPRyg-opbRAtp1UeYZFndlgURKOy8aB9u0M2Mh8T12pdVpmD_mVUOw_R1IA0Z0iCeJIT3CGpvjMefOGwSIm/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Sandi, Yuran, Sunny for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Brian Soko, Aubrey Graham, Noel Fisher, Rasool Diaz, Andre Proctor
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Nothing Was The Same" (2013)
+
+
+
+
+Tuscan LeatherFurthest ThingStarted From The BottomWu-Tang ForeverOwn ItWorst BehaviorFrom TimeHold On We're Going HomeConnectThe Language305 To My CityToo MuchPound Cake / Paris Morton Music 2Come Thru[Deluxe Edition Bonus Track]All Me[Deluxe Edition Bonus Track]The Motion[Best Buy Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "305 To My City" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

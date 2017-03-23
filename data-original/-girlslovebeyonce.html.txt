@@ -1,0 +1,304 @@
+DRAKE LYRICS - Girls Love Beyonce
+ArtistName = "DRAKE";
+SongName = "Girls Love Beyonce";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Girls Love Beyonce" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Girls Love Beyonce"(feat. James Fauntleroy)
+
+[Verse 1: Drake]
+Look
+I know girls love Beyoncé
+Girls love to fuck with your conscience
+Girls hate when niggas go missing and shawty you ain’t no different
+These days it’s hard to meet women
+Feel like my love life is finished
+I’ve been avoiding commitment
+That’s why I’m in this position
+I’m scared to let somebody in on this
+No new friends, no no no
+You know how this shit go
+You got your fair share of admirers that call your phone
+You try to act like it’s just me, but I’m not alone
+But if you’re alone then, say my name, say my name[Hook: James Fauntleroy]
+Say my name, say my name
+When no one is around you
+Say, “Baby, I love you”
+If you ain’t running games
+Say my name, say my name
+You actin’ kinda shady, baby
+Why the sudden change?
+Say my name
+Say my name
+Say my name
+Say my name, say my name
+If no one is around you[Verse 2: Drake]
+Yeah
+Uh
+Say my name, say my name
+‘Cause those other men are practice
+And this ain’t no time for actin’
+And this ain’t no time for games
+And this ain’t no time for uncertainty
+And this ain’t no time for locking your phone and not coming home
+and startin’ some shit when I’m in the zone
+This is why I’ve been saying
+No new friends, no no no
+You know how this shit goes
+This is not four years ago
+Time escapes me
+Now forget how it felt when this shit move slow
+I come through in whips that make a young boy take the long way home
+All my young boys ‘round me saying, “Get money and fuck these hoes”
+Where we learn these values? I do not know what to tell you
+I’m just trying to find a reason not to go out every evening
+I need someone that’ll help me think of someone besides myself
+I need someone I leave through the front door with
+‘Cause we don’t wanna hide no more
+‘Cause you’re not shy no more
+Neither one of us wanna play the side no more
+No, I’m not alone
+Even though nothing was the same
+Let me get your ass alone
+Let me make you say my name
+Say my name[Hook: James Fauntleroy]
+Say my name, say my name
+When no one is around you
+Say, “Baby, I love you”
+If you ain’t running games
+Say my name, say my name
+You actin’ kinda shady, baby
+Why the sudden change?
+Say my name
+Say my name
+Say my name
+Say my name, say my name
+If no one is around you
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_11814702/su_0/tr_n9gZjjxa8JDxkwtTYa0cVvU9M1J4ux2ElLdwRDw_5F17AFy43XCvVmgzNqhXF50eetVkZDX2pZWnBYw6WRD1IclYGetHksGhk2SV7N2zQX21dbD3ALXBiFIvS_HxWqa0bUBITOYYxzp3woecmQBfhjmiedo6GtmSXkv7UcyaX0GI7PIcjyTvgbqhIBbYEglfaPkVrzMvLNJlj1H_LJhw0tfxPxsR3WFrf3L8iBLqcLWh2bERWQkN1d0xjCE1tLi2hvsHvD-XgKb7gyJXiiES-IG73ODzT7q83E2uaLQqgwiXgcUEsHRUq1WFzFl759xYY12y9I-GfDn6Hpxxqynl1YS2A7ajc0kQUHyoxv49_YFaB6bg51VRoqp8RpBAtTl_/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Girls Love Beyonce" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

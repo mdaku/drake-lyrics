@@ -1,0 +1,302 @@
+DRAKE LYRICS - Talk Is Cheap
+ArtistName = "DRAKE";
+SongName = "Talk Is Cheap";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Talk Is Cheap" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Talk Is Cheap"(feat. Aaliyah & Static Major)
+
+[Drake (Static Major):]
+(Yeah, yeah
+Yeah, yeah, yeah, yeah)
+Yeah, hey there, help me
+I've been away too long and I know you'd agree
+I'm so tired, but I can't sleep
+My door's open and that don't mean leave
+Know what I mean?[Aaliyah (Drake):]
+Don't let me fool yah
+Boy, you don't know me (oh shit)
+Suppose I said I want you
+This very moment
+Come here and let me school yah
+This is how it's done
+Boy, you gotta push my buttons
+The ones that turn me on, turn me on
+Turn me on, turn me on
+Turn me on, turn me on
+Turn me on, turn me on[Static Major:]
+Don't rush, but don't wait
+Don't talk 'cause it's gettin' late
+Sit right here, next to me
+What's up? Your talk is cheap[Aaliyah:]
+Don't let me fool yah
+Boy, you don't know me
+Suppose I said I want you
+This very moment
+Come here and let me school yah
+This is how it's done
+Boy, you gotta push my buttons
+The ones that turn me on, turn me on
+Turn me on, turn me on
+Turn me on, turn me on[Drake:]
+You know I gotta ask, what's up with the friends that you bring?
+Know you got some other cool friends that you never bring
+New stories for you every time the phone ring
+They don't understand, girl if anything you're everything
+Oh lord, good lord, smoke a little, then record
+You know Papi on the vocals, 40 on the boards
+Call me when you feel inspired, never when you're bored
+And have a real conversation with your fuckin' boy
+With the fuckin' man, Mr. Lover-Lover-Man
+How come everything is on the other hand?
+How come you ain't never busy when I'm busy
+But the moment that I'm free you always end up with some other plans?
+How you make a good dude wait so long?
+I don't understand why, that's some girl shit
+And what you doin' in the bedroom with your clothes on?
+I want you wearin' what you came into the world with[Aaliyah (Static Major):]
+(This is your chance to prove that you got the skill)
+Don't let me fool yah
+Boy, you don't know me
+Suppose I said I want you
+This very moment
+(You said you could give me the chills)
+Come here and let me school yah
+This is how it's done
+(Well it's all up to you)
+Boy you gotta push my buttons
+(But you don't know what to do)
+The ones that turn me on, turn me on[Aaliyah (Static Major):]
+Turn me on, turn me on
+Turn me on, turn me on
+(Hey, woo!
+Girl this very, very moment, yeah
+Yeah, yeah)
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_16148164/su_0/tr_ItVevuayIahxzyhRaidJFf_6dcwkBgyJVslbzEZg51SkL76wggedmgnbTYqbnnalmsHu4Tx-Ux6r_C3g3f2IfwJQRKY-GWwUAJDKGQMnLxS4f6zrNo9SNWb60S_-tq5AMjkJ-1fHrzmlqKpdxgoqfRXfF2lAmlbUjWHeqqfA6I-lPt6vuLaRWE60bcajzXB4G_uC7u2AXVs0dju7ZxTZlwsy_2GU6YaYJkOp6QuieFbIEzr5366jU4SA9LngFNiMTN-_lxqRI0hN4LqExuIkF_LTIi508iFKR0AZjnU1Dtwqu53fbPKaTZh58YzBvkO8xMjf5kcV6Co2m_fqbSV7_xWOQIRSpRHu2NWOsJ97TXxW5ZM76VC4tQEFimtAXEFS/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Talk Is Cheap" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

@@ -1,0 +1,325 @@
+DRAKE LYRICS - Ice Melts
+ArtistName = "DRAKE";
+SongName = "Ice Melts";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Ice Melts" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Ice Melts"(feat. Young Thug)
+
+[Young Thug:]
+Yeah
+Nigga, what you thought?
+Slatt, slatt, slatt (yeah, yeah)
+Jeffery
+Feelin' rough, rough
+Baby, I'm needin' somethin', somethin'
+I wan' beat it up with somethin' somethin'
+You're a diamond out the rough or somethin' somethin'
+You need to give it up to someone
+You need to give love to someone
+You need to-fuck what you need!
+You need to give it up to someone
+Before you end up like
+Woah, woah, woah, woah, like
+Woah, woah, woah
+Woah, woah, woah
+Woah, woah, woah
+Woah, woah, woah, woah, yeah, yeah[Drake:]
+Look, I want you to myself
+But I know you just left someone else
+I know you did, he did a number on you
+That must be why you move so icy
+Icy like 1017
+Icy like there's nobody who'd ever need
+Better not give that all to anyone but me
+Patient as could be, but
+I still need some satisfaction
+A little less talk and a little more action
+I need you out in Jamaica, relaxin'
+Thought I had everything somehow[Young Thug:]
+Feelin' rough, rough
+Baby, I'm needin' somethin', somethin'
+I wan' beat it up with somethin' somethin'
+You're a diamond out the rough or somethin' somethin'
+You need to give it up to someone
+You need to give love to someone
+You need to-fuck what you need!
+You need to give it up to someone
+Before you end up like
+Woah, woah, woah, woah, like
+Woah, woah, woah
+Woah, woah, woah
+Woah, woah, woah
+Woah, woah, woah, woah, yeah, yeah[Drake:]
+I wanna see you do more in this life if we takin' it there
+I want to see you do 911, fuck a Panamera
+See you when I see the real thing
+Gettin' realer and realer, yeah, yeah, yeah
+But you icy like 1017
+Icy like there's nobody you'll ever need
+Better not give that up
+I'm here patient as can be, man
+I still need some satisfaction
+A little less talk and a little more action
+I need you out in Jamaica, relaxin'
+Thought I had everything somehow[Young Thug:]
+Feelin' rough, rough
+Baby, I'm needin' somethin', somethin'
+I wan' beat it up with somethin' somethin'
+You're a diamond out the rough or somethin' somethin'
+You need to give it up to someone
+You need to give love to someone
+You need to-fuck what you need!
+You need to give it up to someone
+Before you end up like
+Woah, woah, woah, woah, like
+Woah, woah, woah
+Woah, woah, woah
+Woah, woah, woah
+Woah, woah, woah, woah, yeah, yeah
+Yeah
+Nigga, what you thought?
+Slatt, slatt, slatt (yeah, yeah)
+Jeffery
+Woah, woah, woah, woah
+Woah, woah, woah, woah (yeah, yeah)
+Woah, woah, woah, woah
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_16505342/su_0/tr_16fCq4r-JTYoYtokalxOP9gB4hC3FTNsbgsfHzDFL_MqoLBOCHzQTr8u52f3p1QQ7grMvrt6B_TasENKjTGLJptt8_zZdyny40X7P34MpTs_dsl3xoNoJWke3EKMvocLcTgOxqr8nialpUzOik38GtUQ3VXPqv0x8Se02ZbPxuVfAJstF6NeXp2ANubIXuIPRfkdBTN236opP1BIuwDUBU6QD_cIWDhHya4YKm_x9Y1lXjodifDUgGCgYh3KnxVKaWoSz0AhUZ-wM7kMqJ9I3JXQc-0YmOWsEDWYm5G1WsF_hJZFuQvs_GkqBT_fe9U_PC8R-FgZYwBizatDltPwqTIsKbQd-P3mDp4hCQPBFLZCXr8N0AqSwIFqEbXOSF-M/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "More Life" (2017)
+
+
+
+
+Free SmokeNo Long TalkPassionfruitJorja InterludeGet It TogetherMadiba RiddimBlem4422GyalchesterSkepta InterludePortlandSacrificesNothings Into SomethingsTeenage FeverKMTLose YouCan't Have EverythingGlowSince Way BackFake LoveIce MeltsDo Not Disturb
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Ice Melts" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

@@ -1,0 +1,320 @@
+DRAKE LYRICS - Club Paradise
+ArtistName = "DRAKE";
+SongName = "Club Paradise";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Club Paradise" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Club Paradise"
+
+[Verse 1:]
+They say that all of yo old girls got somebody new
+I say, "damn really? even Rosemary? even Leanne Seely? "
+They said, "fuckin right, they were the 1st to go
+It's nothing personal
+It's just that all of them women you slept on were working though,
+They was saving up
+New niggas came around, they've been waking up with,
+I swear, you don't know this city anymore
+They might've loved you before
+But you're out here doing your thing
+They don't know you... "
+Sure they do they're just not as sincere
+It's crazy all the emotions forgot in a year
+She like, "why you even give a fuck you not even here"
+Well out there there ain't nothing for me, and I think I need to come home,[Chorus:]
+Tell me, who did I leave behind?
+You think you got to me
+I can just read your mind
+You think I'm so caught up in where,
+I am right now
+But believe I remember it all[Verse 2:]
+I be with my nigga chubbs
+He in love with street shit
+No wonder why I feel awkward at this fashion week shit
+No wonder why I keep fucking up the double cheek kiss
+Along for that ignorant Young Money, Miami beach shit
+A couple of artists got words for me, that's never fun
+They say it's on when they see me, that day don't ever come
+I'm never scared, they never real, I never run
+When all is said and done, more is always said than done
+And I was told once, things will change,
+By a nigga named tip when my deal came
+Told me it's all good, even when it feels strange
+Now I'm the guy that know strippers by they real names
+Rochelle, Jordanne, thick bitches, they just talked me out of 4 grand
+How did a pile of kush become the mountain of truth
+How did a bottle of wine become the fountain of youth
+Damn, my biggest fear is losing it all
+Remember how I used to feel at the start of it?
+And now I'm living a muthafuckin fairy tale
+And still trying to keep you feeling a part of it
+Yea, just lie to my ears,
+Tell me it feel the same, it's all I've been dying to hear
+Lights get low, and that's when I have my brightest ideas
+And I heard my city feel better than ever,
+That's why I gotta come home,[Chorus:]
+Tell me, who did I leave behind?
+You think you got to me
+I can just read your mind
+You think I'm so caught up in where,
+I am right now
+But believe I remember it all[Verse 3:]
+My mother is back to who she was years ago
+It's like a new page me and her are beginning on
+I wish she stopped checking up on women I can't stand
+'Cause I got new girls I could use her opinion on
+She thinks I've become a slave to the wealth
+But I'll never break the promises I made to myself
+And I would never make up names for myself
+Then change the names, that I just gave to myself
+Certain rappers would call me to say, "wat up doe"
+I used to brag about it to my friends, and now I'm feeling like all of these niggas cutthroat
+And maybe that's all they do, is just pretend, damn
+But I bought it though, I believed it
+Yea, I thought it, and I achieved it
+Yea, so show me love, show me fucking love!
+'Cause I thought it was all I needed
+Yea, Clearly I was wrong about it all along
+And this will be the year that I won't even feel shit
+They trip about the amount of people I brought along
+But I'm just trying to be surrounded by some real shit
+Need credentials for everyone of these Toronto kids
+I promise they see it with me, we just tryna live
+I told 'em we bout to get it, and we finally did
+Listen closely to my shit I swear it sounded like home[Chorus:]
+Tell me, who did I leave behind?
+You think you got to me
+I can just read your mind
+You think I'm so caught up in where,
+I am right now
+But believe I remember it all[Outro: Bob Marley]
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_15551131/su_0/tr_HYPBBZgpeuH76NG5Dmm8eilTwTtbgLJJysxC8oD2VHg5db9Yau_EPtx-suP-1H_6ytDrRPcHgS_l2Zmt1B6DUekU14nEyzFg7i0CjLDhkk4oZZX7zZD0IsGBHho5LyioS1P9eytgvSBCdQpxjtmB9QWK5j8vJo2J1zR8C8NUL1HCGv9GiZTv8SH9jijx4QK4ja7vXinu2hezjUhzpq2oBdpP6dmohqYVw1IHNyRrvs1GzCL2bckmIUBLfhx34egcsXTCBd6CKJrvcj7tI4t8iZ1ZOamvCR7jOQoYfWCA67MtdnQRFcFb-rQ1ZBREgQMzNk9vJQjBXKC5Ph3OBcCkOA/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to will for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Aubrey Graham, Noah Shebib
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Club Paradise" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

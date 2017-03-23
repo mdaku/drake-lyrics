@@ -1,0 +1,292 @@
+DRAKE LYRICS - Zone
+ArtistName = "DRAKE";
+SongName = "Zone";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Zone" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Zone"
+
+Uhh, yea
+Uh uh uh
+Alright, well alright
+I say I do it for the love
+Bunk bed flow,
+Always one level above
+If I'm in your starting five
+You'll never need a sub,
+And I'm never looking down,
+So I always know watsup,
+A picture won't do me justice,
+League in this bitch, Ima do me trust this,
+Patience little label nigga you won't rush this,
+I got the hand on my money sweetie, you can't touch this,
+I got a revolutionary flow in every scenario,
+Coming through your stereo
+Bust my girlfriend booty 'round like the merry-go,
+Bitches like where he at, they be like there he go.
+And this verse deserve a burial.
+Don't cry for me, this ain't ma'fuckin' mario,
+Yea, and polo isn't at my session
+Mr. anticipation Ima keep you niggas guessing like..
+Ok, ok, I'm grown, grown
+Party at my house but I'm home, alone
+Doing every single thing my momma wouldn't condone,
+Counting everything I own, in my ma'fucking zone
+I'm up too high, somebody come get me down, down
+Down, down
+Said I'm up too high, somebody come get me down, down
+Down, down
+Yo, my ex-girl say she done dating black guys,
+She shoulda listened when her white friends advised
+But not me I'll make your battleship capsize,
+Get soaked, get wet, get baptized,
+I got the full package, a nigga complete,
+I give bread, and eat tracks like lunchmeat,
+Pursue me and ill put you on front street
+Probably get your record pushed back like front seats 
+I'm much more than you'd fathom me would be,
+There ain't too many niggas I'd rather be than me,
+I guarantee those women gettin' at him would agree,
+That he should go ahead put a patent on his G and,
+I swear these niggas gassed up even tho the price is high.
+I could own half as much clothing and be twice as fly,
+Yea, you know my coupe sits super low,
+Tops slip off like janet at the superbowl
+Ok, ok, I'm grown, grown
+Party at my house but I'm home, alone
+Doing every single thing my momma wouldn't condone,
+Counting everything I own, in my ma'fucking zone
+I'm up too high, somebody come get me down, down
+Down, down
+Said I'm up too high, somebody come get me down, down
+Down, down
+Cus I'm a beast.
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_7896475/su_0/tr_a8QABqRERXxoHA1yMWk8QlkJ8D6WUmbfw_09jG2IRh896f8hW3YPqyxTH2p6-TZrgM5CDAkX1u9PRzvnofObryFYJT44cLro3J8TyO2xMk8VZuOg88GEVxwK9JQKjBqcxQ5ML2Srkhp69yMxNecailh1cgarR_XLrB1U9lBW8wvAp8l2uejgsVxVwBmFzx-tFD92ctd0DzVb98L5CoaohmxyrEYgH6mJwan6Q7dy23AwYMKmosasDU2ZrVXG_5wsHFCCnzQIO4aZ62rso30HibtrBsaEBpTkyBMBZuuMw4NgRmuGJy9lb6pNIdTiWItXaSeZYbRy59xo4YnTAPp5ow/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Kayla for adding these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Zone" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

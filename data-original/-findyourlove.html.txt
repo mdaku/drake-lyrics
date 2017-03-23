@@ -1,0 +1,291 @@
+DRAKE LYRICS - Find Your Love
+ArtistName = "DRAKE";
+SongName = "Find Your Love";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Find Your Love" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Find Your Love"
+
+I'm more than just an option
+(Hey hey hey)
+Refuse to be forgotten
+(Hey hey hey)
+I took a chance with my heart
+(Hey hey hey)
+And I feel it taking over
+I'd better find your lovin
+I'd better find your heart. [x3]
+I bet if I give all my love then nothing's gonna tear us apart
+I'm more than just a number
+(Hey hey hey)
+I doubt you'll find another
+(Hey hey hey)
+So every single summer
+(Hey hey hey)
+I be the one that you remember
+And I'd better find your lovin
+I'd better find your heart. [x3]
+I bet if I give all my love then nothing's gonna tear us apart
+It's more than just a mission
+(Hey hey hey)
+You hear but you don't listen
+(Hey hey hey)
+You better pay attention
+(Hey hey hey)
+And give what you've been missin'
+I'd better find your lovin
+I'd better find your heart. [x3]
+I bet if I give all my love then nothing's gonna tear us apart
+Too many times
+I've been wrong
+I guess being right
+Takes too long
+I'm done waiting
+There's nothing left to do
+But give all I have to you and
+I'd better find your lovin
+I'd better find your heart
+I'd better find your loving
+I bet if I give all my love then nothings gonna tear us apart. [x2]
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_12112845/su_0/tr_BbFtzzE09ToKg6BB-LJuZ1sCrGiWtrzpdxAxDoY4Bow7-BqfbIjpC-MySHhi9ZuxmqvbMWz3TOgb9yRth9jm_VJqFSVNcH17zGiUmAsJbfQ9EFYqLR7BKWwSotDyOKRY2hgebYEUXXSj4rvwkg9uKvqbhT8Xe7MX4U2xOLg8Ce4rePodd-rqxJ4VOAHqExAjzPCOr6vmGk-rxcQNoFY_zZqxmO2WaURQt0V_ccg_LKqd630ZBkm9qol1hCBYP14Pndlbp1XA4bZKJSa9k0mvYA0wOnO2N5aFOKMl-FS3uxwWSFMhKpta11g1uwYc8tpoWhyYcXBBczM5PqAafUXwrNCLJbjhLH_4HRD0ooNl4vR8idiXXJPcYf5n9ymp8Tei/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Martha for adding these lyrics.
+Thanks to Dominic for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): KANYE OMARI WEST, P.Reynolds, AUBREY GRAHAM, K.West, Jeff Bhasker, GRAHAM, ERNEST DION WILSON
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Thank Me Later" (2010)
+
+
+
+
+FireworksKaraokeThe ResistanceOverShow Me A Good TimeUp All NightFancyShut It DownUnforgettableLight UpMiss MeCece's InterludeFind Your LoveThank Me Now
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Find Your Love" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

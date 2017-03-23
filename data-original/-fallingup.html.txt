@@ -1,0 +1,291 @@
+DRAKE LYRICS - Falling Up
+ArtistName = "DRAKE";
+SongName = "Falling Up";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Falling Up" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Falling Up"(feat. Elijah)
+
+Take you back,
+Take you back,
+That was such a lie.
+Every time you said you loved me, you can't look me in my eyes,
+And I beg you for the truth, so much goin' thru my mind,
+And my father did just pass, to make my problems multiply,
+And I know nobody's perfect, but you finally crossed the line,
+And I gave you everything, but you was never satisfied,
+And you said I was the one, just like you told another five,
+Feel like it's a competition against all these other guys.
+Texted me the other night, it's been too long,
+Always tryna figure out if Ima move on.
+Staring at the ceiling almost all night long,
+Probably why I had the time to write this song.
+Texted me the other night, it's been too long,
+Always tryna figure out if Ima move on.
+Staring at the ceiling almost all night long,
+Probably why I had the time to write this song.
+Every time I see you, feels like time is moving slow,
+It's unfortunate for me, I have some trouble letting go,
+Even though it's in the past, I just felt like you should know.
+And you hate me when I get high, but you're the reason that I smoke.
+Girl quit playin',
+Girl quit playin',
+You ain't love me from the start,
+You're the reason that I feel this way, 
+You broke my fuckin' heart,
+And I gave you all my trust, but you just tore it all apart,
+Now you're all I think about while I'm layin' in the dark.
+Texted me the other night, it's been too long,
+Always tryna figure out if Ima move on.
+Staring at the ceiling almost all night long,
+Probably why I had the time to write this song.
+Texted me the other night, it's been too long,
+Always tryna figure out if Ima move on.
+Staring at the ceiling almost all night long,
+Probably why I had the time to write this song.
+Been a couple months and you're beggin' for me back,
+And I love all the attention, I'm not sure how I should act,
+And you're saying that you miss me, I refuse to say it back,
+Even though I still do want you, I don't have the time for that,
+'Cause these women stay the same, while this nigga's chasin' cash,
+And your problems are so small, girl just trust me they ain't bad,
+'Cause you cryin' bout a nigga while I'm cryin' bout my dad,
+And its eating me alive, should've taken me instead.
+Texted me the other night, it's been too long,
+Always tryna figure out if Ima move on.
+Staring at the ceiling almost all night long,
+Probably why I had the time to write this song.
+Texted me the other night, it's been too long,
+Always tryna figure out if Ima move on.
+Staring at the ceiling almost all night long,
+Probably why I had the time to write this song.
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_11383009/su_0/tr_MiegHDLRLtxKaCNxP30I6SGDVR5zvQUgWUR6BLV_JReUquFYpGRiKEM8RUm_CGxge1GqiCm99QTtbBrYIYpdIE_MDAbOTgkqx9mFd8qyHIvJdeqw-qOhXsvcZLvq9FSSMV5lENOVoBpsqJHAcn7Z5Gna2hH1ixZ-9XZaVBrgS8SXnwLOI91k1Ab7jy3arZPU5PSikxEUq-6ABACrb9iwLtTsq-5U_SuNPaNT4KUx2ViYyxW36pki5YHvOYdqRstrL1EEwddfQNgSS21JuIAnNURTzNkrlXB-MDYfLgj_Hi-Qe_rCs00AGB7lGtbSbI4vUWO2VtDHVTUs0-HhHDzeWw/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Melanie for adding these lyrics.
+Thanks to PYH Meosha South Side, Eric, Fiyin Femi for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Falling Up" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

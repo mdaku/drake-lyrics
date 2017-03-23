@@ -1,0 +1,310 @@
+DRAKE LYRICS - Know Yourself
+ArtistName = "DRAKE";
+SongName = "Know Yourself";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Know Yourself" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Know Yourself"
+
+Wallet yout! Wallet, wallet, wallet, wallet
+Dey sleepin' in the streets
+Shaky warrior
+Yeah, this that Oliver 40, Niko shit man
+15 Fort York shit ya know
+Boi-1da, what's poppin'?
+Yeah, yeah
+Runnin' through the 6 with my woes
+Countin' money you know how it goes
+Pray the real live forever man
+Pray the fakes get exposed
+I want that Ferrari then I swerve
+I want that Bugatti just to hurt
+I ain't rockin' my jewelry that's on purpose
+Niggas want my spot and don't deserve it
+I don't like how serious they take themselves
+I've always been me I guess I know myself
+Shakiness man I don't have no time for that
+My city too turned up I'll take the fine for that
+This been where you find me at
+That's been where you find me at
+I know a nigga named Johnny Bling
+He put me on to the finer things
+Had a job sellin' Girbaud jeans
+I had a yellow TechnoMarine
+Then Kanye dropped, it was polos and backpacks
+Man, that's when Ethan was pushin' a Subaru hatchback
+Man I'm talkin' way before hashtags[Hook:]
+I was runnin' through the 6 with my woes
+Yeah! I was runnin' through the 6 with my woes
+You know how that shit go
+You know how that shit go
+You know how that shit go
+Runnin' through the 6 with my woes
+You know how that shit go
+You know how that shit go
+You know how that shit go
+Don't fuck with them niggas, they too irrational, whoa
+This is that nasty flow
+Top boy in this shit, I'm so international
+Reps up is in here got P Reign and Chubby and TJ and Winnie and whoa
+Yeah, and you know how that shit go
+I might declare it a holiday as soon as Baka get back on the road
+Yeah but you know how that shit go
+They so irrational, they don't wanna patch it up
+They wanna mash it up, whoa
+My nigga Jibba, he whip it I ride in the passenger
+I'm way up, I stay up, I'm two up, I'm three up
+I had to get back to you, whoa
+I'm turnin' into a nigga that thinks about money and women
+Like 24/7, that's where my life took me
+That's just how shit happened to go[Hook]
+...shell out, all if yuh eye nuh big
+Always haffi look out, yuh no know if yuh head book out
+Dun know, a de unruly boss, dis man
+No bomboclat, otha
+And if a boy nuh like
+OVO or Chromatic Yuh can jus suck yuh mada!
+With no apology, If you nuh like we, we nuh like you neither youth
+Your girl a say we cute, if you diss you will get execute
+That's the truth, OVO unruly[machine gun shots]
+With my woes
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_15694954/su_0/tr_rfonpfHAeQl6Ge53UW1XFnSnMIUkquWxYa9mlloue5MVB3Bmx-DSqMrSSnw539dAoGHRGTwu1hWTrK2eF55b-pPF02oOsCk4dm9aALAHo6JyZwsz7HIcCN2szC-DqoOM8-cvB7ZSCDRaldiVNU0_N9EvKn3Kl9a8DdtRCl2kz-c_ynTsJi6v-FdYCYCK3vltpmHOrwvmYS3L_XuFdl-YxDcyNuP2j5fDDm-KrPAsbGBakRui6bPYAcwwXcvRV1sr0mYnEIVsb8Ib7Y48_Ne5fRBZVcz_qDSCvCmSzFgApSRDWECta5BhjurDl2jlPljCyz2NqvpV2bBDPCMEVA1QVyDBCw26N-nB3RBEakXH5s-e3ujNXgSLebAyoauyORRD/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Locke, Dak Montana Phillips for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "If You're Reading This It's Too Late" (2015)
+
+
+
+
+LegendEnergy10 BandsKnow YourselfNo Tellin'Madonna6 GodStar67PreachWednesday Night InterludeUsed To6 ManNow & ForeverCompanyYou & The 6Jungle6PM In New York[Bonus Track]My Side[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Know Yourself" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

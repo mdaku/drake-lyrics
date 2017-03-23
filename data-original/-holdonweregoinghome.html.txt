@@ -1,0 +1,296 @@
+DRAKE LYRICS - Hold On We're Going Home
+ArtistName = "DRAKE";
+SongName = "Hold On We're Going Home";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Hold On We're Going Home" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Hold On We're Going Home"(feat. Majid)
+
+I got my eyes on you
+You're everything that I see
+I want your high love and emotion endlessly
+I can't get over you
+You left your mark on me
+I want your high love and emotion endlessly
+Cause you're a good girl and you know it
+You act so different around me
+Cause you're a good girl and you know it
+I know exactly who you could be
+Just hold on we're going home
+Just hold on we're going home
+It's hard to do these things alone
+Just hold on we're going home (home)
+I got my eyes on you
+You're everything that I see
+I want your high love and emotion endlessly
+I can't get over you
+You left your mark on me
+I want your high love and emotion endlessly
+Cause you're a good girl and you know it (oh yeah)
+You act so different around me
+Cause you're a good girl and you know it
+I know exactly who you could be
+So just hold on we're going home (going home)
+Just hold on we're going home (going home)
+It's hard to do these things alone (things alone)
+Just hold on we're going home (going home, going home)
+You're the girl
+You're the one
+Gave you everything I love
+I think there's something, baby
+I think there's something, baby
+You're the girl
+You're the one
+Gave you everything I love
+I think there's something, baby
+I think there's something, baby
+Cause you're a good girl and you know it
+You act so different around me
+Cause you're a good girl and you know it
+I know exactly who you could be
+Oh just hold on we're going home (going home)
+Just hold on we're going home (going home)
+It's hard to do these things alone (things alone)
+Just hold on we're going home (going home, going home)
+Hold on
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_12500584/su_0/tr_Tzlnor64sfK52MyMWlwcsyRQE1C01crTVmiizOz957FIgnAoTM33OaTh0WJqbVGty3XyoF_z15BHOLm2ftV7B_Yd5lfYVG2wjY2vt-Cg4AfrXZNyNfVdOsTpwAubfzScAjhyf3ixCBubC3QFg8h_pJsF3PedJtn69vePm937Rnj4YcgTilAJliT9iFT4WsiFWj-C3PEzjxMGgepMh41W1Z1e8ImABAB6TZ9IU-LNAdPA4QzsqxfQoZIS4VsjRWGDi7x5BskQdTD41HaZQF8K_gNR6QzK62KB-RPewmoDH5AeZwewRfc1Qq4hEE9dPEIyNuUROmtfRmZOuPPdmModSCQWuOHh2q2Mh1-TAUBaN6oIRVMgYakz-dD3aJnNwE40/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Jakarimoses, Tybalt, Squirrelfligh2426, The_Visored, PlanetShorty for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Noah Shebib, Paul Jefferies, Jordan Kenneth Cooke Ullman, Majid Hani Ali Rashed Al-Maskati, Aubrey Graham
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Nothing Was The Same" (2013)
+
+
+
+
+Tuscan LeatherFurthest ThingStarted From The BottomWu-Tang ForeverOwn ItWorst BehaviorFrom TimeHold On We're Going HomeConnectThe Language305 To My CityToo MuchPound Cake / Paris Morton Music 2Come Thru[Deluxe Edition Bonus Track]All Me[Deluxe Edition Bonus Track]The Motion[Best Buy Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Hold On We're Going Home" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

@@ -1,0 +1,290 @@
+DRAKE LYRICS - The Last Hope
+ArtistName = "DRAKE";
+SongName = "The Last Hope";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"The Last Hope" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"The Last Hope"(feat. Andreena Mill, Kardinal Offishall)
+
+[Chorus: Andreena Mill]
+I gotta make it out, or move quickly
+Can't allow the past to restrict me
+Bet this time around they won't skip me
+I am the last hope
+Don't hesitate not even for a second
+The hustle has become an obsession
+I'm on the front lines with my weapon
+I am the last hope[Verse 1: Kardinall Offishall]
+Can you i-magine the last breath of Christ?
+The last breath of Christopher Wallace on that faithful night
+The last step that Martin Luther took as a man
+I got the power of my world in my hand
+The microphone brings life and death in the blink of an eye
+I was born to provoke those born to die
+I was conceived to beat all odds like Las Vegas
+T-dot motherfucker watch the world rape us
+Greatest strugglers hustle to succeed
+Cross border smugglers tussle to burn weed
+It means that pressure of success in the south
+Niggas watchin' what I say magnifying my mouth
+I never take back talk I apply the force
+Hand blistering from many years of holdin' the torch
+When the skin rebuilds it grows tougher than leather
+So we can keep on holdin' it forever
+My names Kardinall[Chorus][Verse 2: Drake]
+Jealousy's suttin I haven't felt for years
+There's nobody around for me to be jealous of
+I bet you do a show in my city and no one cheers
+Even if you make the music that ladies and fellas love and dove
+I'm incredible fuckin' unforgettable
+And when it comes to records 
+I will eat it if it's edible
+They say the futures always foreseen
+That's why I'm steady getting more money, more cream
+My flow is stuck in the moment that comes before dreams
+I stay avoiding unlucky like 14
+And people get behind 'im and they fight for 'im 
+'Cause he wont let no other niggas write for 'im
+And even when it's quite warm
+The attitude coursing through the veins of my city is a ice storm
+The name Drake and I don't take it for granted
+I just take it you offended 'cause I'm taking advantage mayne[Chorus]
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_7756540/su_0/tr_Sl6u6Cym6wQII1dLJ0W4PoXqzsb69YER-7kLavCd1fz3kkgAq5xoQIDnjc7ZwqT-GmAYpXjNlJVvDEt8wGjo7mnp2ZSJodIMB-eenfq0CwTh8k_esrrMX0o0pr1vP4-tPIX7YIdeDrZLoxlbORfjbOV0euhC26tbKvWhQQqZH8qPod6OcuQim7j91nLPIXwbFVn7jsR8csFSJAYFP4I1lGi_tgyi5wxlszL7HHfo2_Tyxn8IHvDId2zjDvtkAdAA_7gF5jlzxW4-XUrlhe5GQGKxkM_cjdgUB-eUZdaGhWOuWN7ZRmOapw1oQa6fuQx9t2OeBo0WoV5-NkMafv-3arNlQy0Zf8q_UoLAcDif4zuXo5e_7FMjkROXFnfaMFOzVWlXZCrJusyERBsW1ws6CBxxoex0lf4AV7wrUNbxo4k/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Comeback Season" (2007)
+
+
+
+
+The PresentationComeback SeasonCloserReplacement GirlCity Is MineBarry Bonds FreestyleGoing In For LifeWhere To NowShareGive YaDon't You Have A ManBitch Is CrazyThe Last HopeMust Hate MoneyAsthma TeamDo What U Do (Remix)Easy To PleaseFadedUnderdogThink Good ThoughtsTeach U A LessonMissin' You (Remix)Man Of The Year (Remix)
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "The Last Hope" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

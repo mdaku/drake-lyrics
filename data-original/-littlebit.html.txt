@@ -1,0 +1,327 @@
+DRAKE LYRICS - Little Bit
+ArtistName = "DRAKE";
+SongName = "Little Bit";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Little Bit" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Little Bit"(feat. Lykke Li)
+
+[Lykke Li:]
+Hands down
+I'm too proud for love
+But with eyes shut
+It's you I'm thinking of[Drake:]
+But how we move from A to B it can't be up to me
+'cause you don't know
+Who I was before you
+Basically to see a change in me
+I'd be losing, so I just ignore you, yeah
+Oh, oho
+But your on my mind, my mind, my mind, my mind, my mind
+Oh, oho
+But maybe in time, in time, in time
+I'll tell you[Chorus:]
+A little bit, a little bit
+A little bit in love with you
+I guess that I'm a little bit, a little bit, a little bit in love with you
+Oh, oho[Drake:]
+I know you told me break their hearts
+But it's you I wanna take apart
+And I will never ever be the first, to say it
+But still I they know I ah ah ah[Lykke Li:]
+I would do it
+Push a button
+Pull a trigger
+Climb a mountain
+Jump off a cliff
+'cause you know baby I love you love you
+A little bit
+You would do it
+You would say it
+You'd mean it
+I would let you do it
+It was you and I and I only
+Ha, hm
+I think I'm a little bit
+Little bit
+A little bit in love with you
+But only if you're a little bit
+Little bit
+Little bit
+In lo-lo-lo-lo-love with me[Drake:]
+I hope they never find out
+What they already know, know, know
+As soon as it's official
+We'll have to let it go, go, go
+So we don't confirm the fling
+Keep avoiding all the questions
+You could teach me many things
+I'm just scared to learn a lesson
+The pressures on
+Both hearts beat like a metronome
+Both n'sync like a Justin song
+Feels so right but it's just so wrong
+I wonder where my whereabouts?
+Where niggas that I know, tryna talk my girl out
+And her friends say I ain't the one to go for
+She just get jealous 'cause you always get approached more
+Oh, well, tell her fall back
+caught up in some more shit
+tell her call back
+Tell her get a man that ain't cheating on her ass
+With a girl that I know, yeah, tell her all that, that
+And as for you I think I know you're the one
+The closest I've come
+I'm probably...
+A little bit
+A little bit
+A little bit in love with you
+I guess that I'm a little bit
+A little bit
+A little bit
+A little bit in love with you
+Oh oho
+Lo-lo-lo-lo-love with me
+Oh, oho, oh, oho
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_6824806/su_0/tr_rQJGhWGOKthn3vGdb4tXKojmTMdKcAbQz8Lht3sFgA7xhXAvg80VL_nBg9VK_InbcZ1kh90zV8P8XFLCu2knrnnEFh7tVvtV9o4m-KzZjB06LNtyHIE33UPRpOQGjWlDK1JN-S8IO1Xeil2otd0qUZ7KBjM6QiTBF2iH4wemwQeY7FTMPZKJ3zyg1PtLLHA8syCmxWqWD517EVvfrG0108czYuTwbeXESKcMi5OfiYqPkcnyq1l8_sARITrbRZW82L2H-TbpanrbCDB3h3GEZ-_LZTuQDNDOisul8v5DoZtWhSb-nw93h-ITpRggywkJEUjNwU9ctTn6HOBbK2iAiZjMCy8N84w7QgiAcxNKrK58wbEC1mEzq5U5pWCBTyKA/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Desiree for adding these lyrics.
+Thanks to Phylicia Phillips, Noluthando, marissa meriweather for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Bjoern Yttling, Lykke Li Zachrisson
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "So Far Gone" (2009)
+
+
+
+
+Lust For LifeHoustatlantavegasSuccessfulLet's Call It OffNovember 18thIgnorant ShitA Night OffSay What's RealLittle BitBest I Ever HadUnstoppableUptownSooner Than LaterBria's InterludeThe CalmBrand New[Bonus Track]Congratulations[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Little Bit" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

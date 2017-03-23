@@ -1,0 +1,281 @@
+DRAKE LYRICS - How About Now
+ArtistName = "DRAKE";
+SongName = "How About Now";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"How About Now" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"How About Now"
+
+"That's the shit I'm talking 'bout though, like you changed up, you don't even fuckin' link nobody no more, you just dash me 'way like a cyattie. Yo, you cheesed me dog."
+Always felt like my vision been bigger than the bigger picture
+Crazy how you gotta wait until it's dark out to see who really with you
+Crazy how even when it miss ya, shit'll come back around and get ya
+Crazy like all my niggas, crazy like all my niggas
+Remember I deleted all my other girls numbers out the phone for you?
+Remember when you had to take the BAR exam, I drove in the snow for you
+Yeah, you probably don't remember half the shit a nigga did for you
+Ya, you ain't really fuck with me way back then girl, how 'bout now?
+Cause I'm up right now and you suck right now
+Aw, you thought you had it all figured out back then girl, how 'bout now?
+Cause I'm up right now and you suck right now
+Yeah, you thought the little effort that you put in was enough girl, how 'bout now?
+Yeah, Girl how 'bout now? How 'bout now girl?
+What about now girl? How 'bout now?
+(My Heart Belongs To You)
+Yeah, Always been daddy's little angel
+I bought your dad a bunch of shit for Christmas, he ain't even say thank you
+I had no money, left from back when I was focused on the music
+I used to always try and burn you CDs of my new shit
+You be like "who's this?"
+I be like "me, girl."
+You be like "oh word, true shit?"
+Then ask if we could listen to Ludacris
+Them car rides made me feel like I was losing it
+Yeah, made me feel like I ain't have it like that,
+I was average like that
+Started drinking way more than I used to
+People form habits like that, girl
+Yeah, man enough to tell you I was hurt that year
+I'm not even Christian I still went to church that year
+Guess I just had to pretend that year
+I ain't even see my friends that year
+Places that I should've been
+You ain't really fuck with me way back then but how 'bout now?
+Cause I'm up right now and you suck right now
+Aw, you thought you had it all figured out back then girl, how 'bout now?
+Cause I'm up right now and you suck right now
+Yeah, you thought the little effort that you put in was enough girl, how 'bout now?
+Yeah, girl how 'bout now? How 'bout now girl?
+What about now girl? How 'bout now?
+(My Heart Belongs To You)
+(Whatever You Need, There's Nothing I Won't Do) [x4]
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_11536218/su_0/tr_IupBR9RtujGee8cCqvIiiQ7jqCiD7NtScxQjTKPUG8eytCm_Dga8UFN7mdbbpy50Snr4W6-mQuap_5oA-S12YHoimNQlC8ncM6yFo4QqouVIB1saozUzp3e6Zux9i_t73rMSjxvfcWCI7yVxxP3qRBLKMgwruwJuS40aFhqy1FL-4juB3oz2LJSo12GLyT5Z6v4nNsVc95kOo7TA7riP9iFHAANJ7EcyoKxZd3JWtY_pLGhI2sWlAcs-a_iUJglapbcXmO5TyUu0TEsJT_FhyRdJd4GC8hS46ccBxax4GCs4TMRSfUIAfRpryeVVYsOubjZ1e6oWl9zjFW9LzHh5l1nSdlQxJgDMYy-x7qmgCRhuOaVvXMIECk7Blvno2QhT/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Shinny, Tyshon Thomas, Anonymous Source for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Aubrey Graham, de Grate Donald Earle Jr, Drake, Cedric Hailey, Donald de Grate, Matthew Samuels, Jordan Evans
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "How About Now" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

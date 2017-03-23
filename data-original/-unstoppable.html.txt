@@ -1,0 +1,311 @@
+DRAKE LYRICS - Unstoppable
+ArtistName = "DRAKE";
+SongName = "Unstoppable";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Unstoppable" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Unstoppable"(feat. Santogold, Lil Wayne)
+
+[Verse 1: Drake]
+My name is drizzy
+And I ain't perfect
+And I work hard
+So I deserve it
+And I belong
+Right where you see me
+Ain't on the fence about it
+I ain't mister fenny
+I got a decent set of manners
+And a job that fills up any empty schedule or planner
+And I fall in love with girls
+Caught  up in superficial glammer
+Who dress like Sara Jessica
+And live like princess Diana
+So often they have addiction
+And I'm the one that will feed it
+But truly you bad enough
+Where you don't really even need it
+You could show up to the party
+On dirty public transit
+And I guarantee the camera man will still be snapping candids
+Of you and your possie partying
+Drinking what you get handed
+With your virgin island tans
+All looking like you just landed
+I don't really understand it
+I'm not sure I'm comprehending
+But these girls are having fun with whoever's money they spending screaming[Chorus (2x)]
+I got to be unstoppable [2x]
+Ay ay ay ay you don't like [2x][Verse 2: Lil Wayne]
+My name is whezzy
+I'm almost perfect
+And I work harder than hard working
+Bizarre circus
+That's what my bars surface
+Therefore I act a clown
+Even when I laying on my back I'm never backing down
+So over stand me
+I got a condo in Miami
+And my door mat is always sandy
+And I run Louisiana
+But I never pulled a hami
+And I got a condo in Atlanta
+And I always wear a bandanna
+And when it come down to stunning
+You boys are just bunting
+And I swagging for the fence
+Your girl hanging from my dick
+Your girl singing to my shit like
+A lo lo lollipop
+She say I get that pussy wetter than a designer shop
+And she say I pick that pussy better than her gynecologist
+Hold this
+Text me whenever you want some more dick
+More dick
+Old bitch
+Young bitch
+But I be like damn
+All I got is one dick[Chorus (2x)]
+I got to be unstoppable [2x]
+Ay ay ay ay you don't like [2x]
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_6964517/su_0/tr_VsfQ6cPaZj3aTf5qKZAknhHLVXNq7fGFBnQ1amw3qYo5Pp1wlHaXg25QxPktwpDZ13soj09_Uz0XFjdSH_qD59AP74qvjFxKBf_zlfqlgdOuQa-HelrM-ezHcpQ_73A-GsRqcCh0tum9OKRrh-8gAEHlDwjv2OJRm5urCFlVGYKjnX65A3gPXOjB4oY36eDPUhzdjrMObLj6shmz0M8M2FsgzrJbgbwNg_VxgWEhSxxSXtNL_L-gx75cKHNgQPoSY0lBQf-CTFCWx0Xc77BL5WCoECWO4j9l6Yh7KfAyRKMnwQdGw15_wNYaPbkc07II3U-XFe3NHVn5zzm8_MAV4Xspib5oVk5gqufVTTTsT9zRUx0SYt_xv3s2lwhshx_9/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Robert Sanders for adding these lyrics.
+Thanks to Corey, Mobster, carla_973, troy for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "So Far Gone" (2009)
+
+
+
+
+Lust For LifeHoustatlantavegasSuccessfulLet's Call It OffNovember 18thIgnorant ShitA Night OffSay What's RealLittle BitBest I Ever HadUnstoppableUptownSooner Than LaterBria's InterludeThe CalmBrand New[Bonus Track]Congratulations[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Unstoppable" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

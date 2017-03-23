@@ -1,0 +1,318 @@
+DRAKE LYRICS - Skepta Interlude
+ArtistName = "DRAKE";
+SongName = "Skepta Interlude";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Skepta Interlude" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Skepta Interlude"
+
+[Skepta:]
+It's a madness
+Check my account, it's a madness (Mmm)
+Block that account, it's a catfish (Yeah)
+Block that account, it's a catfish (Dubplate special)
+Check my account, that's a madness
+Check my account, that's a madness (OVO, BBK)
+Block that account, that's a catfish
+Block that account, that's a catfish
+You don't know me, you better get to know me
+Stand up tall, right next to Kobe
+A young G, I had the weapon on me
+Slice up work like pepperoni (shing)
+The police still arrest the homies
+No statement, no testimony
+Spit in your face with extra bogey
+It's my time, I don't flex a Rollie
+On cloud 9, a man's extra cosy (greaze)
+I might switch it up and direct a movie
+Pussyholes tried to execute me
+Died and came back as Fela Kuti
+Don't phone me, send a text to Julie
+OVO, man's so unruly
+South by, ride out, no Suzuki
+Got the Austin Powers, a man's extra groovy
+Greaze, front row, jacket tailor-made
+Crackhead swag with the razor blade
+Red umbrella when I make it rain
+My whole team winnin', we don't play your game
+Sound like me, but they ain't the same
+See them online tryna fake the fame
+They wanna bust jokes, they think I'm Damon Wayans
+It's a madness
+Check my account, it's a madness (More Life)
+Block that account, it's a catfish
+Block that account, it's a catfish (OVO, BBK)
+Check my account, that's a madness (dubplate)
+Check my account, that's a madness (street team)
+Block that account, it's a catfish
+Block that account, it's a catfish
+Yeah, they're nothin' like me, I'm a fuckin' villain
+Go against me, that's a tough decision
+Police wish I was stuck in prison
+Fish-eye lens on my tunnel vision (straight)
+Real life greaze when I touch the riddim
+Still the same guy when I touched a million
+Record labels wanted us to listen
+But it's greatness only for the love of Britain
+I say it how it is and no fucks are given
+Greaze, so don't forget to remember me
+Especially all my enemies
+Keep your eyes on me with your jealousy
+The most solid gang that you will ever see
+Just came back from the embassy
+Check my crime sheet, check my legacy
+And now I'm back on tour, so what you tellin' me?
+(Greaze) Taliban, Halloween
+Pull up in the whip with the gasoline
+Yeah, that's that boy from the magazine
+Bust my dance at the cash machine
+Make her back it up, bounce on my trampoline
+Like Martin Luther, man, I had a dream
+Now it's my world, you can have the scene
+It's a madness
+Check my account, it's a madness
+Block that account, it's a catfish
+Block that account, it's a catfish
+Check my account, that's a madness
+Check my account, that's a madness
+Block that account, it's a catfish
+Block that account, it's a catfish
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_16505330/su_0/tr_PloXXiuBhdRy9OeLV6qWcxkxnxKdThwdLQmXPZQjKV5PC_d3G_QmLUrrvHgdmXgJSQxg5z3pGPNjCOyhpKDRTc_rUS3GWodnRMXMEimxCbfLY1VXdZGPl9OBAKBwVq2sFgtfH9Qc4KkyuDMyXXB4yqwViBECxrXePdQevqZzEZW7ettzI3CdmPniDQ43YMFBESAY9jps13mWC3Xn2vUTwPZvCGsJzJAHJgK6up0nOrQohXzQGsu4CzNnmaAXWSr2GIohhgOwzMCZQtZQDXYYggyUUMv_x9FYGCeVHntGlq-C2P9_9MAQEj9xoxBDlJ3UT6-eixmB4UTjc4xyWWoCw-l6rSlkL-gHSH_DDTD-PnUPoSr_QVr4b3ArJhOJErGR/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "More Life" (2017)
+
+
+
+
+Free SmokeNo Long TalkPassionfruitJorja InterludeGet It TogetherMadiba RiddimBlem4422GyalchesterSkepta InterludePortlandSacrificesNothings Into SomethingsTeenage FeverKMTLose YouCan't Have EverythingGlowSince Way BackFake LoveIce MeltsDo Not Disturb
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Skepta Interlude" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

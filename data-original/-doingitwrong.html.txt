@@ -1,0 +1,294 @@
+DRAKE LYRICS - Doing It Wrong
+ArtistName = "DRAKE";
+SongName = "Doing It Wrong";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Doing It Wrong" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Doing It Wrong"(feat. Stevie Wonder)
+
+[Verse 1]
+When a good thing goes bad it's not the end of the world
+It's just the end of a world, that you had with one girl
+And she's the reason it happened, but she's overreacting
+And it's all because she don't want things to change[Hook]
+So cry if you need to, but I can't stay to watch you
+That's the wrong thing to do
+Touch if you need to, but I can't stay to hold you
+That's the wrong thing to do
+Talk if you need to, but I can't stay to hear you
+That's the wrong thing to do
+Cause you'll say you love me, and I'll end up lying
+And say I love you too
+But I need someone different
+You know it, oh ho, you know it
+Oh ho, you know it, we both know it
+I need someone different
+You know it, oh ho, you know it
+Oh ho, you know it, we both know it
+Something's been missing
+You know it, oh ho, she knows it
+Oh ho, I know it, we all know it
+I need someone different
+(Oh ho, oh ho)[Verse 2]
+We live in a generation of, not being in love, and not being together
+But we sure make it feel like we're together
+Cause we're scared to see each other with somebody else[Hook]
+So cry if you need to, but I can't stay to watch you
+That's the wrong thing to do
+Touch if you need to, but I can't stay to hold you
+That's the wrong thing to do
+Talk if you need to, but I can't stay to hear you
+That's the wrong thing to do
+Cause you'll say you love me, and I'll end up lying
+And say I love you too
+But I need someone different
+You know it, oh ho, you know it
+Oh ho, you know it, we both know it
+I need someone different
+You know it, oh ho, you know it
+Oh ho, you know it, we both know it
+Something's been missing
+You know it, oh ho, she knows it
+Oh ho, I know it, we all know it
+I need someone different
+(Oh ho, oh ho)[Outro - Stevie Wonder Harmonica]
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_14754359/su_0/tr_O8lxquzSB6Wp8uGxY2Skf4RQ7HFlcImaYIyqKKCOLLcTVrihOwz-FP4TP7lCB5BdRp0liSLKejIYxtoQXAqBs77xb_q_UDdurKpsJYZ2DGAu5h6oVjdfmpE4VAWrpGUuxn2c5tu-A8TEAVWwDuCgOn37rwvNYvNYTR_5eQAMLeKFpvlN0vcKf4hp_sa-sXzjOR4oru3LnqA2E6TB_n57oo4vG48VUVqL8ej4SX4d-Z7quLpz8DUw0wBFCkb_F-xVBgLQ9sFX44-WHZGcdNBEj_b0TjK_fjqTAt2IWPQRcViaa6RqzvJlaa24uQCOEyVrNhNA_0jDWc_6hVhDdv-vKfEKg8yAawaSSfDIx9SbU8Pifc7tHbMdOdUwxjr50F9k/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): GRAHAM, GRAHAM AUBREY DRAKE, ECCLESTON ADRIAN, SHEBIB NOAH JAMES, MC LEAN DON
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Take Care" (2011)
+
+
+
+
+Over My Dead BodyShot For MeHeadlinesCrew LoveTake CareMarvin's RoomBuried Alive (Interlude)Under Ground KingsWe'll Be FineMake Me ProudLord KnowsCamerasGood Ones Go (Interlude)Doing It WrongThe Real HerHYFR (Hell Ya Fuckin' Right)Look What You've DonePracticeThe RideHate Sleeping Alone[iTunes Bonus Track]The Motto[Deluxe Edition Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Doing It Wrong" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

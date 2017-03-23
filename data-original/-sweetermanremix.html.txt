@@ -1,0 +1,298 @@
+DRAKE LYRICS - Sweeterman (Remix)
+ArtistName = "DRAKE";
+SongName = "Sweeterman (Remix)";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Sweeterman (Remix)" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Sweeterman (Remix)"(originally by Ramriddlz)
+
+Girl I know you wanna, you know I wanna
+Yeah, she keep giving me looks
+Hotter than the 6 in the summer, that ass, girl I wanna
+Girl I know you wanna
+You know I wanna
+Yeah, she keep giving me looks
+Yeah, girl I know you wanna
+She's a spice, ride pipe like bike, like Yokohama
+She heard the ting bend like banana
+So she wanna give me the adunana-ne
+She say I'm a sweeterman
+But she say that she don't need a man
+I say why don't we make an agreement then
+We can just fuck while we're being friends
+Girl I know you wanna
+You know I wanna
+Girl I know you wanna
+You know I wanna
+Shawty too fly though, that's all I know
+She don't sing songs, but if I go strong she gon' hit this high note
+She know she working with the nana
+And she wanna give me the adunana-ne
+She say I'm a sweeterman
+But she say that she don't need a man
+What if we make an agreement then
+We can just fuck while we're being friends
+Girl I know you wanna
+I know you wanna
+Girl I know you wanna
+I know you want to girl
+Ride the pipe like a bike, oh
+Do the things you know I like, oh
+I'm the man in my ends, oh
+You're the one, let's not pretend
+Cause the pussy too good, drink too strong
+Yiy too change, I'm too sprung, I, I, I
+The pussy too good, drink too strong
+Yiy too change, I'm so gone, I, I, I
+Girl I know you wanna
+I know you wanna
+Girl I know you wanna
+I know you want to girl
+Girl I know you wanna
+I know you want to girl
+Girl I know you wanna, I, I, I
+She keep giving me looks 
+She keep giving me looks 
+I need you right here beside me
+If you oblige me, I'll hang it up, and I'll never come out of retirement
+You should just sleep on it, you shouldn't doubt me
+It would be different without me
+What is it without me
+Don't go do nothing without me
+This is a blessing, mashallah, wallahi
+I swear my life story's better than stories they telling about me
+They got it twisted
+Ride the pipe like a bike, make sure you're going the distance
+And if he wasn't with it, then why were you with him?
+Maybe you just had to realize
+That knowing the difference can make all the difference
+She wanna ride me that adanunana
+Yeah she keep giving me looks
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_15490464/su_0/tr_P8JMQos_V4uT_hoAps5cSQp92PxT8uduXsGl41-mVUy4QsCiSTQ1K8T9Oe1KFADAQeCIezXaxd8pWAzWqYkDNNdyJmAPsbrOKEtVcEhAwjGcuh-CxdNyxpcp4PimCFB9QszDnKfJyGXGpS-cyEXYYr3CzqM1s5yAYAttztAdOxjV7uVobmMORY8ppsszKyajlQGMN61qNbkpBcGYTT1Nz-hhcgGng7yLN4ZYVSv24_vthN9XS5TsIn_5nW1reDkeWDl6Xv_E-tMd0oo1Y230OWYSf_j7F0jcW7tQl15stjxQjmAwJDPgFmwecHlAoTne3Mtc66b1t7Zcv8TTHcGX6NhcVqfhvYn9cPMVA-4Wl3D7PExf477lEyqHlYyB_WG_/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Sweeterman (Remix)" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

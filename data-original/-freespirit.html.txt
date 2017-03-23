@@ -1,0 +1,304 @@
+DRAKE LYRICS - Free Spirit
+ArtistName = "DRAKE";
+SongName = "Free Spirit";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Free Spirit" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Free Spirit"(feat. Rick Ross)
+
+[Rick Ross:]
+Tat my name on you girl so I know it's real
+Tat my fucking name on you so I know it's real[Verse 1: Drake]
+Tell a bad bitch girl, let's go hang
+You know me, rolex, gold chain
+Fuck my young niggas, XO gang
+Get so drunk you forget yo name
+Incense, burning, smoking out to my own shit
+Got black wood in my white Range, I'm taking off when that light change
+I'm Drizzy Drake to my old bitches, Voodoo child to my new hoes
+I miss this and I want it back, So I'm all in with these new flows
+New flows, got new flows, rap is stress but it pays great
+Pimp flows 'n screw flows, my shit be sounding like grape tapes, now
+Lemme go an hit that cup, 1 time before a nigga hit that road
+These days keep going by too fast, so give me anything that make shit go slow
+Yea, money in my safe, but I'm living dangerous
+They told me shit would change, but I don't really see no change in us[Hook: Drake]
+Tat my name on you so I know it's real
+Tat my fucking name on you so I know it's real
+I know it hurts, But I ain't tryna hear it
+'Cause when I'm not around, I'll still be there in spirit
+You'll still be mine, yea, you'll still be mine
+Tat my fucking name on you, when I go you'll still be mine, yea
+You'll still be mine, yea, I'll still be yours
+Tat my fucking name on you, let em know you love the boy, wassup[Verse 2: Rick Ross]
+I fondle the money, fornicate with a fortune
+I play with her mind, she masturbate with my Porsche
+It's simple love, it's simple math
+Her chest nice, not a wrinkle in her ass
+Puffin' purple hash welcome to my power circle
+Sucker free, no snitching, and we know when cowards working
+Rolls Royce rollin', rose gold rollie's
+MBA accountants, amounts they get unholy
+But mama still praying for her rubberband man
+When them wheels land, Travis Barker drums playin'
+Tap dance to my drum roll, I love a bitch that know to keep me one rolled[Hook: Drake]
+Tat my name on you so I know it's real
+Tat my fucking name on you so I know it's real
+I know it hurts, But I ain't tryna hear it
+'Cause when I'm not around, I'll still be there in spirit
+You'll still be mine, yea, you'll still be mine
+Tat my fucking name on you, when I go you'll still be mine, yea
+You'll still be mine, yea, I'll still be yours
+Tat my fucking name on you, let em know you love the boy, wassup[Verse 3: Drake]
+I don't have to work in the morning so I always stay for 1 more
+Fuck what they say, I'm telling you there's no side effects I'm sure
+Went from driving up on some old shit, to drivers opening doors
+This is my town, if you need something just ask for it's yours
+Yea, ask for it's yours, if you ask for it it's done
+I could Western Union some money, get your passport and then come
+You'll meet everybody I know, at first it might seem like a lot
+But they're all playing their role, Put that on everything that I got
+And all I care about is my city, man I can't say it enough
+I done heard things about y'all that they can't say about us
+I just hold it down for my side, I just hold it down for my sect
+I give everybody a piece of this, and I make due what's left
+Yea I do this shit to the death, yea I do this shit till I'm gone
+Yea, I told you that it's our world, and you're foolish thinking I'm wrong, OOh
+Stop asking how the fucking needle feel, tat my fucking name on you, let these niggas know it's real, wassup[Hook:]
+Tat my name on you so I know it's real
+Tat my fucking name on you so I know it's real
+I know it hurts, But I ain't tryna hear it
+'Cause when I'm not around, I'll still be there in spirit
+You'll still be mine, yea, you'll still be mine
+Tat my fucking name on you, when I go you'll still be mine, yea
+You'll still be mine, yea, I'll still be yours
+Tat my fucking name on you, let em know you love the boy, wassup
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_7871305/su_0/tr_As9TTiYtUEV_KS84PLVAE6ADqWjXRWRVJXRi8r6lO4liIQpp5r7SiPohvO3D00JYBZmkrBtIiutTcT8sxxpfMNkyLp5Im9sRpzKDfZNJCZMTbBSyUIsmoFfhTnBRmL1D8BjYHHG4y8k-CFHXV9p5v6U1puf5Pi93uXOIHf1KW_SSjceH2oAZ4bRReXmpElwF_cfH8ejh050tE_-2s4MXOTUJbgnaPBvi4ishPuxlJIiw7DoqcoSKZrSfxSAZAo5FkIlf2v2RFb-so22IhgY1CQKpqJiLwoK_Tovjh5j4XYKHX4Finb9KFrhS9JUMPKzGJy8q5Z2y0cbX5kJ2GZdKPg9mk9zImQjMZzYb9v0hCjtzrYGyEsMXjnGlhuZ8vKrB/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Randy, diana for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Free Spirit" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

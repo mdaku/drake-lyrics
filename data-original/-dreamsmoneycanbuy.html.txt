@@ -1,0 +1,301 @@
+DRAKE LYRICS - Dreams Money Can Buy
+ArtistName = "DRAKE";
+SongName = "Dreams Money Can Buy";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Dreams Money Can Buy" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Dreams Money Can Buy"
+
+Don't fuck with me, don't fuck with me
+Don't fuck with me, don't fuck with me
+I got car money, fresh start money
+I want Saudi money, I want art money
+I want women to cry and pour out their heart for me
+And tell me how much they hate it when they apart from me
+Yeah, and lately I do bitches the meanest
+Tell em I love em and don't ever mean it
+We go on dates I send the Maybach out the neighbourhoods, they never seen it
+That shit is dangerous but it so convenient
+I ain't lying, yeah
+And comfortable I sit
+That manual Ferrari Italian, some fly shit
+It's sittin' at the house like I bought it in '9-6
+Cause honestly I'm too fucking busy to drive stick
+I swear, too fucking busy, too busy fucking
+This nigga girl, but to me she wasn't
+Been hot before they open doors for me
+Preheated oven, I'm in this so
+But I ain't finished though
+It's been a minute though
+My newest girl back home, got issues with parents
+And some charges, how the fuck can I get her to Paris
+Luckilly, I'm the greatest my country's ever seen
+So chances are I get the border to issue me clearance
+Dreams money can buy
+Everybody yelled surprised I wasn't surprised
+That's only cause I been waitin' on it, nigga
+So fuck whoever hatin on a nigga
+Of course
+Don't fuck with me, don't fuck with me
+Don't, don't fuck with me, don't fuck with me
+Don't, don't fuck with me, don't fuck with me
+Don't, don't fuck with me, don't fuck with me
+Don't...
+Food from India, she in Charlotte Olympia's
+We talked music for hours she never mentioned ya
+Can't tell you how much I love when niggas think they got it
+And I love the fact that line made 'em think about it
+YMCMB these niggas make it so hard to be friendly when I know part of it's envy
+Tryna fill the shoes, nigga so far these are empty
+I take 'em off in the house because the throw carpets are Fendi
+Ohh, I never seen the car you claim to drive
+Shit I seen it, you just ain't inside
+And I feel like lately I went from top 5 to remaining 5
+My favourite rappers either lost it or they ain't alive
+And they tryna bring us down me, Weezy and Stunna
+We stayed up, Christmas lights in the middle of summer
+And if the girl standing next to me got a fat ass
+Then I'll probably give her my number
+Yeah, I throw my dollars up high
+And they land on the stage you dance on
+We got company coming over
+Would it kill you to put some pants on
+Dreams money can buy
+They told me it's like a high, it wasn't a lie
+Yeah, just have some good pussy waiting on a nigga
+And fuck whoever hatin' on a nigga
+Don't fuck with me, don't fuck with me
+Don't, don't fuck with me, don't fuck with me
+Don't, don't fuck with me, don't fuck with me
+Don't, don't fuck with me, don't fuck with me
+Don't...
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_11874939/su_0/tr_CAE5Ovv_HTx2JKtBEeMWPylQTAt3wf3Y1pHYhH0KjuovcEbjcFZSnplarRN0Vz58mXRiZy_BOCEE0342seL1QC914HbEGGkmS4NU-_lbVgYTIaDUit3-eW23iIgEppyY1Z5n-PDBmPrhWT_4UV_iSq1dAcVDrHzsCEmvqFKtLH2PzvrEtHhXqJ2Iuyk2IzWc5_o3voCcLQ2BeUjrYAPaWmW0Gm0hNq0W2hmduiYIeZ8S1LOoLaDI49KKoy9-7C4UbFQEwIEaNmJPzZBumBGtZSWj3S3KU_am_Nksizx5FkTNFRVBgbqCF6UQeYxHgDLn2J6EBhHDbCS66O39tjyKAR1oUcjqh7AeTW4_EVhSbWLz66Oi6XlPBXLq3sgNekHY/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Amin for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Adrian Eccleston, Aubrey Graham
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Dreams Money Can Buy" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

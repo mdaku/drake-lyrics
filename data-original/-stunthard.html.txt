@@ -1,0 +1,402 @@
+DRAKE LYRICS - Stunt Hard
+ArtistName = "DRAKE";
+SongName = "Stunt Hard";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Stunt Hard" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Stunt Hard"(feat. Lil Wayne, Nut Da Kid)
+
+[Drake chorus]
+I did it all on my own,
+Turned a chair to a throne,
+I'm a king in this world,
+(Stunt hard)
+I put my whole city on,
+To some things that they never would've known,
+If I didn't,
+(Stunt hard)
+And every night is a premiere,
+If I ever dissapear,
+Best believe I'm comin' back.
+(Stunt hard)
+Got rich, went broke, and got rich again,
+On that same shit again,
+All I ever do is,
+(Stunt hard)[Drake verse 1]
+I tell her.
+I'm getting motherfuckin' busy.
+So many spins my records is motherfuckin' dizzy.
+Haters wanna turn to their girl and be like, "Who is he?"
+But I bet a million she tell you that's motherfuckin' Drizzy.
+And I'm focused on my survival.
+Keep an eye on the door, focus on my arrival.
+Who do you look up to when you're better then your idol?
+And how you 'posed to look when you do it with your eyes closed.
+I'm everything you just haven't become.
+I spend my time trying to outdo what hasn't been done.
+Now hopefully let them see,
+What they say that I'm gon' be,
+And if not our whole future does in the memory of me.
+Get your team in order, assembly is key.
+And all my niggas shut up at the mention of a plea.
+They rather be apprehended and keep quiet then to be,
+On the stand jeopardizing every inch of their loyalty.
+Pick a lane pick a lane. That's all I ever heard.
+But I'm just trying to swerve.
+Without hitting the curb.
+That's why I spend thousands on bottles so I can pop them.
+And take photos wit hater niggas and crop them.
+I am not them. I photoshop them, out.
+'Cause they don't understand what I'm about.
+Yeah.
+The Chris Paul
+Of this fall,
+Sittin' this tall.
+I float high,
+Goodbye,
+I will miss y'all.[Drake chorus]
+I did it all on my own,
+Turned a chair to a throne,
+I'm a king in this world,
+(Stunt hard)
+I put my whole city on,
+To some things that they never would've known,
+If I didn't,
+(Stunt hard)
+And every night is a premiere,
+If I ever dissapear,
+Best believe I'm comin' back.
+(Stunt hard)
+Got rich, went broke, and got rich again,
+On that same shit again,
+All I ever do is,
+(Stunt hard)[Lil' Wayne verse 2]
+If I don't do nothin', I'ma stunt my ass off.
+Money sittin' in the pocket, 'bout to get a passoff.
+And I smoke that shit that smell like when you take your cast off.
+And I got them beach bitches, like David Hasselhoff.
+Baby I'm an acrobat. Sweetie, I'm a stuntdevil.
+You can't get on my level 'cause I am so unleveled.
+I'm a young rebel.
+And I got a babyface.
+I need a young Pebbles.
+I need a stuntdouble.
+Yeah!
+Me, Drake and Kid and you know it's trouble.
+We got 'em drownin' in the flow, you see 'em blowin' bubbles.
+Yeah!
+I stick my landin' in a freak drawers.
+I'll have her bouncin' back like Dominique Dawes.
+Yeah!
+But I ain't stuntin' these hoes
+I been pimpin' since Hulk Hogan was N.W.O.
+Yeah!
+I'm wild, Drizzy tough, and the Kid vicious.
+The three horseman, we just need Sid Vicious.
+Yeah!
+I'm on the cup of that tilt.
+And if you hatin' on me
+I'll say fuck you like Wilt.
+Yeah!
+Im a wild-erbeast. You're just a wilderbeast.
+My two fingers make a gun, that shoot and kill ya peace.
+Yeah!
+Talkin' big big shit.
+I am rude,
+I take food,
+From a kid picnic.
+Nigga.
+Yeah!
+And we can bang like bumper cars.
+You know I stunt shit 'cause I write all Stunna bars.
+Haha.[Drake chorus]
+I did it all on my own,
+Turned a chair to a throne,
+I'm a king in this world,
+(Stunt hard)
+I put my whole city on,
+To some things that they never would've known,
+If I didn't,
+(Stunt hard)
+And every night is a premiere,
+If I ever dissapear,
+Best believe I'm comin' back.
+(Stunt hard)
+Got rich, went broke, and got rich again,
+On that same shit again,
+All I ever do is,
+(Stunt hard)[Nut Da Kid verse 3]
+I stunt hard. I stunt harder.
+Boy they call me Jackie Chan in New Orleans.
+I ball hard. So I'm a ball hogger.
+And I go hard and I dunk like Vince Carter.
+I hustle harder.
+I live in the Carter.
+I think forward,
+All I see is tommorow.
+I need meat.
+I'll turn your shop into a horror.
+So if you trying to see more
+Better feed me.
+I'm back on my grizzy like Izzy Efeger.
+Don't he look like a black grizzly in that black fur?
+And the Feds will never get me,
+Like a backwards,
+Password,
+Black spur,
+Go some like Pacman, cats first.
+Vanilla Ice got 'em hangin over the banister
+Ask her,
+Am I their man,
+Her answer,
+Is yessir.
+Shit.
+I'm tourin' state to state
+I played the RTA
+'Bout a quarter a day.
+Now tell them bitches.[Drake chorus]
+I did it all on my own,
+Turned a chair to a throne,
+I'm a king in this world,
+(Stunt hard)
+I put my whole city on,
+To some things that they never would've known,
+If I didn't,
+(Stunt hard)
+And every night is a premiere,
+If I ever dissapear,
+Best believe I'm comin' back.
+(Stunt hard)
+Got rich, went broke, and got rich again,
+On that same shit again,
+All I ever do is,
+(Stunt hard)
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_8017850/su_0/tr_EORLo_Vr2gY_TUn5GuVnoY0qYXtAptJ-Q9CzDjfCEQiBXxQkoajjZqJSOfptCy6D6KcqlKw37eTI3zqKbjiqUWYlpSKw2517XQZ9eO4YWaIk0nInFzW5iFftUsB5RQD1P40KHmOGMBP8z6tLtGrGSKPKk7gD0IqpOpxsmCP-cA3QEsNjQRtraZ1uLnpFU_4Uam_zEpSe1TJaFkzEYaILEJ2-V-oPCTPKQKaIRfOcUZtpysbos-bDB6xk4HxyU5KQsAdRqFfwAdqWs5tbFAYp_nBZOt5AZ8k1cmmeSEniS8t8NzaE20whQ6SjZan-kl_YcgDsq5McV5bJfmic7vM5G6Fvn_83rmXbBlnjN96l7rJR5gGXzy56fFSVkKhJhjhq/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to david for adding these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Stunt Hard" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

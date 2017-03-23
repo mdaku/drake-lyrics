@@ -1,0 +1,315 @@
+DRAKE LYRICS - Do Not Disturb
+ArtistName = "DRAKE";
+SongName = "Do Not Disturb";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Do Not Disturb" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Do Not Disturb"
+
+Yeah, stylin' though
+Dissin', but got pictures with me smilin' though
+All the things you need, you still want problems though
+All the things I know, I still been silent though
+Yeah, used to be at SilverCity Indigo
+Used to be in lunchroom, playin' dominoes
+I don't want to have to go to funerals
+I gotta start sleepin' at the studio
+I don't have no time to be no Romeo
+All the love I need is at the rodeo
+All the love I need is here at OVO, yeah
+All the girls I know are there with Ian Throw
+Who knows where I end up when that shit gets old?
+Maybe it never gets old and that's just how it goes
+Last table left in Carbone, callin' plays on a rotary phone
+I take a glass, it don't mean, "Nah, don't go with me home."
+Might move our annual shit to the 'Dome
+I need 40, 000 people to see what I'm on
+Yeah, ducked a lot of spiteful moves
+I was an angry youth when I was writin' Views
+Saw a side of myself that I just never knew
+I'll probably self-destruct if I ever lose, but I never do
+Steady doin' double shifts
+1da doin' the beat and I open up like a double click
+More blessings because I'm generous
+Thirty-seater plane for like ten of us
+Remember when I bought Sealey the fake Chanel wallet
+She knew that shit was a fraud but never told me about it
+Nowadays when we catchin' up we just laugh about it
+Can't describe what my life is like when she asks about it
+Scary whenever I close my eyes at night
+Wakin' up to public statements about my private life
+I can never sleep 'til morning on all my quiet nights
+But you can rest assure that my mind is right
+Get no sick days, I leave for like three months in six days
+Never stick around to see shit change
+Get lil' updates, texts in my inboxes have been poppin'
+Seasons go by like I'm binge-watchin'
+Went from Club Palazzo in the Bridge to Club LIV
+To not even showin' up to a club 'less we doin' bis'
+I can't even party while a nigga pursuin' this
+Distractions will do you in, in the truest sense
+Especially people that want to lecture me, and frame it like they just want the best for me
+Or they check for me, whatever splits it up
+So there's more for them and there's less for me
+They don't know they got to be faster than me to get to me
+No one's done it successfully
+7AM in Germany, can't believe that they heard of me
+Last verse that I gotta do is always like surgery
+Always tryin' to let go of anything that'll burden me
+That's the reason you can feel the tension and the urgency
+Last chance I get to make sure that you take it personally
+Take this shit to heart, it's always executed perfectly
+If we do a song it's like takin' my kids to work with me
+You overnight celebrity, you one day star
+Swear I Told You that I'm in this bitch for eternity
+I am a reflection of all of your insecurities
+Behind closed doors, a lot of 6 God worshipping
+Done talk now, 'cause there's other shit that's concernin' me
+There's real ones around me
+I want to make sure they learn from me
+I want to see my dog, but his grandmother's his surety
+He can't even dip out to see me in an emergency
+My life is set around competition and currency
+Takin' summer off, 'cause they tell me I need recovery
+Maybe gettin' back to my regular life will humble me
+I'll be back in 2018 to give you the summary
+More Life
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_16505383/su_0/tr_9V2bGAhVsnt7MdBqgBNzkMfjzz8aZdkb1_7gfIMDvNKGclwRRLwOZ1k3LxrBwvkEhY9iUdUmAi14dp-he-ov81qxSfsqu3DeUEW5DKBiCGgPAv_QYGcZrinw8r8IQ-XpiiVtMrdSczN6co1LFCniS-Os3ppVMRjxs-6MSVuNoq6W-JxHy2iJjnlVG8IhyYrOx7dzFhfw2Q10yBhQecTDyC4KH_jibXA0tHxUj2p9uUjpjHtKMDbWTA2zx6LlzeY6q3ls94vgMUpoBSDj9XZ6V5pZhXsAdsHTGSzgGBgsE7U93lTtxJg74AS1gKP33eE02htuDNg537tM8cJNyHKssbknNOUFlhJOQRdPSU1OUnv8N4gW4CyWg2-1FYASO4r7/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "More Life" (2017)
+
+
+
+
+Free SmokeNo Long TalkPassionfruitJorja InterludeGet It TogetherMadiba RiddimBlem4422GyalchesterSkepta InterludePortlandSacrificesNothings Into SomethingsTeenage FeverKMTLose YouCan't Have EverythingGlowSince Way BackFake LoveIce MeltsDo Not Disturb
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Do Not Disturb" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

@@ -1,0 +1,319 @@
+DRAKE LYRICS - Diamonds Dancing
+ArtistName = "DRAKE";
+SongName = "Diamonds Dancing";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Diamonds Dancing" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Diamonds Dancing"(with Future)
+
+[Future:]
+I'm at a stage in my life where I feel like I can conquer anything and everything[Future:]
+Sipping on Dom Pérignon for no reason
+Popping tags, upper echelon for no reason
+Seen this bad little jawn, she was perfect
+I'll let her push the foreign right now if she worth it
+Balling in the middle of the club, no jersey
+I don't want no liquor cause I been drinking that dirty
+Bring that ace, bought a case, my niggas with me
+Bring some ice for my cup I drink with me
+Diamond, diamond, diamond, diamonds on me dancing
+Diamond, diamond, diamond, diamonds on me dancing
+Diamond, diamond, diamond, diamonds on me dancing
+Diamond, diamond, diamond, diamonds on me dancing[Drake:]
+And you know what I need from you when I get home
+You better not be on the phone
+Talking up a storm like you usually do
+Talking up your friends like you usually do
+Telling them I never spend time with you
+It's hard to find a time we been[Future:]
+Sipping on Dom Pérignon for no reason
+Popping tags, upper echelon for no reason
+Seen this bad little jawn, she was perfect
+I'll let her push the foreign right now if she worth it
+Balling in the middle of the club, no jersey
+I don't want no liquor cause I been drinking that dirty
+Bring that ace, bought a case, my niggas with me
+Bring some ice for my cup I drink with me
+Diamond, diamond, diamond, diamonds on me dancing
+Diamond, diamond, diamond, diamonds on me dancing
+Diamond, diamond, diamond, diamonds on me dancing
+Diamond, diamond, diamond, diamonds on me dancing[Future:]
+I'm familiar with this cash flow
+And if you juggin' you can vouch for me
+I did it my way, you could vouch for me
+I put the cocaine in the powder in the couch homie
+Whenever I step outside the house I keep that glockie on me
+Bad bitches wanna come buy the paparazzi on me
+I got so many bad bitches that I barely wanna
+I'm barely paying attention, baby I need substance
+I know you spend some time putting on some makeup and your outfit but
+Diamond, diamond, diamond, diamonds on me dancing
+Diamond, diamond, diamond, diamonds on me dancing
+Diamond, diamond, diamond, diamonds on me dancing
+Diamond, diamond, diamond, diamonds on me dancing[Drake:]
+You doing me dirty
+You doing me dirty
+You doing me dirty
+You doing me dirty
+You know
+How we let it get like this I don't know
+But that nigga can't save your soul, nah
+Doing me dirty, you doing me dirty
+Haven't a nigga heard from you
+How can you live with yourself
+Haven't even heard from you
+How can you live with yourself
+Ungrateful, ungrateful
+Your momma be ashamed of you
+I haven't even heard from you, not a single word from you
+Ungrateful
+I'm too good for you, too good for you
+You should go back to a perfect match for you, unstable
+Doing me dirty (dirty, dirty)
+You're making me nervous
+I haven't even heard from you
+You look drained, you look exhausted
+Girl them late nights ain't good for you
+Really starting to show on you
+Don't hit me up when it's good for you
+Ungrateful
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_12211274/su_0/tr_d6O1b1OLyzHLLMTk1-BfeSWquDrH1WUu8C6J6IZluXIQEraK8__MvN1cRohAKvsybGWT5uHBf5NQrgEHJxy3r8ESMqlxeqKOpTOK9N0iAvysr-m-D2125tdf2RcCubEYqO9kYlsilgzg02O7cPnMyhtyQZGhHDvT4bVcHh4kVEOPeU29GgV79MSNo_BQ9IA0jbCTz3NR0Cyvsgfcihbt3sH6zrsLJOxAyZ7K-DXoaj5Q5OzYn5gMyVPbcXMUypc_LQZr61tEfoDWRlWfW7oTwBZRUgqeF1501HrELP9SWvKJmCqldB_S1bNtt8fkiQyj0S5D3zEh873M0rPpjuJwnQVaEftbUXKMpDnKMYxClIl83Pst4UXpKZxeB8HoyKoG/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): Allen Ritter, Adam King Feeney, Aubrey Drake Graham, Leland Tyler Wayne, Viparat Piengsuwan, Nayvadius Wilburn
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "What A Time To Be Alive" (2015)
+
+
+
+
+Digital DashBig RingsLive From The GutterDiamonds DancingScholarshipsPlastic BagI'm The PlugChange LocationsJumpmanJersey30 For 30 Freestyle
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Diamonds Dancing" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

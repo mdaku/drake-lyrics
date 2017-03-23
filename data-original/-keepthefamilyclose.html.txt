@@ -1,0 +1,309 @@
+DRAKE LYRICS - Keep The Family Close
+ArtistName = "DRAKE";
+SongName = "Keep The Family Close";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Keep The Family Close" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Keep The Family Close"
+
+It's a little chilly out there
+How you can stand there is beyond me
+All of my "let's just be friends" are friends I don't have anymore
+How do you not check on me when things go wrong
+Guess I should've tried to keep my family closer
+Much closer
+All of my "let's just be friends" are friends I don't have anymore
+Guess that's what they say you need family for
+Cause I can't depend on you anymore
+Always saw you for what you could've been
+Ever since you met me
+Like when Chrysler made that one car that looked just like the Bentley
+I always saw you for what you could've been
+And even when it's business with you it's personal again
+I knew you before you made ends meet and now we're meeting our end
+And it's all because you chose a side
+You're supposed to put your pride aside and ride for me
+Guess it wasn't time (yeah)
+And of course you went and chose a side that wasn't mine
+You're so predictable I hate people like you
+Kennedy Road taught me not to trust people like you
+How you supposed to figure out what I'm going through
+You can't even figure out what's going on with you
+You judge me 'fore you met me yeah it figures
+I make all the player's anthems for the real niggas
+With my dad out in Tennessee is where I belong
+Out here in L.A. I don't know what's going on
+I don't know what's going on
+And it's all because you chose a side
+You're supposed to put your pride aside and ride for me
+Guess it wasn't time (yeah)
+And of course you went and chose a side that wasn't mine
+You sit and you pray hoping that the stars align
+My luck is a sure thing cause I'm living right
+When I needed you, you couldn't give me any advice
+But you always had something to say every other time
+Everybody that I met on the way tries to get in the way
+I'm fooding and serving them all like I'm working for minimum wage
+Someone up there must just love testing my patience
+Someone up there must be in need of some entertainment
+Forgiveness for your ways
+If I ever loved ya, I'll always love ya that's how I was raised
+Same way I'm right here still feeling the way
+Same way I'm realizing on a day to day that
+All of my "let's just be friends" are friends I don't have anymore
+How do you not check on me when things go wrong
+Guess I should've tried to keep my family closer
+Much closer
+All of my "let's just be friends" are friends I don't have anymore
+Guess that's what they say you need your family for
+Cause I can't depend on you anymore
+Much closer
+Anytime people want to start problems
+It's like "for real, are you dumb?"
+You know who mans are
+I'm not afraid no gyal heart man
+And I'm not afraid of no cyattie
+And I'm not afraid of no waste yute neither
+So anybody who want it can get it
+Seh feh
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_15279484/su_0/tr_7z95Rt-ZKk4lNREci0mLgNY2MhrszhSH7O1ih44L0a3nfxsmPdKkB_Llod-wKKC2oRGIN9ry5MvKollmAUUSgptt752k6d1GEobPdDtjKkxBeXeMJhuWzW4MM4ugspPnKg3pu4Z7jpY0aaZE6yVegT03iiOxJM_ZUxFtjizyeEmoEj2tyQBHpfAq5NS-Ra0dxi0g2aTyAxcXoQqb41fG4oEFqnm-lkQ4jDgL1wKt8o8PTYtYdF-22QLFgk3ZWsKwDIUkpnv5zuZWmNavN7ilTMp7gcsYmfmyRsHZnFNVIbKVOpLSi8GLOxC76iWM9H11Hj9a8duRTMQukjBVHz9dqmsTGQwQN8auarQRP5VcRA-a7xbynVfbCrTPfZpJkWWm/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Vonessa, Santino for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Maneesh Bidaye, Aubrey Drake Graham, Aubrey Drake Graham & M. Bidaye
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Views" (2016)
+
+
+
+
+Keep The Family Close9U With Me?Feel No WaysHypeWeston Road FlowsRedemptionWith YouFaithfulStill HereControllaOne DanceGrammysChild's PlayPop StyleToo GoodSummer's Over (Interlude)Fire & DesireViewsHotline Bling[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Keep The Family Close" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

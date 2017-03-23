@@ -1,0 +1,322 @@
+DRAKE LYRICS - Child's Play
+ArtistName = "DRAKE";
+SongName = "Child's Play";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Child's Play" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Child's Play"
+
+Breaking news my niggas
+If your girlfriend has went to any
+Season opener basketball game
+Best believe, she's fucking some niggas on that team
+She's fucking somebody on the basketball team
+If she's at the game
+Right, right, yep
+I say bounce that shit like whoa
+Yeah, bounce that shit like whoa
+This is not a fairy-tale, I already know how you like it
+Take you to the mall and get you a new outfit
+Girl that's just some child's play
+Bounce that shit like, whoa, whoa, whoa
+Whoa, whoa, heard all of the stories about you
+I already know and I like it
+Take you to the mall and get you a new outfit
+Girl that's just some child's play
+Bounce that shit like, whoa, yeah
+Bounce that shit like, whoa
+Why you gotta fight with me at Cheesecake
+You know I love to go there
+Say I'm actin' lightskin, I can't take you nowhere
+This a place for families that drive Camries and go to Disney
+They don't need to know all of our business
+You wildin', you super childish, you go to CVS for Kotex
+In my Bugatti, I took the key and tried to hide it
+So you can't drive it, and put on mileage
+Then you find it, awkward silence
+Mama is a saint, yes she raised me real good
+All because of her I don't do you like I should
+Don't make me give you back to the hood
+Don't make me give you back
+I say bounce that shit like whoa
+Yeah, bounce that shit like whoa
+This is not a fairy-tale, I already know how you like it
+Take you to the mall and get you a new outfit
+Girl that's just some child's play
+Bounce that shit like, whoa, whoa, whoa
+Whoa, whoa, heard all of the stories about you
+I already know and I like it
+Take you to the mall and get you a new outfit
+Girl that's just some child's play
+Bounce that shit like, whoa, yeah
+Bounce that shit like, whoa
+Yeah, rode that dick like a soldier
+She rode it like a soldier
+She rode it like a, yeah, yeah
+I got it, yeah
+You don't wanna fall in love I know
+I'm not someone you should trust I know
+I give Chanel out like a hug I know
+I knew a couple of your friends way before
+How many girls have slept in this bed
+Say a different number than the one that's in my head
+Lying to protect you I be doing that a lot
+My past checkered like the Louis you just got
+Married in our twenties now, where the fun in that?
+My city love me like a college running back
+Pack a bag you gon' end up staying where I'm at
+Took you from the hood, and I could never give you back
+I just wanna let you know that someone love you back
+All the Cadillac, like I'm Teddy Pendergrass
+Whippin' on this shit I'm getting ready, where you at?
+Riding...
+Rode that dick like a soldier
+She rode it like a soldier
+She rode it like a real marine soldier
+She rode that dick like a soldier
+She rode it like a soldier
+She rode it like a real marine soldier
+Thank you, thanks Drake, thanks baby
+Motherfuckers drunk and tired
+Tired, I'm tired boss
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_15280343/su_0/tr_3EltkS2-FBrVUyQBpJ9SEgWju-YRuf3h4l0ttGWd15xq-Jm0D9EzA3dwcucxRj0RrOSh2qNY40LVRXa9e3DL7M5USYn3W7GDxPdjjhhzxY2oADtcMs_BgL6WDzrMwBLoqqT5fPT5yng_nE0Z3NyufBcTcPL6SLoqahNk8LmtgrrWuQqjjjy5Y5leeLaSHsVIS1EteKOLqv51lDDKJJSvdim3QSmRjjsyQeHXnNd2yTXelWdC6KsBH8xttlZJq2iPs2Y2cNzQNcqV0jVTtt0JtCc1bYsomi7KBsn_Zkyfckx6sxim_4nHuBTCet-nqb3sV1HaBYSLuH8ncwAHGss_77nHkks34gjhPLCddHFeHCj2fJfRJMGMNRVBptjkwEKc/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Anam Hussain for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Malcolm Nichols, Leland Tyler Wayne, Damon Yul Wimbley, Darren Robinson, Aubrey Graham, Mark Morales, Noah Shebib
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Views" (2016)
+
+
+
+
+Keep The Family Close9U With Me?Feel No WaysHypeWeston Road FlowsRedemptionWith YouFaithfulStill HereControllaOne DanceGrammysChild's PlayPop StyleToo GoodSummer's Over (Interlude)Fire & DesireViewsHotline Bling[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Child's Play" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

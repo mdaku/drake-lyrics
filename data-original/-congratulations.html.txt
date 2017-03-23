@@ -1,0 +1,341 @@
+DRAKE LYRICS - Congratulations
+ArtistName = "DRAKE";
+SongName = "Congratulations";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Congratulations" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Congratulations"
+
+[Verse 1:]
+Black Hearts on my card again
+At the crib tellin ya girl that we should order in
+And tell Gee to put his feet up on the automin
+We just up against a bunch of rappers
+I go harder then
+Damn I'm so catch-trina smarter then
+Alot of these niggas swear
+The coaches brought the starter in
+Yea and I'm the type to tell your daughter things
+I float high don't try and cut my water wings
+I'm still myself suicide bars I kill myself Charge it to the game I bill myself
+And I don't feel ya'll but I feel myself
+Auntie Doe tell em' I deserve a mozeltov
+I'm rapping like a Sheppard with the mussel off
+I'm next to blow PAUSE
+And I can't hear the critics
+Talkin over the applause
+Yeah I tried to tell em future let em know
+Sending haters all my love X and O
+I got a black box wear suggestions go
+But I don't really give a fuck
+It's probaly best you know
+My reality is brighter than your dreams are
+I got your dream girl riding in your dream car yeah...
+And the visual is stunning
+I hope they document what I'm becoming
+CONGRATULATIONS[Verse 2:]
+So What you want an award or something
+I'm at the private airport boarding somethin
+I see nothing from a far but I'm far from nothin
+Put on your Poker Face
+I'll pull ya card if you bluffin
+But I ain't with the hard talk
+I got a Monopoly catch me on my boardwalk
+Like I said we'll pull ya card
+And find out you're a Hallmark
+Just know I'm breaking world records
+No false start
+I don't see ya point
+Unless it's gunpoint or somethin
+My deal like Weezy first week
+One point Somethin
+And my verse is gettin stupider
+Wayne if your on Mars
+Can you pick me up from Jupiter?
+Phone blowin up so I'm cuttin off my cellular
+I'm a superstar
+Know that on to my Nebula
+I will break a leg
+Break an arm
+And a fibula
+When I break it down
+When I When I break it down
+I hug and kiss the drum kick
+I put the beat in my back pocket and just sit
+But you can never beat my ass PAUSE
+Again DAMMIT ya'll again ya'll
+Pretend that we are
+Some men that get it on and in
+I die before I lose cause I was born to win
+If he don't fuck with ya'll
+Then don't bother him
+And yes I fucked this game
+But I won't father them[Verse 3:]
+It's like these days man I'm booked
+And I'm busy Dad named me Drake
+Foots named my Drizzy
+They try to tell me I'll never be nothing
+But a Protege but if you watch the VMA's
+There's nothin more to say
+I got the key to happiness and all the copies
+Remember this day like you bought a POPPY
+And damn how I get so nice
+I done spent it all once
+Bout to get rich twice
+Surprise party Bitch now it's on and poppin
+I always choose dough like it's my only option
+Cause money always knows best
+Chain Snatch Flow they say get it off yo chest
+And I'm what all the fuss about
+And if they talkin I bet
+I'm what they discussion bout
+Hit me at the office same extension
+Consider me the reason ya'll should
+Pay Attenion[Lil Wayne:]
+It's CRACK
+A yo Drizzy you shoulda said dat on da hook you shoulda been like
+Congratulations it's CRACK
+Yea
+It's Crack Hahaha congratulations
+Ladies and Gentlemen
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_1387546/su_0/tr_nBs5CmuEKBz67LfZhBV4EH0nR3yN6Sj-kwYGV4LZIG13MSMnwysjhpgh7Apadq7lKoYdPs-TIyhFnrf1qnMe-ZyJA5F7bprLSQaMNt2ChhOQi1Ykfr_AFM--nwyIVMDcZD1xNdSUQA1ddEI7-CuUPhWvH7ot2aYW0Ed4MgTbj-hQKI45z9qUZ4OHun2vctV6W-eblb87F-LQErmh0M1HE6LPniZ5S7npE3SFGVeByJJhdWNwZdpLU1gtJylWBzHubFcnFWtP4o5rLSJobH0gbGxa4QIQ8yvE9DuerJZPxjIwOD93dsQu0c0Gugodt_jMxaRI59S26s0g6eie9BuGjA/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Josh Sanks for adding these lyrics.
+Thanks to Nate Brown, Kevin Rincon, Tanya, Ezli Garza, Salvo for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "So Far Gone" (2009)
+
+
+
+
+Lust For LifeHoustatlantavegasSuccessfulLet's Call It OffNovember 18thIgnorant ShitA Night OffSay What's RealLittle BitBest I Ever HadUnstoppableUptownSooner Than LaterBria's InterludeThe CalmBrand New[Bonus Track]Congratulations[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Congratulations" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

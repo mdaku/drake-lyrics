@@ -1,0 +1,284 @@
+DRAKE LYRICS - Round Of Applause
+ArtistName = "DRAKE";
+SongName = "Round Of Applause";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Round Of Applause" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Round Of Applause"
+
+[Intro: Waka Flocka Flame]
+(Burp) Excuse Me
+Shorty wanna hmmmm
+Alright lets go in the club man
+aye bro you got a swish
+Bro, how many 1′s you gettin bro
+Alright fuck wit me Ill see you in then
+(Uhhhh)[Chorus: Waka Flocka Flame]
+Round of applause, baby make that ass clap
+Drop it to the floor, make that ass clap
+Round of applause, baby make that ass clap
+Drop it to the floor, make that ass clap
+let me see you, bust It, bust it, bust it, bust it, bust it, bust it
+Baby drop it to the floor and
+Bust It, bust It, bust it, bust it, bu-bust it, bust it
+Drop it down and just,[Verse 1: Drake]
+Uhhhhh bust it like you cant afford a car,
+You a star, you look in a mirror you know who you are, Right?
+Cool, take it low, take it way lower than that
+I fly private when I go, ain't no layover on that
+Yeah I made it to the top, took a seat still sittin’
+Man I'm up in stadium in DC still tippin,
+She coulda paid tuition 5 times, still strippin
+I just throw a couple bills and she’ll have a pair a heels? (Ohh No)
+There I go, magic trickin on yo ass, throwin every president except for Nixon on yo ass
+Make you rich I feel I should make commission on yo ass,
+Wonder what you’d ever do If I went missin’ on yo ass, huh?[Chorus][Verse 2: Waka Flocka Flame]
+Bounce that ass, shake that ass like the twerk team
+Hair long, ass phat, shawty mean
+That girl look like Halle Berry when I'm on them beans
+When I hit the scene girls yellin’ and they scream
+Flocka can you be my baby daddy?
+Pimpin like I'm dolemite, hoes jump in my caddy
+Smoke like I got Cataract, In the strip club throwin up them stacks
+Got racks on top of racks, bust that pussy make that ass clap, clap, clap
+I ain't done wit you baby bring that ass back
+Still got 20′s, still got 50′s, even got them 100′s
+Throw some money, throw some money, Imma let it go,
+Waka Flocka Flame better know as Mr.Let It Go[Chorus][Verse 3: Waka Flocka Flame]
+Bounce that ass, shake that ass like the twerk team
+bust it, bust it, like the twerk team
+bust it, bust it, like the twerk team
+Bricksquad monopoly, shawty that's my home team
+All the smokers they gangsta green, Cant do no G talk
+I need a classy girl in the bed she ain't gotta be a freak hoe
+Bust it, bust it, Lay down on that floor girl
+Bust it, bust it, gimme some more head girl[Chorus]
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_12644588/su_0/tr_0jDoReqDf4HGMWjuYOLIHGgBhVXgu3r0CDczKNMGz9EOT9hIM0b6cBv7LcfadSCO3HsUjffj6MKVDPE20_eq4pCe5LwbUCjtRAIaZDJT_M_MYxsvECI894Xir-mhto9f5xq1cmFCyO2GPPhO8GZPYiU6IrzXrSgL8FpLxAW-2dd0XclIfxdkrBNKIV8WHP2GicHVThPMCFNVK5dwXDdLjdrI8sI_TbLMu79nP4js9w1nsR5Kq1zZSIEoPHpG8pLhDSbb_eR-8o9gWvOxNZqAXG0-ZMlf6T069yK7A5ytHJSidsLWsNBSwZYbZjVz22S2hxUKJJbbYE-8i4HIRMH1B4Xtqixgl-yMyS4i8v9jYxdJjzOA75aNApJbk_PFbZnO/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Jevon Tompkins for adding these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Round Of Applause" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

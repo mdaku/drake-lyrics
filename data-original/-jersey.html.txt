@@ -1,0 +1,333 @@
+DRAKE LYRICS - Jersey
+ArtistName = "DRAKE";
+SongName = "Jersey";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Jersey" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Jersey"(with Future)
+
+[Future:]
+First I got married to money
+Then I fell in love with that dirty
+First I got married to money
+Then I fell in love with that dirty
+Extendo, extendo, extendo
+The clip got a whole lot of 30
+I got my clique and they represent this
+Like a nigga wearin' jerseys
+Like a nigga wearin' jerseys
+Like we love wearin' jerseys
+Crime rate's goin' crazy, crazy
+Cause my young niggas so thirsty
+Couple commas, made a purchase
+Caught the wave, I ain't surfin'
+Caught the wave, I ain't surfin'
+You do what you want when you poppin'
+You do what you want when you poppin'
+You do what you want when you got it
+You do what you want when you got it
+You do what you want when you poppin'
+You do what you want when you got it[Future:]
+I be on syrup, they know it
+Stack up some money then blow it
+I do what I want and I spazz
+Take the styrofoam, pour the syrup up
+It's a dress code but it ain't for us[Future:]
+Do what you want when you poppin', don't fold up
+When I'm feelin' the stress then I pour up
+Reppin' the set like a soldier
+Hop out the Bentley and roll up
+I wasn't splurging on purpose
+You lame niggas makin' me nervous
+I'm keepin' the bank, I'm like Bird
+Sip out my cup and it's dirty[Future:]
+First I got married to money
+Then I fell in love with that dirty
+First I got married to money
+Then I fell in love with that dirty
+Extendo, extendo, extendo
+The clip got a whole lot of 30
+I got my clique and they represent this
+Like a nigga wearin' jerseys
+Like a nigga wearin' jerseys
+Like we love wearin' jerseys
+Crime rate's goin' crazy, crazy
+Cause my young niggas so thirsty
+Couple commas, made a purchase
+Caught the wave, I ain't surfin'
+Caught the wave, I ain't surfin'
+You do what you want when you poppin'
+You do what you want when you poppin'
+You do what you want when you got it
+You do what you want when you got it
+You do what you want when you poppin'
+You do what you want when you got it[Future:]
+I like the smell of that money when it burn
+Bitch you know a nigga poppin', wait your turn
+I make some more money, it's got me delirious
+When your gang gangs in the chain gang, this shit serious
+I got a main ting, that's a period
+I rep the same gang on account of my niggas
+We fill up two planes on account of these riches
+I fuck up some loose change on account of these bitches
+I be on syrup, they know it
+Stack up some money then blow it
+I do what I want and I spazz
+Take the styrofoam, pour the syrup up
+It's a dress code but it ain't for us[Future:]
+First I got married to money
+Then I fell in love with that dirty
+First I got married to money
+Then I fell in love with that dirty
+Extendo, extendo, extendo
+The clip got a whole lot of 30
+I got my clique and they represent this
+Like a nigga wearin' jerseys
+Like a nigga wearin' jerseys
+Like we love wearin' jerseys
+Crime rate's goin' crazy, crazy
+Cause my young niggas so thirsty
+Couple commas, made a purchase
+Caught the wave, I ain't surfin'
+Caught the wave, I ain't surfin'
+You do what you want when you poppin'
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_12292375/su_0/tr_rEyQPHC5LNPrPIrm2GtAwB3Jbn36RrWJkkfk0cwJm0ZB7c_9KryxPdXlinBtOO_5z7lMdk8S5vY1VdOJTtzNTVgHUlpYqX-L95_MKQYVVDNr3lHXgQf4m0oBnHu4pb4XF8yCB3XZTvjFeiyRLuANo8GnXhw4YSdaS2bkyWEgL4hWjUmgaWih-tfqhjVnpBIcY__1S9srN9GY2Xpsz6y98aFzuU_FzwTEslh8sbXTKTR1U4kEVFp9YpfniZWWcPDXteXezrELBei3zE99XnaleQg_syAuMVGqUhkk00VW7BTQJQQe6uQkefhd1jsqVq2KMGjBmzSTdQsHF4vGBc2RjQScpXIZOQclQ4jKRBcVU1woM3wS-QwbJkJ114hRXtn4/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): Leland Tyler Wayne, Aubrey Drake Graham, Nayvadius Wilburn, Joshua Luellen
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "What A Time To Be Alive" (2015)
+
+
+
+
+Digital DashBig RingsLive From The GutterDiamonds DancingScholarshipsPlastic BagI'm The PlugChange LocationsJumpmanJersey30 For 30 Freestyle
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Jersey" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

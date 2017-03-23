@@ -1,0 +1,320 @@
+DRAKE LYRICS - Controlla
+ArtistName = "DRAKE";
+SongName = "Controlla";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Controlla" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Controlla"(feat. Popcaan)
+
+[Popcaan & Drake:]
+Gyal yuh body good and yuh special to meh
+Wan mek you mi lady, officially
+From you tickets fi buy, den mi willing to pay
+Fly yuh in from distance away
+Right, my yiy just changed
+You just buzzed the front gate
+I thank God you came
+How many more days could I wait?
+I made plans with you
+And I won't let em fall through
+I, I, I, I, I[Drake:]
+I think I'd lie for you
+I think I'd die for you
+Jodeci "Cry For You"
+Do things when you want me to
+Like controlla, controlla
+Yeah, like controlla, controlla
+Yeah, okay, you like it
+When I get, aggressive, tell you to
+Go slower, go faster
+Like controlla, controlla
+Yeah, like controlla, controlla
+Yeah And I’m never on a wasting shorty
+I do it how you say you want it
+Them girls, they just wanna take my money
+They don't want me to give you nothing
+They don't want you to have nothing
+They don't wanna see me find your lovin'
+They don't wanna see me
+Smiling back when they pree
+Knowing I'd lie for you
+Thinking I'd die for you
+Jodeci "Cry For You"
+Do things when you want me too
+Like controlla, controlla
+Yeah, like controlla, controlla[Popcaan:]
+Baby yuh mek mi happy, wine up yuh sexy body fi papi
+Yuh eyes-them looking at me
+An’ you turn mi on like a new Bugatti
+Naughty tings mi wan you do
+So mi woulda love it if yuh coulda come through
+Mek we smoke a spliff, have a drink, me and you
+Den mi release yuh stress ah Yorkville Avenue
+Sexiness you a pro
+Mek mi bend you over inna ya bra and ya shoes
+Baby, wah mek you so rude
+You pretty inna clothes but mi love when yuh nude
+Baby, it no tek you nuttin, fi move meh
+Yuh bad like an action movie
+She say fi do it rough tonight, not smoothly
+Mi love how you unruly[Drake:]
+I think I'd lie for you
+Thinking I'd die for you
+Jodeci "Cry For You"
+Do things when you want me to
+Like controlla, controlla
+Yeah, like controlla, controlla[Popcaan:]
+She love it when we dweet all night
+And she mek it clap when she ride my bike
+She cock it up pan di private flight
+Fi mi lace ‘ar up like mi bran’ new nike
+Mi say mi want ‘ar all my life
+When she sing mi note pan di cordless mic
+Mi want ‘ar all my life
+All my life
+Mi see it say yuh
+Sexiness you a pro
+Mek mi bend you over inna ya bra and ya shoes
+Baby, wah mek you so rude
+You pretty inna clothes but mi love when yuh nude
+Baby, it no tek you nuttin, fi move meh
+Yuh bad like an action movie
+She say fi do it rough tonight, not smoothly
+Mi love how you unruly[Drake:]
+I think I'd lie for you
+I think I'd die for you
+Jodeci "Cry For You"
+Do things when you want me to
+Like controlla, controlla
+Yeah, like controlla, controlla
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_15280412/su_0/tr_c_rDhtsRsmZRpFiCDAcrK_aH4NX5BJt1yCJBlXwDB_L4CmSOwfWazMTchzPI4JWUdFJH3QQC8I6G9L608Scx-PHIROX7l0_lgHbI4G4f0qJiMsNx4wY1z9X9jiVKWdm2T4uAeWHyKl0xQLTrD6EhLVzJsYuh5f30jFiD6ssWMlXDF62qbFf_EXYyc7rHR2_4wCxNUdl4rLkLQGS2NiBzPKIk0GVVUuY-ci9s3LZab1fEzZBrBTGTDiLt7uyHKEu2cKQCU_m1TFU1EHAXHGNiEdGC9NPMEb5j02ZqvdpL1Nd4xE2MzR-1iIWYeDRu2oM8RqmvTiRktJuF_xkuscbvhZn2hAXbX6Hj8ww0_coiwfgQFYrGb4KwAMUjIAECRp1w/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Maria for adding these lyrics.
+Thanks to Jamal, Isaac_Jiffy, Laura for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Patrick Leroy Roberts, Stephen Mcgregor, Dwayne Chin-Quee, Garfield Riley, Andrew Thomas, Matthew Samuels, Moses Anthony Davis, Allen Ritter, Aquaman, Gary Lewis Jackson, Donald Anthony Dennis, Aubrey Graham
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Controlla" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

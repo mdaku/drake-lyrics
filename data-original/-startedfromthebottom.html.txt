@@ -1,0 +1,305 @@
+DRAKE LYRICS - Started From The Bottom
+ArtistName = "DRAKE";
+SongName = "Started From The Bottom";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Started From The Bottom" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Started From The Bottom"
+
+Started... Zombie on the track...[Chorus:]
+Started from the bottom now we're here
+Started from the bottom now my whole team fucking here
+Started from the bottom now we're here
+Started from the bottom now the whole team here, nigga
+Started from the bottom now we're here
+Started from the bottom now my whole team here, nigga
+Started from the bottom now we're here
+Started from the bottom now the whole team fucking here[Verse 1:]
+I done kept it real from the jump
+Living at my mama's house we'd argue every mornin' nigga,
+I was trying to get it on my own
+Working all night, traffic on the way home
+And my uncle calling me like "Where ya at?
+I gave you the keys told ya bring it right back"
+Nigga, I just think it's funny how it goes
+Now I'm on the road, half a million for a show
+And we...[Chorus:]
+Started from the bottom now we're here
+Started from the bottom now my whole team fucking here
+Started from the bottom now we're here
+Started from the bottom now the whole team here, nigga
+Started from the bottom now we're here
+Started from the bottom now the whole team fucking here,
+Started from the bottom now we're here
+Started from the bottom now the whole team here nigga[Verse 2:]
+Boys tell stories about the man
+Say I never struggled, wasn't hungry, yeah, I doubt it, nigga
+I could turn your boy into the man
+There ain't really much I hear that's poppin' off without us, nigga
+We just want the credit where it's due
+I'mma worry about me, give a fuck about you
+Nigga, just as a reminder to myself
+I wear every single chain, even when I'm in the house
+Cause we...[Chorus:]
+Started from the bottom now we're here
+Started from the bottom now my whole team fucking here
+Started from the bottom now we're here
+Started from the bottom now the whole team here, nigga[Bridge:]
+No new niggas, nigga we don't feel that
+Fuck a fake friend, where you real friends at?
+We don't like to do too much explaining
+Story stayed the same I never changed it
+No new niggas, nigga we don't feel that
+Fuck a fake friend, where you real friends at?
+We don't like to do too much explaining
+Story stayed the same through the money and the fame
+Cause we...[Chorus:]
+Started from the bottom now we're here
+Started from the bottom now my whole team fucking here
+Started from the bottom now we're here
+Started from the bottom now the whole team here, nigga
+Started from the bottom now we're here
+Started from the bottom now my whole team here, nigga
+Started from the bottom now we're here
+Started from the bottom now the whole team here nigga
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_9732763/su_0/tr_5O92EZ7ZYLy2C0XCqgJIYX2k7iu306fGkFE2AQVPgz_SzAT6dI1q0P7lXEQ2yDSYaNgW9_hp-5BcSLyNWvuOK4qwbdEhveJPEgsYc8XwC4PSN18q9jFXJQ0ebF11_4EC9GKTlSMNnB1juhKST9xHz8euwiOBinrVkaFQHFKwnGQzLgMP7Fe2Nx-99wzzi3_5a0G2SaXqnf3naQqH1EnNdyfd_pxp_PgJ_5HCji9cP0NNB9HepsygE6D2W8XuR6BTtZp8YelZoYaHwabV356_kpxQ039NlIiHIxoy9SfHaGm-M4xm3gu4WXicOjKV4D7PzLYH5HYIdjXwO604TvCQwgjZ_czOy39O6U0tOXQylfLnxXkcz8jUag1THopqDnt_/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Ashli M., Alyson, Eric, karina, Ryan for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Bruno Sanfilippo, GRAHAM AUBREY DRAKE, Aubrey Drake Graham, WILLIAM M COLEMAN, SHEBIB NOAH JAMES, COLEMAN MIKE, MICHAEL COLEMAND, Noah Shebib
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Nothing Was The Same" (2013)
+
+
+
+
+Tuscan LeatherFurthest ThingStarted From The BottomWu-Tang ForeverOwn ItWorst BehaviorFrom TimeHold On We're Going HomeConnectThe Language305 To My CityToo MuchPound Cake / Paris Morton Music 2Come Thru[Deluxe Edition Bonus Track]All Me[Deluxe Edition Bonus Track]The Motion[Best Buy Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Started From The Bottom" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

@@ -1,0 +1,281 @@
+DRAKE LYRICS - Beyond This
+ArtistName = "DRAKE";
+SongName = "Beyond This";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Beyond This" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Beyond This"(feat. Kanye West)
+
+[Chorus]
+I gotta be honest, I think you know
+We're covered in lies, and that's okay
+There's somewhere beyond this, I know
+But I hope I can find the words to say [x2]
+Yeah, normally, it ain't a question
+We would cross paths like an intersection
+But she just too far away for affection
+So I pray that we never lose the connection
+'Cause I remember Stacy, she probably hate me
+She used to threaten she had a man to replace me
+She talked that shit, I just hit the escape key
+And then she'd get mad and want to go and erase me
+And I remember Amy, she used to AIM me
+She stayed up late, and used to blame me
+She say I'm too wild, she wanna tame me
+I told her 'Even Photoshop couldn't change me'
+But you-you-you You got me open, girl, why lie?
+We ain't even tryin' to settle, so why try?
+End the night with a kiss and a bye-bye
+No strings attached, your love is so WiFi[Chorus]
+I gotta be honest, I think you know
+We're covered in lies, and that's okay
+There's somewhere beyond this, I know
+But I hope I can find the words to say
+My freak girl tell me now she a christian
+My white girl wanna move back to Michigan
+I'm pullin girls off the bench like a "sixth-man"
+I'm in the club doin the same ol' two step
+While Omegas doin the same ol' que step
+I had my money on my mind I was thinkin green
+She a pledge, AKA she was pink and green
+I wanna good girl, she want a gentleman
+We sayin' the same thing like a synonym
+I wasn't really spittin game I was scrimmigin
+My pimpinship so hard it needs censorship
+I'ma chicagoan till Chicago ends
+Till we blow like Chicago wind
+I don't know what's better, gettin laid or gettin paid
+I just know I'ma gettin one, the other's gettin away[Chorus]
+I gotta be honest, I think you know
+We're covered in lies, and that's okay
+There's somewhere beyond this, I know
+But I hope I can find the words to say
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_12330343/su_0/tr_oWcehQWRcn1b7ywktFRWL5hjo2fbr6_ROzDwhLdfOQbxdq9opYBSNThJNSykAFcbH8GcIxmQO4z82vW_6eC1geTOC-UJLexpStc8ImlLOJzLNR7522X7q-BaDcpcsbX9oL5KNEgdW3bhqc_O1G1x2j1myeJXTl1zhalr1Cvi3w7U5xckbsArkpc8pgHeENHenG2vK1n_Qr4q57s848FRkMe7pktxI8y3h5DcDNeQ-ReYWcVzjWY6MjzUOg-0rAQt2g_2ym5HdpMKokFDPcK-po5gY_I818Vfky6DazYGE4jRSqePIcGiMhZfFYjWD0mhNr72ntYgOxvSWiOliggURI-uut1vDGUNmyd4hmkK6ce0tj4xvVthHwaDAe_leCNp/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Sarah Rodriguez for adding these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Beyond This" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

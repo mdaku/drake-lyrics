@@ -1,0 +1,309 @@
+DRAKE LYRICS - Live From The Gutter
+ArtistName = "DRAKE";
+SongName = "Live From The Gutter";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Live From The Gutter" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Live From The Gutter"(with Future)
+
+[Future:]
+Hendrix ah, ah
+I woke up like this[Future:]
+Reporting live from the fucking gutter bitch
+I ain't talking about some real money shit
+I ain't talking nothin' but big money shit
+I ain't talking nothin' but big money bitch[Future:]
+Reporting live from the gutter
+I'll buy these motherfuckers talking big money shit bitch
+Straight up out the gutter, never had shit
+Now we got 90210 on our address
+Talking 10 mill just to get an asset
+I know them tears did on my last bitch
+The money made me hungry I'm a savage
+I've seen stars lining up you can't imagine
+I watched my broad give up on me like I'm average
+I went back inside the attic count it up and started laughing, ha
+I went back inside the attic count it up and started laughing, ha
+Cuban links hanging on my wrist I was on welfare
+Wake up in the house I look around see bales everywhere
+I see girls everywhere, I see scales everywhere
+I see hell everywhere, I get mail everywhere
+Walked outside Buford County came out in a Learjet
+A fiend for that lean I ain't even started drinking beer yet
+They bust the trap, I live there
+Came out clean, I ain't clean my shit still there
+Just imagine you was living lavish and they still there
+Walk up in the crib look pools sitting on the hill now
+I just need some niggas with me that will keep it real yeah
+Got a lot of pretty bitches I just paid their bills now
+Money make me feel good but does she make me feel good
+Known for gettin' that guala out in Europe while we’re still hood
+Known to pop a bottle on a motherfucker like I'm on my last damn dollar[Future:]
+Reporting live from the fucking gutter bitch
+I ain't talking about some real money shit
+I ain't talking nothin' but big money shit
+I ain't talking nothin' but big money bitch[Drake:]
+Reporting live from the gutter, I will buy this motherfucker
+It’s not even a discussion (whoop)
+And I got my niggas with me, yeah, yeah
+She gon' end up dipping with me, yeah, yeah
+And I got her tripping off of yay, yay
+Pillow talking dishing out on all y'all
+In one ear and out the other
+Shut your mouth and take what’s coming
+Live from the gutter dog, yeah, yeah
+She don’t want pets but I’m a dog, yeah, yeah
+And she love it dog, yeah, yeah
+And she love it dog, yeah, yeah
+On the Billboards, all we do is pop shit
+Soon as that night fall, that's when we lock in
+This for my niggas on that bullshit and that nonsense
+This for my dogs who go Karrueche with the chopsticks
+And we gon miss you
+They don’t wanna smoke they don't want no issue
+But these the times we gotta live through
+But these the times we gotta live through
+And I'm...[Future:]
+Reporting live from the fucking gutter
+I ain't talking about some real money shit
+Reporting live from the damn gutter
+Swear to god I'll buy this motherfucker ahh
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_12211268/su_0/tr_LXv3jWNdrM-i_rPelkfkDkSH1iyhNlJPnpII9XI54UEUL4YzjRGRMxaLlxm0aaJn1GydXEknPFEeYY57S4XkzsVqP22ihkLXjp0mqXtkCs6eLEPr_NuL_Ld8_RU2bRlXQzjkeBLwRUj6ZslnnSgg8vPd4gEUv--i55X2X9y2wMOSYYvnkpYYON8yz0GmnGFbvRL2D0IbFJihVYwKsFlljO9Akp_hjkuivbDT1_uBemPw5kPaHR9aZCg3QVnpedz82q7ToZw7Ip2cgOXmdaqJovgKihTYANtZuI2HJGlOM9ftaITDbhFUAzAY_LdRoXnFja0rSpLzZUZWoB701WEdCi_YHshtOs2mEVciH64SWA8hkUCGPEU-b619gHQKF0m3/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "What A Time To Be Alive" (2015)
+
+
+
+
+Digital DashBig RingsLive From The GutterDiamonds DancingScholarshipsPlastic BagI'm The PlugChange LocationsJumpmanJersey30 For 30 Freestyle
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Live From The Gutter" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

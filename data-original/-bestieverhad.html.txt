@@ -1,0 +1,328 @@
+DRAKE LYRICS - Best I Ever Had
+ArtistName = "DRAKE";
+SongName = "Best I Ever Had";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Best I Ever Had" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Best I Ever Had"
+
+You know a lot of girls be...thinking my songs about them, but
+This is not to get confused, this ones for you...[Chorus:]
+Baby you're my everything, you're all I ever wanted
+We could do it real big, bigger than you ever done it
+You be up on everything, other hoes ain't ever on it
+I want this forever, I swear I could spend whatever on it
+Cause she hold me down every time I hit her up
+When I get right I promise that we gone live it up
+She make me beg for it, till she give it up
+And I say the same thing every single time
+I say...
+You the fuckin' best [x4]
+You the best I ever had,
+Best I ever had [x3]
+I say you the fuckin'...
+Know you gotta roommate,
+Call me when there's no one there,
+Put the key under the mat and you know I be over there (Eeeup)
+I be over there, shawty I be over there
+I be hittin' all the spots that you ain't even know was there
+And you don't even have to ask twice,
+You could have my heart, or we could share it like the last slice
+Always felt like you were so accustomed to the fast life
+Have a nigga thinking that he met you in a past life
+Sweat pants, hair tied, chillin' with no make-up on
+That's when you're the prettiest, I hope that you don't take it wrong
+You don't even trip when friends say you ain't bringing Drake along
+You know that I'm working I be there soon as I make it home
+And she a patient in my waiting room,
+Never pay attention to the rumours and what they assume
+And until em' girls prove it, I'm the one that never get confused wit
+'cause...[Chorus]
+Sex, love, pain, baby I be on that Tank shit,
+Buzz so big, I could probably sell a blank disk
+Play my album, drop bitches will buy it for the picture
+And niggas will buy two and claim they got it for they sister
+Magazine paper girl but money ain't the issue
+They bring dinner to my room and ask me to initial
+She call me the referee cause I be so official
+My shirt ain't got no stripes but I can make your pussy whistle
+Like the Andy Griffith theme song,
+And who told you to put them jeans on
+Double cup love, you're the one I lean on
+Feeling for a fix, than you should really get your fiend on
+Yeah, just know my condo is the crack spot
+Every single show she out there reppin' like a mascot
+Get it from the back and make ya fuckin' bra strap pop
+All up in your slot till a nigga hit the jack pot
+Baby you're my everything, you're all I ever wanted
+We could do it real big, bigger than you ever done it
+You be up on everything, other hoes ain't ever on it
+I want this forever, I swear I could spend whatever on it
+Cause she hold me down every time I hit her up
+When I get right I promise that we gone live it up
+She make me beg for it, till she give it up
+And I say the same thing every single time
+I say...
+You the fuckin' best [x4]
+You the best I ever had,
+Best I ever had [x3]
+I say...
+You the fuckin' best [x4]
+You the best I ever had,
+Best I ever had [x3]
+Uhh, ah yea
+See this the type of joint you gotta dedicate to somebody
+Just make sure they that special somebody
+Young Money
+You know who you are, I got ya
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_13046860/su_0/tr_7wXzG5Ca1gV-zqkV42IeKjkwlMpKwVqjONbqV8fZxjIELaVQOLkp7Zu9qstCAYQwts270zXLlT8oNJ-Z0PZ8gQxwwEeQQ3arErg9I87hy2KFo7YmxH0ge8rYn43VwdIxgFMiLOdM6d2yjn1WB3FlONWrt0fWYnj_ms1A4pmCMll6ApKt85BQb_RPdnLzGJWgUr4C7JW3MPiOuJL9NRcbjunQMwjYRtvoZprAg2OANXZja9P4prl-zfVxeR0tfvd0KfuTOIoDF2aXPdb7FOAEvZgtIS-UDk9LRtmII9OJM9vCo9TDSERGhVPh_WTD6O6T9YtQY7EeKD3SJHK8PI_Q2WwjfIWXG4pFcztYpJO9x7CcAUd7YsqgwIpwnxZ7Jw4t/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Jackie for adding these lyrics.
+Thanks to vanessa, Romi Ezzo for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Matthew Samuels, Aubrey Drake Graham, Nakia S. Coleman, Ann Marie Hamilton, Danny Robert Hamilton, Dan Hamilton, Dewayne Carter
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "So Far Gone" (2009)
+
+
+
+
+Lust For LifeHoustatlantavegasSuccessfulLet's Call It OffNovember 18thIgnorant ShitA Night OffSay What's RealLittle BitBest I Ever HadUnstoppableUptownSooner Than LaterBria's InterludeThe CalmBrand New[Bonus Track]Congratulations[Bonus Track]
+
+
+
+  "So Far Gone" (2009)
+
+
+
+
+HoustatlantavegasSuccessfulBest I Ever HadUptownI'm Goin' InThe CalmFear[from "So Far Gone" EP]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Best I Ever Had" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

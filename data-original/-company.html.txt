@@ -1,0 +1,310 @@
+DRAKE LYRICS - Company
+ArtistName = "DRAKE";
+SongName = "Company";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Company" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Company"(feat. Travi$ Scott)
+
+[Verse 1: Drake]
+I got some shit for you to come and get
+I'm at the St. Regis up on Briar Oaks, hit me when you done your shift
+I see you doin' well, baby
+Oh you pullin' shit together, I can tell, baby
+Is you single or what?
+I need a girl from the country
+I need a girl from Kentucky
+I need a shawty from Houston
+I need a girl who gon' love me
+I need a girl who gon' trust me
+Someone to fuck me
+Someone to make me feel lucky
+Someone that's so proud to be with me
+She walk right up to her ex, look him dead in the face
+And say, "You ain't got the juice like that
+You ain't got the juice like that"
+That's cold, ice cold, girl you ain't have to do him like that
+Why you had to do him like that?
+Gotta come through quick, quick
+Oh you at the club? Cashin' out with everything
+Hit me when you done your shift
+I know a girl I should propose to, but we just on some different shit
+She on some up at 9AM already cookin' in the kitchen shit
+And lately we've been fightin' on some, "why-you-love-the-strippin-shit"
+Yeah, she workin' with the spatula, I know she love flippin' shit
+All, on me
+I don't deserve it
+She's just a little too perfect
+She's just a little too worth it
+I don't deserve her at all, no not at all
+I only text her, man I never call
+I'm still a canine at heart, I'm a dog[Hook: Drake]
+Yeah, that's why you gotta come through quick, quick
+I'm posted at the Derek up on Westheimer, hit me when you're done your shift
+I need some company
+I need some company
+I need you to take my mind off being in my prime
+Some company[Bridge: Travi$ Scott]
+I'm on a Mo City trip, I'm on a Mo City trip right now
+A Mo City trip right now
+Mo City trip, Mo City trip right now[Verse 2: Travi$ Scott]
+It's a couple faces in here that a nigga piped down
+So let's go find a place that we can sip right now
+Tour 'round the city, it's the shit right now
+It's kinda lit right now that you're here right now
+Pop a couple percs let's get it in right now
+Saturday nights, off in my bed right now
+Call up your girl and put them heels on
+It's gettin' rowdy, rowdy right now
+I'm on a Mo City trip
+I'm a dog
+I'ma dog, I'm in heat baby...heat baby
+I'm a dog.....
+I go ham, I'm a hog
+Bitch so bad, coulda thought I owed her somethin'
+By the way I broke her off
+What she get in to, when we take it off
+Drink so long, for a year I didn't cough
+Fantasizin' and fistin' and switchin' up positions
+Do you mind if we just menage just a little?[Outro:]
+Mo City trip, Mo City trip right now
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_10318244/su_0/tr_WtdumFDzgB5kcMZfX84R9aPgmx_gyDsghZE3zS5x_jnJ0GC0Da6TstmdciY4YR78uH20EFcro0_VL86cp5ivlEd0xlMJ0iixlFFTFbS1-AUZ-yGnb4DlTmiBUmMpoyZJ2fBySBEhcHymgAapOwsF-IhY829JqiezlfwleKSKAr53Z0WkQ4Aj0-x-nPXVfnlGNIEDpw78QN2nqHhOZ6diBs_pp0lSYJojhEhQmaufdsLU-SMxoqbRDyR-DDmVwOVK0bbxxUV8v1-GRwv_VoDxzlHaB_iiVJ4Bi-nfq1pNr1-tPUEd4UIA1KjCjdeejT1pzHvL9i4o8k79Jc7F7pK0ZE_UH2EKBDJLNUWaTUXBFv3Yk4AMg-BhfdgS-WLpzCT7/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): Ebony Naomi Oshunrinde, Aubrey Graham, Bryan Lamar Simmons, Joshua Luellen, Jacques Webster, Allen Ritter
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "If You're Reading This It's Too Late" (2015)
+
+
+
+
+LegendEnergy10 BandsKnow YourselfNo Tellin'Madonna6 GodStar67PreachWednesday Night InterludeUsed To6 ManNow & ForeverCompanyYou & The 6Jungle6PM In New York[Bonus Track]My Side[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Company" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

@@ -1,0 +1,266 @@
+DRAKE LYRICS - Come Real
+ArtistName = "DRAKE";
+SongName = "Come Real";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Come Real" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Come Real"(feat. Kyoko)
+
+[Verse 1: Drake]
+I've always wondered why you bothered putting make up on
+You don't need it
+Even tho I always tell you that your beautiful
+I repeat cause I don't want no singer and I don't want no model I don't want no fashion designer or nothing
+I just want your love
+Telling you that's more than enough 4 me[Chorus:]
+All you gotta do is
+Come real
+Shawty what's the deal don't think just cause your simple that you lose your appeal
+I wouldn't have it any other way hey ay ay ayy
+All you gotta do is
+Come real
+Shawty what's the deal don't think just cause your simple that you lose your appeal
+I wouldn't have it any other way hey ay ay ayy[Verse 2: Kyoko]
+Baby just because I wanna look good don't think I ain't real
+Not in the least bit
+All the clothes and the doing of my hair face nails makes me feel good
+Nd I'll keep it up on the 10
+What you been saying to me ain't exactly what I need to feel and know
+Your the one I'm wearing for and where I will always go when I need a reason to[Chorus:]
+Stay real
+What you make me feel
+It's true beauty is the ultimate appeal
+And I don't want it any other way hey ay ay ayy
+To stay real
+What you make me feel
+It's true beauty is the ultimate appeal
+And I don't want it any other way hey ay ayy
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_7729744/su_0/tr_fYe08p5hKexSPQuPjUZD0_RyimnmmkUPjRnuszBmxW6HPAmsSHUBsfWIlSq4y2b_4-0r6XplUZxCS8vZpiRDkM15JocUbM2tCSRkfzB1EgAslvjG_ZsWRnBjEzOui6t6oijAVyRUvK-wrYcrEbifov3k0F9C8QhPSMWmI5v8Vbc8rgWXo-3fJYuaMezvoQEc154ClZi4ROXJPjwE15uVJJiWyeedoCE6LLNrxQLQaKcDGp6ZsFoG9G4buecddBJb0PCCgFzhvRQOKT7CDlXsdctbi8pfI0ouNQ0tkWyXRM1AqKDxxnRLEh_nYZgLqt_yYTaqogswOnBeV88xDYNqa7Oa-WZn0WshKsv3DttyD0r_THI0wjaPGMBDHKuX4V0B/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Sha'lon for adding these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Come Real" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

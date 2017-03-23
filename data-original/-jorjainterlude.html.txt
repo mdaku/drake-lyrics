@@ -1,0 +1,286 @@
+DRAKE LYRICS - Jorja Interlude
+ArtistName = "DRAKE";
+SongName = "Jorja Interlude";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Jorja Interlude" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Jorja Interlude"
+
+[Jorja Smith:]
+These things'll fall down
+But you'll pick 'em up
+You're still here to touch the ground
+Don't worry, I swear
+I know you're trying to help me[Drake:]
+Tryna stay light on my toes
+Just ran a light in a Rolls
+Told me I'm lookin' exhausted
+You hit it right on the nose
+I'm tired of all of these niggas
+I'm tired of all of these hoes
+Worried 'bout takin' my lane
+They ain't even got on my road
+They turn they back and they leave you
+They gon' be back when they need you
+I practice good over evil
+Flippin' the script like a read-through
+Yeah, all of my brothers, we equal
+I play my part too, like a sequel
+You tell your niggas you got 'em on anything
+Question is, do they believe you?
+'Specially when you never come through
+So much hate inside your heart
+We don't even know what we done to you
+We just know shit gettin' run through
+Never chase it, let it come to you
+You out here tellin' everybody everything
+You niggas move like the one-two, yeah[Jorja Smith:]
+These things'll fall down
+But you'll pick 'em up
+You're still here to touch the ground
+Don't worry, I swear
+I know you're trying to help me
+I know you're trying to help me
+I know you're trying to help me
+I know, I know[Drake:]
+And more chune for your headtop
+So watch how you speak on my name, you know?
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_16505316/su_0/tr_AnI2C34J0IIn3L6SAjNxbjEwk_CBfcI3NW2O2gRVS6m9e38BYi7Qfh5PuCqr3rGpPa1BXSciUtWTsDs6YZSfqxl5ez_shjxatdJCmv9L_NgZt8vcJSnOpdZ2taObGKtaI6y2iq7sZm8rkRAX_GmA4D6GyoX5kc5JZez7sMZ8o-wGJq7T7SCsaxxZDO4hVFVl5c1nklJuyiNegBtXssJPmnPsy2vdg2jj7Cy2kuRTJIqygeZWl74dmRCQx6ProtX77g8vX4rmwMntMbF9tSMBjk77vpwfqzAEVXryjjyI5kyp6qpaWXMIlfPAEPzZgRY7Eny-Z4XhmagaCTayPejZ3WL5Q1vH7aJCtY3bzFbC9wZaodpC_gE4zDHkxcLdJCRh/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "More Life" (2017)
+
+
+
+
+Free SmokeNo Long TalkPassionfruitJorja InterludeGet It TogetherMadiba RiddimBlem4422GyalchesterSkepta InterludePortlandSacrificesNothings Into SomethingsTeenage FeverKMTLose YouCan't Have EverythingGlowSince Way BackFake LoveIce MeltsDo Not Disturb
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Jorja Interlude" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

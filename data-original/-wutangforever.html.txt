@@ -1,0 +1,297 @@
+DRAKE LYRICS - Wu-Tang Forever
+ArtistName = "DRAKE";
+SongName = "Wu-Tang Forever";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Wu-Tang Forever" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Wu-Tang Forever"
+
+Uh! Uh! Uh! Agrhh![Hook:]
+I just love when I'm with you, yeah, this shit is on ten
+We used to be friends, girl, and even back then
+You would look at me with no hesitation and you'd tell me baby, it's yours
+Nobody else's, yeah, this shit belong to nobody, it's yours
+Nobody else's, yeah, this shit belong to nobody in that
+Well, made me think about the game, girl
+And how I switched it up with a new thang
+Young nigga came through on his Wu-Tang
+And nowadays when I ask about who got it, they say it's yours
+Nobody else's, yeah, this shit belong to nobody, it's yours
+Nobody else's, yeah, this shit belong to nobody, it's yours
+It's yours, it's yours, it's yours, it's yours that's for sure [x2][Bridge:]
+How you feel about coming home with a nigga for the night?
+If you nervous, hit the lights, I know we only fucking out of spite
+Cause your man don't do you right, do you right
+I could fuck you so good then I hit you with the 9am in Dallas who you like
+Baby who you like[Verse:]
+Machine gun raps for all my niggas in the back
+Stadium packed, just glad to see the city on the map
+I just gave the city life, it ain't about who did it first
+It's about who did it right, niggas looking like "Preach"
+Open cases on me for a half a million each
+I find peace knowing that it's harder in the streets
+I know, luckily I didn't have to grow there
+I would only go there cause there's niggas that I know there
+I don't know what's getting into me
+I just like the rush when you see your enemy somewhere in the club
+And you realize he just not in a position to reciprocate your energy
+You ain't ever worried cause he's not who he pretends to be
+People like Mazin who was a best friend to me
+Start to become a distant memory
+Things change in that life and this life started lacking synergy
+And fucking with me mentally, I think it's meant to be
+Paranoid, always rolling with my mothafuckin' boys
+But you gotta understand when it's yours
+They don't really leave your ass with a mothafuckin' choice[Hook:]
+I just love when I'm with you, yeah, this shit is on ten
+We used to be friends, girl, and even back then
+You would look at me with no hesitation and you'd tell me baby, it's yours
+Nobody else's, yeah, this shit belong to nobody, it's yours
+Nobody else's, yeah, this shit belong to nobody in that
+Well, made me think about the game, girl
+And how I switched it up with a new thang
+Young nigga came through on his Wu-Tang
+And nowadays when I ask about who got it, they say it's yours
+Nobody else's, yeah, this shit belong to nobody, it's yours
+Nobody else's, yeah, this shit belong to nobody, it's yours
+It's yours, it's yours, it's yours, it's yours that's for sure [x2]
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_14467807/su_0/tr_TN3LgGDuSlS6hBE8kMvjf03mqNtb_AsAsr32-J0oeVydrLz3szAj8IHFflygkLxy4xDrvtJvX2mTfTm9Du6D_E0AiDsVIZdPNYu64WZPsfsfNA3lNG0TRmXfqPsE4qUyPpeBS65NqCtEQ4su1nlNn60jnTvVNd_WO8KrsLS_uD_UdCbvAd6JZ8ANivpy0w9JWtVK9ahA3jp0ae2JIs1hcFSykCnc-K-1UkpCA7nsE4MgiXSWupGTxE4fnE4hh1qNsh2fHS7s8Q6IpAYABrjKf53w_Y8lR-05xXCU1z8JGpznsQXKTair3b8pmKIrA5d1aq7_WM9cwMb0Qv0C7patg8xRcMYqKOqc8IxKY7zBBVRXAAemKEIdFaxjsErlpI6x/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Recxter for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Nothing Was The Same" (2013)
+
+
+
+
+Tuscan LeatherFurthest ThingStarted From The BottomWu-Tang ForeverOwn ItWorst BehaviorFrom TimeHold On We're Going HomeConnectThe Language305 To My CityToo MuchPound Cake / Paris Morton Music 2Come Thru[Deluxe Edition Bonus Track]All Me[Deluxe Edition Bonus Track]The Motion[Best Buy Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Wu-Tang Forever" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

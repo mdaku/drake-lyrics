@@ -1,0 +1,326 @@
+DRAKE LYRICS - Big Rings
+ArtistName = "DRAKE";
+SongName = "Big Rings";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Big Rings" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Big Rings"(with Future)
+
+[Drake:]
+Yea, I know we just signed a deal but
+I need my advance on the next one too
+They know I'm a be around
+Yea, I need it[Drake:]
+Cause I got a really big team
+And they need some really big rings
+They need some really nice things
+Better be comin' with no strings
+Better be comin' with no strings
+We need some really nice things
+We need some really big rings
+I got a really big team, I got a really big team
+And they need some really big rings
+They need some really nice things
+Better be comin' with no strings
+Better be comin' with no strings
+We need some really nice things
+We need some really big rings
+I got a really big team[Drake:]
+Man what a time to be alive
+You and yours vs. me and mine
+Oh we talkin' teams? Oh we talkin' teams?
+Oh you switchin' sides? Wanna come with me?
+Look at the smile on me, look at the owl on me
+I do not chase girls, but they run a mile for me
+Say she gon' ride for me, I'll buy the tires for you
+This game is different, you only get one shot when niggas gon' foul on you
+Man fuck 'em all, man we want it all
+Don't get too involved, we gon' knock you off
+And to top it all, I'm with all the dogs
+It's a new season and we still breathin'[Drake:]
+And I got a really big team
+And they need some really big rings
+They need some really nice things
+Better be comin' with no strings
+Better be comin' with no strings
+We need some really nice things
+We need some really big rings
+I got a really big team
+I got a really big team
+They need some really big rings
+They need some really nice things
+Better be comin' with no strings
+Better be comin' with no strings
+We need some really nice things
+We need some really big rings
+I got a really big team[Future:]
+Man what a time, to be alive
+I'm drinkin' lean, they thought I died
+I run with kidnappers, I'm talkin' 'bout kidnappers
+I'm talkin' 'bout murderin' niggas, I'm talkin' 'bout carjackers
+You just a battle rapper, I'm an official trapper
+Niggas be droppin' subliminals, they're just some jibber jabber
+We take a Mellow Yellow then fill it with red forever-ever
+These niggas is jealous, jealous, these niggas is scared, they tellin'-tellin'
+I fuck a check up on everything, I bought some ice when the feds came
+I bought that new Celine, I got some rings, I got racks like Serena
+All of my rings Aquafina, my bitch Aquafina
+Pluto and Jupiter, I go to Venus
+Fresh out the store but I'm not out the cleaners
+Who keepin' score cause these niggas, they losin'[Drake:]
+Cause I got a really big team
+And they need some really big rings
+They need some really nice things
+Better be comin' with no strings
+Better be comin' with no strings
+We need some really nice things
+We need some really big rings
+I got a really big team, I got a really big team
+And they need some really big rings
+They need some really nice things
+Better be comin' with no strings
+Better be comin' with no strings
+We need some really nice things
+We need some really big rings
+I got a really big team
+Man what a time
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_12211262/su_0/tr_26O6UVxbIZK_fz-1cXaT9QLrhZySTEso7Z827k3QHGjwl7YfN9TbGBRnMusEJFml0itZypI8ZQC7QGLUs5KzByKU6tqUCrkOabqG2fkEgu_qkMMV_gEmsphI-i8t1XTiMV3Ls1cWEBnb2vzOp0pwH5q1W4b9N2BdfrLgdabV7f9CjVae73WYp3yjTtcihB8fdMAxg-DNMpNYo0JPfR00HbjHneWGzpzd44kUTnnwviGFU5nCOUuhh1U6xOjjZ5Adc3yj5DjS1e-Pe4O7zb0YcMIkPLTbDFxhRulHBScl5QQjZhN8DcU2FMJ4Q1PINLvb96NXTpnKU3gWmGmxyfs1XMEDKb6TDO9b7bcWHkMUg1hcwvGyGGbYVnatDSGCGWvJ/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): Nayvadius Wilburn, Leland Tyler Wayne, Aubrey Graham
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "What A Time To Be Alive" (2015)
+
+
+
+
+Digital DashBig RingsLive From The GutterDiamonds DancingScholarshipsPlastic BagI'm The PlugChange LocationsJumpmanJersey30 For 30 Freestyle
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Big Rings" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

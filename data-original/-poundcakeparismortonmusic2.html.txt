@@ -1,0 +1,335 @@
+DRAKE LYRICS - Pound Cake / Paris Morton Music 2
+ArtistName = "DRAKE";
+SongName = "Pound Cake / Paris Morton Music 2";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Pound Cake / Paris Morton Music 2" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Pound Cake / Paris Morton Music 2"(feat. Jay-Z)
+
+[Intro: Christian Rich and Utters]
+"Good God Almighty. Like back in the old days. You know, years ago they had the A&R men to tell you what to play, how to play it and you know whether it's disco and rock but we just went in the studio and we did it. We had champagne in the studio, of course, you know, compliments of the company, and we just laid back and did it. So we hope you enjoy listening to this album half as much as we enjoyed playing it for you. Because we had a ball. Only real music is gonna last, all the other bullshit is here today and gone tomorrow..."[Hook]
+Cash rules everything around me
+C.R.E.A.M. get the money
+Dolla dolla bill y'all[Verse 1: Drake]
+After hours at Il Mulino
+Or Sotto Sotto, just talkin' women and vino
+The contract like '91 Dan Marino
+I swear this got Michael Rapino boostin' my ego
+Overly focused, it's far from the time to rest now
+Debates growin' 'bout who they think is the best now
+Took a while, got the jokers out of the deck now
+I'm holdin' all the cards and niggas wanna play chess now
+I hear you talkin', say it twice so I know you meant it
+Fuck it, I don't even tint it, they should know who's in it
+I'm authentic, real name, no gimmicks
+No game, no scrimmage, I ain't playin' with you niggas at all
+My classmates, they went on to be chartered accountants
+Or work with their parents, but thinkin' back on how they treated me
+My high school reunion might be worth an appearance
+Make everybody have to go through security clearance
+Tables turn, bridges burn, you live and learn
+With the ink, I could murder word to my nigga Irv
+Yeah, I swear shit just started clickin' dog
+You know it's real when you are who you think you are[Hook][Verse 2: Jay Z]
+I had Benzes 'fore you had braces
+The all black Maybach but I'm not a racist
+Inside's whiter than Katy Perry's face is
+Yellow diamonds in my Jesús
+I just might learn to speak Mandarin
+Japanese for the yen that I'm handlin'
+International Hov, that's my handle
+My saint's Sean Don, light a candle
+El Gran Santo on the mantle
+'Case y'all didn't know, I speak Spanish too
+Shoutout to Worldwide Wes
+Everywhere we go we leave a worldwide mess
+Yes, still Roc La Familia
+Says a lot about you if you not feelin' us
+The homie said, "Hov, there ain't many of us."
+I told him, "Less is more, nigga. It's plenty of us."[Hook][Verse 3: Jay Z]
+Cake, cake cake cake cake cake
+500 million, I got a pound cake
+Niggas is frontin', that's upside-down cake
+Get 'em a red nose, they clown cakes
+They shoulda never let you 'round cake
+Look at my neck, I got a carrot cake
+Now here's the icing on the cake
+Cake, cake cake cake cake
+I'm just gettin' started, oh yeah we got it bitch
+I've done made more millionaires than the lotto did
+Dame made millions, Bigg made millions
+Ye made millions, Just made millions
+Lyor made millions, Cam made millions
+Beans tell you if he wasn't in his feelings
+I'm back in my bag
+My eyes bloodshot but my jet don't lag
+A pair of Jordan 3's tryna chase this cash
+Gucci air bag just in case we crash
+Uh, last night was mad trill
+I'm fresh out of advil, Jesus grab the wheel[Verse 4: Drake]
+Look, fuck all that happy to be here shit that y'all warned me on
+I'm the big homie, they still be tryna little bro me dog
+Like I should fall in line, like I should alert niggas
+When I'm 'bout to drop somethin' crazy and not say I'm the greatest of my generation
+Like I should be dressin' different
+Like I should be less aggressive and pessimistic
+Like I should be way more nervous and less dismissive
+Like I should be on my best behavior
+And not talk my shit and do it major like the niggas who paved a way for us
+Like I didn't study the game to the letter
+And understand that I'm not doin' it the same, man, I'm doin' it better
+Like I didn't make that clearer this year
+Like I should feel–I don't know–guilty for saying that
+They should put a couple more mirrors in here so I can stare at myself
+These are usually just some thoughts that would I share with myself
+But I thought, "Fuck." It's worth it to share it with someone else other than Paris for once
+I text her from time to time. She a mom now
+I guess sometimes life forces us to calm down
+I told her that she could live with me if she needs to.
+I got a compound but I think she straight
+'Cause she supported since hot beats right before Wayne came and got me out of the back room where I was rapping with Jaz over beats that I shouldn't have in the hopes for the glory
+He walked right past in the hallway three months later I'm his artist he probably wouldn't remember that story
+But that shit stick with me always couldn't believe when he called me you never know it could happen to you
+and I just spent four Ferrari's all on a brand new Bugatti and did that shit 'cause it's something to do
+Yeah, I guess that's just who I became, dog, nothing was the same, dog
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_14399190/su_0/tr_a4zHElr3BAxyZJV3TeBHNf5dyxoWt5Ydb3sGLa3Vkp2q0WmOlx5OThCniJeAHK56JH7S08pe4w1EpEZEZwP4Pd_-BBP_Y5I_54hwS7hIqF0SIMmtto6Md8orW_32T2oDAiMC_bsSGNHYc5_7tdo8yD6NuqxtkvGPL8Cgss1q2Wr_cwSp1TEjnOqlZlhiDtqZ4IfE6Eid3b0njJ1zdNRYBGcRPbtMYZn9rqVhLhnPhHBGLzxygTM2X_vVQofV5QUaIOhXFHzZwkmhW0Mn0ioaoIqtdIsDXC6gD_OY_ZHJ7u2o2HE8JXc77aq5CQVmfqacXZ-sNPga3IP7jjSxmoMs_5vuhF8sgacOF3EvFFSRJSB7R_7uIkKxIw8S-qT0OGwmhMn0YbcMACOPIZ9V_VUOwzQTdTD15HRoo0MJcc_JHIo/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Steven Thompson, Leila, Joshua "J$EVEN" Verner, Desi, malik for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Matthew Burnett, Matthew Samuels, C. Shawn, Sean Carter, Noel Fisher, Dennis David Coles, James Eliot, Jordan Evans, Anthony George Palman, Jason Hunter, Corey Woods, Ellie Goulding, Isaac Hayes, Eva B. George, Clifford Smith, Gary E. Grice, Shawn C. Carter, Andre Eric Proctor, Lamont Hawkins, David Porter, Aubrey Graham, Robert F. Diggs, Samples, Russell T. Jones, Wu Tang Clan, Ellis James
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Nothing Was The Same" (2013)
+
+
+
+
+Tuscan LeatherFurthest ThingStarted From The BottomWu-Tang ForeverOwn ItWorst BehaviorFrom TimeHold On We're Going HomeConnectThe Language305 To My CityToo MuchPound Cake / Paris Morton Music 2Come Thru[Deluxe Edition Bonus Track]All Me[Deluxe Edition Bonus Track]The Motion[Best Buy Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Pound Cake / Paris Morton Music 2" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

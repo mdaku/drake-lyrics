@@ -1,0 +1,314 @@
+DRAKE LYRICS - Over My Dead Body
+ArtistName = "DRAKE";
+SongName = "Over My Dead Body";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Over My Dead Body" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Over My Dead Body"
+
+How I’m feeling, it doesn’t matter
+Cause you know I’m okay
+Instead, I ask myself “why do you worry?”
+When you know, you know I’m the same
+You know, I know you don't love me, baby
+They're trying to take you away from me
+Only over my dead body…[Verse 1]
+I think I killed everybody in the game last year, man
+Fuck it I was on though
+And I thought I found the girl of my dreams at a strip club
+Mmm mmm, fuck it I was wrong though
+Shout out to all my niggas living tax free
+Now-a-days its six figures when they tax me
+Oh well, guess you lose some and win some
+Long as the outcome is income
+You know I want it all and then some
+Shout out to Asian girls, let the lights dim some
+Shots came, I don’t know where they was sent from
+Probably some bad hoes about to take the hint from
+Yeah, you know me well nigga
+Yeah, I mean you ain’t the only real nigga
+They got me on these white women like Seal nigga
+Slave to the pussy but I’m just playing the field nigga
+Yeah, are these people really discussing my career again?
+Asking if I’ll be going platinum in a year again
+Don’t I got the shit the world wanna hear again?
+Don’t Michael Jordan still got his hoop earing in?
+Man all of your flows bore me: paint drying
+And I don’t ever be trippin off of what ain’t mine
+And I be hearing the shit you say through the grapevine
+But jealousy is just love and hate at the same time
+Yeah, it’s been that way from the beginning
+I just been playing, I ain't even notice I was winning
+And this is the only sound you should fear
+Man, these kids wear crowns over here and everything is alright[Hook]
+I know, I know that you love me baby
+They're trying to take you away from me
+Only over my dead body[Verse 2]
+You say I’m old news, well who the new star?
+Cause if I’m going anywhere, it’s probably too far
+Just performed at a Bar Mitzvah over in the states
+Used half of the money to beat my brother’s case
+Red wine over Fed time
+And shout out to the niggas that’s doing deadtime
+Shout out to the bitches there when it’s bedtime
+And fuck you to the niggas that think it’s their time
+Yeah, don’t make me take your life apart boy
+You and whoever the fuck gave you your start boy
+Or you wanna be a muthafuckin funny guy?
+Don’t make me break your Kevin Hart boy
+Yeah, it’s whatever. You know, feeling good, living better
+I think maybe I was numb to it last year
+But you know I feel it now more than ever
+My city love me like Mac Dre in the Bay
+Second album, I’m back paving the way
+The backpackers are back on the bandwagon
+Like this was my comeback season back, back in the day
+And I met your baby moms last night
+We took a picture together – I hope she frames it!
+And I was drinking at the Palms last night
+And ended up losing everything that I came with
+Yeah, feel like I’ve been here before huh?
+I still got 10 years to go huh?
+And this is the only sound you should fear
+Man, these kids wear crowns over here
+And everything is all right[Hook]
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_14119179/su_0/tr_0YclZpNMp6RxlKEkzyLik2lZzFH5z7ONLlgiLdRhKg4CH_BQKL_uaIv0tlOThVo9jZt25UFF0zR_Zyt-sCq2UWMEfo-3nJE1ifGXEFSiHRUnKNMT3LN1xtFR2HcCBAFTK4ujH_nv7hnxk1MA_-RGEAfBuxVXHqyitIKBJPQXDR7wMumuVXRC5AW6vkEMW11-pCDTHoPP0Jmw530ZSetEuZuwDdvz16UrMC3-Yq-Gl98OSdAPX8ciGebu5ZDcCoIkYLs1IJWSSnB5Pg2c6zYuYvvMAZpQra9ukROWj2w7tfSArwdl5eguWPxLTAZCUOAqwN8qBE5W0xdogEze5Rc1DyCac-BjvGtA94u7PZ_sDJF8KgDN981Y85CmW_aQs5rB/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to lexis, alexis, libbyy, Jessie<3, Deejah, Bethany, Dominic Vito Barone for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Take Care" (2011)
+
+
+
+
+Over My Dead BodyShot For MeHeadlinesCrew LoveTake CareMarvin's RoomBuried Alive (Interlude)Under Ground KingsWe'll Be FineMake Me ProudLord KnowsCamerasGood Ones Go (Interlude)Doing It WrongThe Real HerHYFR (Hell Ya Fuckin' Right)Look What You've DonePracticeThe RideHate Sleeping Alone[iTunes Bonus Track]The Motto[Deluxe Edition Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Over My Dead Body" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

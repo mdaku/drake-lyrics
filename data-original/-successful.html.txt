@@ -1,0 +1,403 @@
+DRAKE LYRICS - Successful
+ArtistName = "DRAKE";
+SongName = "Successful";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Successful" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Successful"(feat. Trey Songz, Lil Wayne)
+
+[Trey Songz:]
+I want the money,
+Money and the cars,
+Cars and the clothes,
+The hoes,
+I suppose,
+I just wanna be,
+I just wanna be,
+Successful.
+I just wanna be,
+I just wanna be,
+Successful.
+I just wanna be,
+I just wanna be,
+Successful.[Drake:]
+Drizzy,
+Oh yeah Trey I fucking feel you,
+They be staring at the money like it's unfamiliar,
+I get it,
+I live it,
+To me there's nothings realer,
+Just enough to solve your problems,
+Too much would kill ya,
+And when I leave,
+I always come right back here,
+The young spitter that everybody in rap fear,
+A lot of you all still sounding like last year,
+The game needs change and I'm the motherfucking cashier,
+Nickels for my thoughts,
+Dimes in my bed,
+Quarters of the kush,
+Shape the lines in my head,
+Take my verses too serious ya hate me,
+Cause I'm the one to paint a vivid picture no HD,
+Yeah,
+I want it all,
+That's why I strive for it,
+Diss me and you'll never hear a reply for it,
+Any awards show or party I'll get fly for it,
+I know what's coming I just hope I'm alive for it.[Trey Songz:]
+I want the money,
+Money and the cars,
+Cars and the clothes,
+The hoes,
+I suppose,
+I just wanna be,
+I just wanna be,
+Successful.
+I just wanna be,
+I just wanna be,
+Successful.
+I just wanna be,
+I just wanna be,
+Successful.[Drake:]
+Yeah,
+I want things to go my way,
+But as of late a lot of shit been going sideways,
+And my mother tried to runaway from home,
+But I left somethin in the car so I caught her in the driveway,
+And she cried to me so I cried too,
+And my stomach was soaking wet,
+She only 5'2,
+And 48 hours all before I showed up,
+And brought a thousand dollars worth of drinks and got poured up,
+Damn my reality just set in,
+And even when the phantoms leased them hoes wanna get in,
+I do a lot of things,
+Hoping I never have to fit in,
+So trying to keep up with my progress is like a dead end,
+My girl love me but fuck it my heart beat slow,
+And right now the tour bus is lookin like a freak show,
+And life change for us every single week,
+So it's good,
+But I know this ain't the peak though
+Cause I want...[Trey Songz:]
+I want the money,
+Money and the cars,
+Cars and the clothes,
+The hoes,
+I suppose,
+I just wanna be,
+I just wanna be,
+Successful.
+I just wanna be,
+I just wanna be,
+Successful.
+I just wanna be,
+I just wanna be,
+Successful.[Drake:]
+Wise words from a decent man,
+Back when I was trying to put a ring on Alicia hand,
+This lost boy got fly without peter pan,
+And my delivery just got me buzzing like the pizza man,
+In person I am everything and more,
+I'm everywhere these other niggas never been before,
+But inside I'm treading waters steady trying to swim ashore,
+I'm on a shoppin spree to get whatever is in store,
+Just call me shop and bag drizzy,
+And call me Mr.damn he ain't coping that is he?
+And fans of these freshman is about to get iffy,
+While this youngin that you doubting is about to get busy,
+I'm a kill it I promise this I know you mad,
+I've always treated my city like some shoulder pads,
+To big homie use a flash if you must,
+And I swear I ain't asking for much
+All I want is[Trey Songz:]
+I want the money,
+Money and the cars,
+Cars and the clothes,
+The hoes,
+I suppose,
+I just wanna be,
+I just wanna be,
+Successful.
+I just wanna be,
+I just wanna be,
+Successful.
+I just wanna be,
+I just wanna be,
+Successful.
+It's like I know what I got to say,
+I just don't know how to say it to you[Lil Wayne:]
+Pardon the swag,
+But bitches cartate,
+Long bread I don't eat shortcake,
+How come I can't,
+Miss a woman like I can't miss court dates,
+Cheese,
+But shes not in this portrait,
+Life's fine but I don not portray,
+I'm on the other side but it is a short gate,
+I don't want the glow,
+I want the glow ray,
+And I'm a fuck the world,
+But this is just foreplay,
+Tired of hearing bullshit,
+Bring her on to cowshit,
+Haven't met a smell that's stinkier than our shit,
+That's word to toronto,
+So high up I got birds in the condo,
+Ain't that a female dog,
+Ask her who I am to her,
+And she yell god,
+Weezy baby I go real hard
+No further details boy.
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_8694083/su_0/tr_UwBmqfl_7buKZTktzWQ7cA2oCr5Q6G9VcbzLDvME7Vy1NTkKi3tzUI5aEgL4SdPJfq5CcGNNiAxCuL_ru4D5oz-fMswpA-C7T_sfzpXsOZnCJEzAMsbKoL52eoz1eRtTYGBc5O80BRUPUK5GEGr4AcVaLxdehw_9xtCYWpJHSce66WccXu06BYG4dc9x7PFZVvjH30cdgmsNAcF_80nLr4F2C0hGJnxn5tqT_cx0aua3LPvAiFyTkZMyc4P72RMr7gBmoiAmTv1PHM7PdkINs84n-916Id98j1UKFcrOE4gmALp_FCSKdm4uFqto0hz2Eky030Y4YFoMzsa4Sq_uJw/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Desiree for adding these lyrics.
+Thanks to erika, Michelle, joey furfari, devontae, neisha, John Masalko, neisha F Baby for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "So Far Gone" (2009)
+
+
+
+
+Lust For LifeHoustatlantavegasSuccessfulLet's Call It OffNovember 18thIgnorant ShitA Night OffSay What's RealLittle BitBest I Ever HadUnstoppableUptownSooner Than LaterBria's InterludeThe CalmBrand New[Bonus Track]Congratulations[Bonus Track]
+
+
+
+  "So Far Gone" (2009)
+
+
+
+
+HoustatlantavegasSuccessfulBest I Ever HadUptownI'm Goin' InThe CalmFear[from "So Far Gone" EP]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Successful" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

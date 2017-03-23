@@ -1,0 +1,328 @@
+DRAKE LYRICS - Too Good
+ArtistName = "DRAKE";
+SongName = "Too Good";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Too Good" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Too Good"(feat. Rihanna)
+
+[Drake:]
+Oh yeah yeah yeah
+Oh yeah yeah yeah
+Yeah, look
+I don't know how to talk to you
+I don't know how to ask you if you're okay
+My friends always feel the need to tell me things
+Seems like they're just happier than us these days
+Yeah, these days I don't know how to talk to you
+I don't know how to be there when you need me
+It feels like the only time you'll see me
+Is when you turn your head to the side and look at me differently
+Yeah, and last night I think I lost my patience
+Last night I got high as your expectations
+Last night, I came to a realization
+And I hope you can take it
+I hope you can take it
+I'm too good to you
+I'm way too good to you
+You take my love for granted
+I just don't understand it
+No, I'm too good to you
+I'm way too good to you
+You take my love for granted
+I just don't understand it[Rihanna:]
+I don't know how to talk to you
+I just know I find myself getting lost with you
+Lately you just make me work too hard for you
+Got me on flights overseas, and I still can't get across to you
+And last night I think I lost my patience
+Last night I got high as your expectations
+Last night, I came to a realization
+And I hope you can take it
+I hope you can take it[Drake & Rihanna:]
+I'm too good to you
+I'm way too good to you
+You take my love for granted
+I just don't understand it
+No, I'm too good to you
+I'm way too good to you
+You take my love for granted
+I just don't understand it[Drake:]
+Years go by too fast
+I can't keep track
+How long did we last?
+I feel bad for asking
+It can't end like this
+We gotta take time with this
+Cock up yuh bumper, sit down 'pon it
+Let me see if this is something I can fix
+You got somebody other than me
+Don't play the victim when you're with me
+Free time is costing me more than it seems
+Sacrificing things
+And I wanna tell you my intentions
+I wanna do the things that I mention
+I wanna benefit from the friendship
+I wanna get the late night message from you, from you
+I put my hands around you
+Gotta get a handle on you
+Gotta get a handle on the fact that...[Drake & Rihanna:]
+I'm too good to you
+I'm way too good to you
+You take my love for granted
+I just don't understand it
+No, I'm too good to you
+I'm way too good to you
+You take my love for granted
+I just don't understand it[Popcaan:]
+Gyal a you mi waan
+Pay fi yuh visa meck yo fly out regular, BRB
+Cock up yuh bumper, sit down 'pon it
+Gyal yo pum pum good and yuh fit
+Give you everything weh deh in my wallet
+And in my pocket
+Cock up yuh bumper, sit down 'pon it
+Gyal yo pum pum good and yuh fit
+Give you everything weh deh in my wallet
+And in my pocket
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_15300155/su_0/tr_UuTlwnION1ZYYwFCmDMaLT0kamgLg7cColmpAd2KtO6QqhamH9HAOvNcsuvr28KWbAWwrZJno8qy6Gz9JZWnJonYSRXJ-5AmXzyNWaKiE4AnjfR0G1HpjafoMLrl8ZOvOVvmJI6h64i0bdXs4MUqdJJG-3dbuAzusbFUVM3Re9b2fqvxsrqoBixfq80ejQQ-Uw0XC8baM2sZl9Ur-o8hr9ph-8Qp7TYzLDC0-cB0dBfaS3Am-Sr38Er2rNvOi4i7UpgbI3-jzhS0KIhaz1pPs50zMAuPaGgnCfI_TmSRczAkpig7m6LB9YK1Nvp8VW0sTAAlyBy7--U-TuOli85F2EC8GO_1yoiVQtMJWIPbge70Vbia-Th4_9JNhbJuj-f7/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Anjelika, sally, Jennifer Vandespyker for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Maneesh Bidaye, Paul Jefferies, Composer Author Unknown, Robyn Fenty, Dwayne Chin-Quee, Andrae Sutherland, Randall Adam Martin, Terence Po Lun Lam, Anthony Litchman Martin, Aubrey Graham, Andrew Hershey
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Views" (2016)
+
+
+
+
+Keep The Family Close9U With Me?Feel No WaysHypeWeston Road FlowsRedemptionWith YouFaithfulStill HereControllaOne DanceGrammysChild's PlayPop StyleToo GoodSummer's Over (Interlude)Fire & DesireViewsHotline Bling[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Too Good" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

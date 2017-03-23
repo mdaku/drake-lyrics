@@ -1,0 +1,277 @@
+DRAKE LYRICS - It's Been A Pleasure
+ArtistName = "DRAKE";
+SongName = "It's Been A Pleasure";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"It's Been A Pleasure" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"It's Been A Pleasure"
+
+[Chorus]
+Emotions in this game run deep,
+So before they say this to me in my sleep,
+I'd like to say it's been a pleasure,
+Repping to my last second dude,
+Done a lot of shit they never get to do,
+I'd like to say it's been a pleasure,
+Honored to be somebody they mention,
+But before these niggas stop paying attention...
+I just say it's been a pleasure,
+You'll never be somebody they need
+Tomorrow ain't guaranteed so tonight we gon do it like this,[Singing]
+Like ohhhh...
+For the A-Town, tonight I'm going to let somebody go
+For the A-Town[Verse]
+Uhh, set up the occasion,
+I'm up in the place in,
+If amazing was a young bitch,
+I be going to jail cuz I be fucking amazing,
+What's up for the taking,
+I'm ready and I'm willing, why the fuck are we waiting,
+Yeah, and baby you should bring your best friend,
+Then you should persuade her to let me get some sex in,
+Don't get offended baby that's just a suggestion,
+Really we can do it like however,you,like,
+I'm probably in your hotel tonight,
+Whatever floor that me and 40 staying on is smelling riiight,
+Yeah, just know we grinding til it's light out,
+Show up in your city turn that muthafucker right out,
+Yeah, tell me who controls kings,
+I don't follow rules, stupid old things,
+I'm riding through the city in the coupe with those wings,
+My team deserves some muthafucking superbowl rings,
+Oh yeah, and I know we gon get it,
+Me and Jeezy bout whatever shorty holla if you wit it,
+Even though I want it to this shit don't last forever,
+But better late than never, honestly I'd like to say it's been a pleasure,[Chorus][Singing]
+Like ohhhh...
+For the A-Town, tonight I'm going to let somebody go
+For the A-Town
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_6339208/su_0/tr_jEcGEeH4_DwQPXurmTi2lxe5TlMnPWuOOcgx_hmjORTsuGPmTNGMgr-AntnmJwNDUMSJBFI494qIj4FpbO4B7hgx-4mKu8AGBVfsfMCKhIu8ld4jNatUrv__2YNWujx9Jwen6Cc3WsHy3NB96rbNgv9tR6sfhm2LJB6mgFE9uy4GXjXJbCDvfimFUK0G6urpJ1e9UljrXLP1XfbpkfPsZLGidf8IlRXzh76Aratn8gfBhdDWL0ul5wCV87gh0q-S0cPJgRC0QnRMhCE8gTFUKzRASPz2vswL7fmte9WNT-QVg9COlPBRu2lDL6leTu34p4VSrT10x0gZ4T9Y5eLKXKW-N5ABJ-e--L173W_RHcaWcLkCcnFAvyDQh_YpoRzb/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to lil D for adding these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "It's Been A Pleasure" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

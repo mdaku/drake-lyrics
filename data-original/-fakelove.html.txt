@@ -1,0 +1,306 @@
+DRAKE LYRICS - Fake Love
+ArtistName = "DRAKE";
+SongName = "Fake Love";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Fake Love" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Fake Love"
+
+Yeah, yeah
+I've been down so long it look like up to me
+They look up to me
+I got fake people showin' fake love to me
+Straight up to my face, straight up to my face
+I've been down so long it look like up to me
+They look up to me
+I got fake people showin' fake love to me
+Straight up to my face, straight up to my face
+Somethin' ain't right when we talkin'
+Somethin' ain't right when we talkin'
+Look like you hidin' your problems
+Really you never was all in
+No you can't son me, you won't never get to run me
+Just when shit look out of reach, I reach back like one, three
+Like one, three, yeah
+That's when they smile in my face
+Whole time they wanna take my place
+Whole time they wanna take my place
+Whole time they wanna take my place
+Yeah, I know they wanna take my place
+I can tell that love is fake
+I don't trust a word you say
+How you wanna click up after your mistakes?
+Look you in the face and it's just not the same
+I've been down so long it look like up to me
+They look up to me
+I got fake people showin' fake love to me
+Straight up to my face, straight up to my face
+I've been down so long it look like up to me
+They look up to me
+I got fake people showin' fake love to me
+Straight up to my face, straight up to my face
+Yeah, straight up to my face, tryna play it safe
+Vibe switch like night and day, I can see it like right away
+I came up, you changed up, I caught that whole play
+Since then, things never been the same
+That's when they smile in my face
+Whole time they wanna take my place
+Whole time they wanna take my place
+Whole time they wanna take my place
+Yeah, I know they wanna take my place
+I can tell that love is fake
+(I can tell that love is fake)
+I don't trust a word you say
+(I don't trust a word you say)
+How you wanna click up after your mistakes?
+(How you wanna click up after your mistakes?)
+Look you in the face and it's just not the same
+I've been down so long it look like up to me
+They look up to me
+I got fake people showin' fake love to me
+Straight up to my face, straight up to my face
+I've been down so long it look like up to me
+They look up to me
+I got fake people showin' fake love to me
+Straight up to my face, straight up to my face
+Skrrt (skrrt, skrrt)
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_16001825/su_0/tr_FDjGCNYFgTFn1pLeZjTr0K7bw2W-LBoCrVzjHYsaBY2jTCeMGtH-m6zkFfMD9syBRYwpjHdTWHNXQNcXILl2JXfro_dTiNJN5Cp29FCkxx50E4ekGaj9wwv_GFxAGXW-HnICx0woj94dTtcLpbqBcUGfFaWLguWhrx0NCkHPxB6vZrJKLGPYTx7_QET8gztZSKJj_WPwz-DId-IhTcbX9540X7mkUUnLYgj-6VxE2LnqmW4m2atNnhZaevNfwW35KApeRz4DEv8iZ8Xme1W_TrJ_nRePXnc-g4O2QNOxqxpU4KDrxdueYVe4-Ao4JBR0bbb2IpI5IvyBs4XaMGX66A/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): Anderson Hernandez, Aubrey Graham, Adam Feeney, Brittany Hazzard
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "More Life" (2017)
+
+
+
+
+Free SmokeNo Long TalkPassionfruitJorja InterludeGet It TogetherMadiba RiddimBlem4422GyalchesterSkepta InterludePortlandSacrificesNothings Into SomethingsTeenage FeverKMTLose YouCan't Have EverythingGlowSince Way BackFake LoveIce MeltsDo Not Disturb
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Fake Love" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

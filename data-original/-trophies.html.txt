@@ -1,0 +1,283 @@
+DRAKE LYRICS - Trophies
+ArtistName = "DRAKE";
+SongName = "Trophies";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Trophies" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Trophies"
+
+Had hit records on my demo
+Did y'all boys not get the memo
+I do not stay at the Intercontinental
+And anything I got is not a rental, I own that mothafucka
+Figured out this shit, it's simple
+My stock been going up like a crescendo
+A bunch of handshakes from the fakes
+But nigga I do not want to be friends though
+I told y'all mafuckas, man, this shit is not a love song
+This is a fuck a stripper on a mink rug song
+This a fuck them boys forever, hold a grudge song
+Pop some fucking champagne in the tub song, nigga, "just because" song[Hook]
+What's the move? Can I tell truth?
+If I was doing this for you
+Then I have nothing left to prove, nah
+This for me, though
+I'm just tryna stay alive and take care of my people
+And they don't have no award for that
+Trophies, trophies
+And they don't have no award for that
+Shit don't come with trophies
+Ain't no envelopes to open
+I just do it cause I'm 'sposed to, nigga
+Bitch I go to Dreams with a suitcase
+I got my whole country on a new wave
+She like, "I heard all your niggas stay where you stay"
+House so big I haven't seen them boys in two days
+Bitch, I use a walkie talkie just to get a beverage
+I saw my parents split up right after the wedding
+That taught my ass to stay committed, fuck the credit
+Bitch check the numbers, I'm the one who really get it
+I told y'all mafuckas, man, this shit is not a love song
+This a doing me and only God can judge song
+I do not know what the fuck you thought it was song
+Pop some fucking champagne in the tub song, nigga, "just because" song[Hook]
+What's the move? Can I tell truth?
+If I was doing this for you
+Then I have nothing left to prove, nah
+This for me, though
+I'm just tryna stay alive and take care of my people
+And they don't have no award for that
+Trophies, trophies
+And they don't have no award for that
+Shit don't come with trophies
+Ain't no envelopes to open
+I just do it cause I'm 'sposed to, nigga
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_13911296/su_0/tr_yd0h0aL6uRUQ2YmP33WJr2Ek3tJS6aa4yMDnhPvZABYF1wZ5_B6IG5njJ-p5itwNrZzxXk_dRrC6dxPaxxoK0lFRDRzDdfFnxRT4OPVVnisSnS3yR31z9_P1o3wKh1es3urgbAvED4rUnlXal2Eo8sBA4_br1I4e0gWWfUYrrbn5CzlZkkxnCMUwaEKGj-WWnihITIUVqACoa9g3vWwE5Puw4IwHZlXMaPP8sjjvBPGfIHsSnIiEUo-jokVurR2s64HZFeoW1CZIrx2kQgSju9ZnStD-C2SO7n7T9QUZ6ZGyCxXyK6hbOc72oDh2svOfFRGVaUEvC5MJPozEH3iucg/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): Sharon Kaye Abshire, Chauncey A. Hollis, Raymond Martin, Noah Shebib, Aubrey Graham, Bernard J. Gerard, Marvin Thomas
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Trophies" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

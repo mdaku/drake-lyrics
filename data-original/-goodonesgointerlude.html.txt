@@ -1,0 +1,277 @@
+DRAKE LYRICS - Good Ones Go (Interlude)
+ArtistName = "DRAKE";
+SongName = "Good Ones Go (Interlude)";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Good Ones Go (Interlude)" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Good Ones Go (Interlude)"
+
+Oh yeah[Verse 1]
+Summer's mine
+I swear I said about a hundred times, I'ma need it back
+I wish that you would come and find me
+Just to tell me that I haven't changed, girl I needed that from you
+I'm getting money just taking care of me girl
+I'm spending time just taking care of me right now
+I'm getting money just taking care of me girl
+Cuz you'd be tired of taking care of me by now[Hook]
+But the good ones go
+The good ones go, if you wait too long
+But the good ones go
+The good ones go, if you wait too long
+So you should go
+You should go, before you stay too long[Verse 2]
+Don't you go getting married, don't you go get engaged
+I know you're getting older, don't have no time to waste
+I shouldn't be much longer but you shouldn't have to wait
+Can't lose you, can't help it, I'm so sorry, I'm so selfish
+Uh, uh, I've been chilling in the city where the money's thrown high and the girls get down
+In case you starting to wonder why my new shit's sounding so H-town
+But when it's all done baby I'm yours if you're still around
+She knows, she knows, she knows[Hook]
+But the good ones go
+The good ones go, if you wait too long
+But the good ones go
+The good ones go, if you wait too long
+So you should go
+You should go, before you stay too long
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_8141838/su_0/tr_fIkwliPax0lhKpLgR2dboK0wyeVKhNlyQcPGJtyyOL8o6ea4SAQnEXyNHjLYH2-LFRpZqQ9A02lL8k4FYXuwQvJE5Dt7rLubaXFyexaHYVOwZKwj0NYM5oFrvw2HDUHXQojF07dT-CKZ05JpzaaAO6-qNmnhJoWRc4krO34jD42IdosvKgvbRbDTc_FSjvSEDbzVdSlNlLgm9vvSujO-VhIqhwA1slaM7u_aLu2nca-K_r9rIJKytMURDZ-w2cYV-kZyuZQ-rE-MgqwxPEPJYhCUG2wJDbUP_ONC5uA_vWcjUpDC4H-VMknspssDHyOfYAVIZZe2JffXm0QJveb8041I02SOUV3De07Cf7g9fdyNo0DhMY8w3doF-Omw8Vyb/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): Aubrey Graham, Abel Tesfaye, Jason Beck, Noah Shebib
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Take Care" (2011)
+
+
+
+
+Over My Dead BodyShot For MeHeadlinesCrew LoveTake CareMarvin's RoomBuried Alive (Interlude)Under Ground KingsWe'll Be FineMake Me ProudLord KnowsCamerasGood Ones Go (Interlude)Doing It WrongThe Real HerHYFR (Hell Ya Fuckin' Right)Look What You've DonePracticeThe RideHate Sleeping Alone[iTunes Bonus Track]The Motto[Deluxe Edition Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Good Ones Go (Interlude)" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

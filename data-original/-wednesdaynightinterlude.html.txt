@@ -1,0 +1,283 @@
+DRAKE LYRICS - Wednesday Night Interlude
+ArtistName = "DRAKE";
+SongName = "Wednesday Night Interlude";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Wednesday Night Interlude" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Wednesday Night Interlude"(feat. PARTYNEXTDOOR)
+
+[Verse 1 - PARTYNEXTDOOR:]
+Been a minute since we've slept together
+Finna get myself together
+I've been thinkin' about everything
+I don't know if it's because I'm lonely
+Lonely on a Wednesday night
+Girl I'm lonely
+I'll admit it if you just keep quiet
+Girl I'm lonely
+That shit ain't my fault girl
+Cause I'm lonely
+Name another woman, ain't no other woman that should come for me
+When I'm lonely
+Mix the Remy, little bit of Henny
+I'm running on empty, I'm lonely
+When I'm lonely, when I'm lonely[Verse 2 - PARTYNEXTDOOR:]
+Heard you spend your summers in Miami
+At somebody's house
+That you didn't buy
+You're young so have fun girl
+I hope it's worth it
+Cause fuck it I'm not here to judge
+Fuck it I'm not here to love
+Everything you did to ball
+Fuck it, I'm just glad you called
+Ring ring ring, what a thing
+Ring ring ring, school bell I ring
+You and I got options bae
+But name another woman
+Ain't no other woman that should come for me when I'm lonely
+When I'm lonely
+Mix the Remy, little bit of Henny
+I'm running on empty, I'm lonely
+When I'm lonely, when I'm lonely
+This shit ain't my fault
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_10318237/su_0/tr__P_Vb5TVgDHAjp4GdvP9hKtrz0ypGBumbXVgjbWStIhlHk5uQ-ui6BvtX8ovvuXtjMOdfoeI5EUalitLzqw0bTwiivNDBvZMu_U-7LeEFBftJ2j8q60r-PzoPF21dK-Hd8iw1rRccaUzGapvWNWSdWMsgIQV1oGmfZV38LCgg-AHPOS9uORjAIURp3fAcD-jGECJniM13QDKkQY8_tX5WdbAiOgpWln67ywe3Xkz91YshqwfYyu9M2drG05yfmQqc-MVNb_jaWVy4BTQgszVvAd4q40484IvAPcC7VTWtQxT7Zo_XRlIeZezrA6pZNb6oR9sbt-oFoOraAVW6802hrsm63CgpxfsNAnGpAuuRwxHKt5pfZ9oa8O8LSWjyocvR_uEdCMXKws5Dn3Oyk-0D3uXwMeqT9ZO6Tlfltc9CUA/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to jackiya, Austin Robertson for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "If You're Reading This It's Too Late" (2015)
+
+
+
+
+LegendEnergy10 BandsKnow YourselfNo Tellin'Madonna6 GodStar67PreachWednesday Night InterludeUsed To6 ManNow & ForeverCompanyYou & The 6Jungle6PM In New York[Bonus Track]My Side[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Wednesday Night Interlude" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

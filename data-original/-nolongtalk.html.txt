@@ -1,0 +1,302 @@
+DRAKE LYRICS - No Long Talk
+ArtistName = "DRAKE";
+SongName = "No Long Talk";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"No Long Talk" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"No Long Talk"(feat. Giggs)
+
+Really?
+Yeah (Six!)
+Yeah
+Murda on tha beat, so it's not nice[Drake:]
+That's Baka, he's a no-long-talker
+Quick to let a motherfuckin' TEC slam
+We don't need to hear about a next man
+Youts talk down, then they get ran
+Left them, get dipped from the whole ends
+If Gilla call shots, no questions
+G-Way 'til I'm restin'
+But we still got love for the West End
+If it's a chit-chat ting, better talk nice
+Murda on the beat, so it's not nice
+Skull gets hot, then I'm not nice
+You tryna date her and she been, let me walk twice
+Now you man are on a diss ting
+Just know man like Chubbs
+He's a fixer if I ever gotta fix tings
+Just know man like Fifth, he's a sicko
+As you get tanned, he don't miss things
+Just know man like me, I'm a Sixer
+And I oversee the whole thing
+Yeah, I pree the whole thing
+Yeah, I pree the whole thing
+Preme got the hurt tucked, can't see the whole thing
+Niggas wanna talk splits, now we need the whole thing[Giggs:]
+Man gets duppied when we touch a button
+Man catch suckers, then we're touchin' somethin'
+Man gets stuck in, yeah, we're stuck in somethin'
+Man gets rappin' when we're suckin' somethin'
+Man gets battered with the crutch or somethin'
+Man bat bat it, then we buck or somethin'
+If man child play it, then we Chucky somethin'
+If man start throwin', then we're chuckin' somethin'
+I'm on the best side, got the TEC lined
+In the whip, on the left side, on a death ride
+MAC-10 and the spesh flies, and the TEC slide
+Nutty shit like somethin' just climbed out the X-Files
+Textbook, like it's old school, like in textiles
+Lightie, lookin' healthy and she gets smiles
+Home time, grab a quick drink and she gets wild
+Sexy, and I rate that and her sex style
+Fuckin' somethin', yeah nigga, fuckin' somethin'
+Back bent, pussy, I'll fuck her somethin'
+Cognac, better grab a cup of somethin'
+Glue pussy like a nigga stuck or somethin'
+Stuck or somethin', like a nigga stuck or somethin'
+So the monster is like a truck or somethin'
+Spread the pussy out, I'm 'bout to butter somethin'
+Man gone Hollywood, it's like I'm Buck or somethin'
+You dun know, it's Hollowman Giggs
+Right now, just here with the big man Drizzy, you get me?
+More Life flex, you dun know
+OVO and SN1 to the world, brap
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_16501369/su_0/tr_pchF7ImXXOg_82qVdyNcBko6w0olZ5JnSxwcMvNA6V8GjNVRVYy5vXv_QcN1Moe2RtXZn3vjq-9K0HVd5MzTLo3oRl4pY2fvx1YxZE3HSYnBqYCEUsoNltTPMVM9v5_pQ_4cnQ47jfeJ1pnwS0zNO-3yD5GNEQQhhvym3RCfMCIDliGKU1uGaAr2mOXbMyah68R6-q2GdhgrHeZtYA95Cnbhr_uwKr99xFbUjQYSuP55tVjMGjQGEXZ3l1672pJuqUk6mn5jALDPHK9iKyhavhw9cFy0p0tdcXzuQBWZ8h1FpMvz3IIniPjZ2gcBmGvGy_eXnhf4tBolmuewDBwg5W2Jb1RqNs7scYLaFoGBxw4_NXX7FhDXKAY5Uaa5RdYu/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "More Life" (2017)
+
+
+
+
+Free SmokeNo Long TalkPassionfruitJorja InterludeGet It TogetherMadiba RiddimBlem4422GyalchesterSkepta InterludePortlandSacrificesNothings Into SomethingsTeenage FeverKMTLose YouCan't Have EverythingGlowSince Way BackFake LoveIce MeltsDo Not Disturb
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "No Long Talk" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

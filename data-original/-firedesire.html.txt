@@ -1,0 +1,305 @@
+DRAKE LYRICS - Fire & Desire
+ArtistName = "DRAKE";
+SongName = "Fire &amp; Desire";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Fire & Desire" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Fire & Desire"
+
+Dedicate, I dedicate the world
+Yeah, oh
+I dedicate, I dedicate
+I give you my fortune
+I dedicate, I dedicate
+I dedicate, I dedicate
+I dedicate, dedicate, dedicate
+I dedicate to you
+I dedicate, I dedicate
+I dedicate, I dedicate, oh yeah
+I dedicate, I dedicate to you
+They throwin' dirt on my old name
+Only gets worse when you know things
+You don't see the perks of this whole thing
+But you get real on a pill and I like it
+You just like my sidekick, I just wanna wife,
+Fulfill all your desires
+Keep you in the front, never in the back
+And never on the side, yeah
+You a real ass woman and I like it
+I don't wanna fight it
+Look, you know I'm a rider, nothin' left to hide
+Your other nigga tired
+Talk about you like you'll never leave his side
+But I don't really buy it
+Me I'm movin' quiet, all the things we're tryin'
+Let's just keep it private
+Tell me should I cut these other girls right out of my life?
+Cause we never decided
+Tell me how you feel inside
+You a real ass woman and I like it
+(Dedicate to you)
+I need you inspired, I need you excited
+I don't wanna fight it
+I figure out you, you figure out me
+We both a different breed
+I'm followin' your lead, I ask you what you need
+You say a guarantee
+I mean you say that like it's easy
+You never believe me
+Told you I got Zs for these other girls sleepin' on em
+Girl I'm sleepy
+Sometimes I'm so indecisive
+But you a real ass woman and I like it
+I don't wanna fight it
+I give you my all
+I dedicate, I dedicate, woah yeah
+I dedicate, I dedicate
+I dedicate, baby, dedicate
+I dedicate to you
+I dedicate, I dedicate
+This song's for you
+I dedicate, I dedicate
+I give you my all
+I give you my voice
+This song's for you
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_15280459/su_0/tr_pzwtAKhIdYhzM1ZOBcP1H1p6e0CNeuCcKFFINe0Hg312E5vAYn6IEnnQE0NG-Mz7K5jVT15A_-9yrFkdJyy6RP5encVhy0dAqc8VIFUlnr4OeHFITSXmjCijes-U5K9AcrbW-O4B6txK-cszzxTr7jAdNvhjeCO_cRVgdD4uv4U_XiAxEhaH15wMsYyv4rNfeMkggCIZpyr3nsAtW8_eoGAdjZ245aHmRSHVbSClxFFVMV-FZt3EPCkcXWQR12Fhj-E_a2TJltSaCfCBQZhQDCWr9ddFlebroZbB1zcoYuvU_B_7vxSYD1yPJwqPtKC738WpJ1bXc6fy3pWhhSGy12jd-WnWxAmXbsEr53MTeV0yttEjOfeC6lrIpUE9jt6w/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Michael, Ashley, Amber Alexander for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Rocho Holiday, Aubrey Graham, Rochad Holiday, Curtis Wilson, Noah Shebib, Jeff Young, William Young, Brandy Norwood
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Views" (2016)
+
+
+
+
+Keep The Family Close9U With Me?Feel No WaysHypeWeston Road FlowsRedemptionWith YouFaithfulStill HereControllaOne DanceGrammysChild's PlayPop StyleToo GoodSummer's Over (Interlude)Fire & DesireViewsHotline Bling[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Fire & Desire" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

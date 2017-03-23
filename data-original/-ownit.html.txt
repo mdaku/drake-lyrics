@@ -1,0 +1,313 @@
+DRAKE LYRICS - Own It
+ArtistName = "DRAKE";
+SongName = "Own It";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Own It" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Own It"
+
+[Intro]
+Own it
+It's yours [x2][Verse 1]
+Yours
+You're still the one that I adore
+Ain't much out there to have feelings for
+Guess whose it is? Guess whose it is?
+Guess whose it is? Guess whose it is?
+Yours
+A few bottles on the table, a few waters
+It ain't a secret, baby, everybody saw us
+Guess whose it is? Guess whose it is?
+Guess whose it is?
+It's yours
+Next time we fuck, I don't wanna fuck, I wanna make love
+Next time we talk, I don't wanna just talk, I wanna trust
+Next time I stand tall I want to be standing for you
+And next time I spend I want it all to be for you oh oh
+Peaking, I'm peaking, wake up with me this weekend, weekend no oh
+Guess whose it is?
+Guess whose it is? Guess whose it is?
+It's yours[Hook (x2)]
+Own it [x16]
+I said go own that shit
+Own that shit, own that shit
+Own that shit, go own that shit
+Own that shit, own that shit
+Own that shit, own that shit
+Go own that shit[Verse 2]
+Niggas talk more than bitches these days
+Just let that shit sink in
+Niggas talk more than bitches these days
+Who could get the pussy quicker these days
+Still straight with the weed and the liquor these days
+Cause the new drugs got the kids trippin' these days (trippin')
+Bunch of journalists been searchin' for a story
+My ex-girl been searchin' for a "sorry" (and u know)
+Couple bitches tryin' to have me on the Maury like nigga it's yours
+You should be supportin' but where you been at? On tour, gettin' money
+Y'all don't even really check for me
+You ain't even hit me when that nigga had threats for me
+Girl, you don't love me, you just say that shit to get to me
+Girl, cause you got the Batphone in my workline
+You should call
+When the last time you did something for the first time?
+You have done it all, I swear to God
+Niggas talk more than bitches these days
+Got you thinkin' that I'm different these days
+Broken telephone for every single conversation
+By the time it gets to you, shit switches these days
+It's yours, it's yours, it's yours, it's always gonna be yours[Outro]
+Own it [x17]
+The shit
+Own it, own it
+It's yours, yeah
+It's yours, own it
+Own it
+Own it
+Own it
+Own it
+Baby, own it
+It's yours
+Own that shit, own that shit
+Own that shit
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_16348507/su_0/tr_-sFF_N9cJFP8F1v3K8sbE6JbHH5u4SuQzoeAlh2FVwUl1w763bah8b-pskf_Jbox7Y-WqQ0U-l8OR78oMcTvdF_tdZSXkLbfUOVWr5qk6b6XePTX29rMaqFzBj_Hr8UoEhZpy5jVoddXnLVanCuoMqL5F7e8-e-I_HTWbvpZhO1VXFrjIWGwDkyGbojgWvns7yhNsgxlJggKOwOWjT2xW2wGsYuWkYGabemdSe013GC6j_mHI5H7l1-Bqzw9JrpgEdclPad3LOnwJPhNnifdgWFJii6U0M4OMWYFQU4COozZSUF1JE8qeDvrgSYI8NMLtHcICTdlht2d6YEkHkY1kA/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Tee Mesani, Destiny, Mariana M, Daniel for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): DIAZ RASOOL RICARDO, SOKO BRIAN, PROCTOR ANDRE ERIC, SHEBIB NOAH JAMES, GRAHAM AUBREY DRAKE, FISHER NOEL C, PALMAN ANTHONY GEORGE
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Nothing Was The Same" (2013)
+
+
+
+
+Tuscan LeatherFurthest ThingStarted From The BottomWu-Tang ForeverOwn ItWorst BehaviorFrom TimeHold On We're Going HomeConnectThe Language305 To My CityToo MuchPound Cake / Paris Morton Music 2Come Thru[Deluxe Edition Bonus Track]All Me[Deluxe Edition Bonus Track]The Motion[Best Buy Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Own It" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

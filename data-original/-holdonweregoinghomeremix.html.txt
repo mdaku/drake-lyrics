@@ -1,0 +1,297 @@
+DRAKE LYRICS - Hold On We're Going Home (Remix)
+ArtistName = "DRAKE";
+SongName = "Hold On We're Going Home (Remix)";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Hold On We're Going Home (Remix)" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Hold On We're Going Home (Remix)"(feat. Majid Jordan, Rick Ross)
+
+[Intro: Rick Ross]
+Shorty I got more money than I ever had
+But you the only thing I need right now 
+You make it all so simple, you my new thing
+Ha Ha Ha Ha![Verse 1: Rick Ross]
+I fuck her like an addict, she fuck me like she mad at me
+But it's all cool though, I flew out Aneisha just last week
+When I'm away she send me pics in the sheets
+Saw my grin on my cars on my sneaks
+Wait, let me keep this shit simple
+Fuck the radio this shit's a nigga tempo
+Fat boy blue jeans and a gold watch
+Started at the bottom then she rolled on top
+Black testerosa, zero to sixty on the strip she's explosive
+Just got back from Dubai, Emirates live flew in with 1.5
+Never fold is the threshold, like my mother sayin now never let go
+Hood nigga with a escrow, bad bitch but she special
+Went home and I prayed for a angel appeared in the dark here to take away the pain too
+War wombs on the big dog, but she get the ball like it's tip off
+Watch D-Wade got two seats, got her everything but the blue beach
+Cartier wings nigga two seats, nigga gettin money like a new Meech
+We the knights of the Templar, dirty little nigga with ten cars
+This whole clique another Enron, baby girl it's time for you to get gone
+Here's a shoulder just to lean on, Rozay baby and the team strong[Verse 2: Drake]
+I got my eyes on you, you're everything that I see
+I want your hot love and emotion endlessly
+I can't get over you, you left your mark on me
+I want your hot love and emotion endlessly[Chorus: Drake]
+Cause you're a good girl and you know it...
+You act so different around me...
+Cause you're a good girl and you know it...
+I know exactly who you could be...
+Just hold on, we're going home...
+Just hold on, we're going home...
+It's hard to do these things alone...
+Just hold on, we're go-ing home, ohh-ohh oh ohhhh..[Verse 3: Drake]
+I got my eyes on you, you're everything that I see
+I want your hot love and emotion endlessly
+I can't get over you, you left your mark on me
+I want your hot love and emotion endlessly[Chorus: Drake (Majid Jordan)]
+Cause you're a good girl and you know it (ohh yeah)
+You act so different around me (la-da dah daaah)
+Cause you're a good girl and you know it (la-da dah)
+I know exactly who you could be...
+So just hold on, we're going home (we're going home)
+Just hold on, we're going home (we're going home)
+It's hard to do these things alone (things alone)
+Just hold on, we're go-ing home (going home) ohh-ohh oh ohhhh (going home)[Interlude 2X: Majid Jordan]
+You're the girl, you're the one
+Gave you every.. thing I loved
+I think there's something... baby
+I think there's something... baby[Chorus: Drake (Majid Jordan)]
+Cause you're a good girl and you know it...
+You act so different around me...
+(Cause you're a good girl and you know it...)
+(I know exactly who you could be...)
+Ohh, just hold on, we're going home (we're going home)
+Just hold on, we're going home (we're going home)
+It's hard to do these things alone (things alone)
+Just hold on, we're go-ing home (going home) ohh-ohh oh ohhhh (going home)
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_15787327/su_0/tr_hSI7bQ18_aDb4R0SU7MhtpAFjVJiKhEP4tOa-sxKEv6wohCemx6WvimYNn0doYaZKMeHAeyZZ1dk4_dFg_MvVCge4pfwYLQ5lUjISxoHBqfAfi71W_rfWPkqUtUqLMKsyb-xxyVFJk8uMZf119TuFkyZ-E5xeoHpCfJOrOLgEa5q2OOmHZJqMIYV38YMwkShxrpNy1XSFyBunLpfccoXQrpg1RhcACY_6XkIiUVB7AKc0n0xymHjmyX8lnr1c06P2hZ84wMNPVgj3lDg7CLDMo56l2g2RzRDs5w44AaOFMsjE6WjzyZH0mDWx3N0PjOWsgN7rW0kg-7q4dz9aYjk2xWVtIQEZMdt9g9x5-4YNhY--Bm-DKoErbigE0KCTQ7f/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): Aubrey Graham, Noah Shebib, Paul Jefferies, Jordan Kenneth Cooke Ullman, Majid Hani Ali Rashed Al-Maskati
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Hold On We're Going Home (Remix)" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

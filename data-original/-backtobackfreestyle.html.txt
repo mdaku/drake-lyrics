@@ -1,0 +1,296 @@
+DRAKE LYRICS - Back To Back (Freestyle)
+ArtistName = "DRAKE";
+SongName = "Back To Back (Freestyle)";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Back To Back (Freestyle)" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Back To Back (Freestyle)"
+
+Oh man, oh man, oh man, not again
+Yeah, I learned the game from William Wesley
+You can never check me
+Back to back for the niggas that didn't get the message
+Back to back like I'm on the cover of Lethal Weapon
+Back to back like I'm Jordan '96, '97
+Whoa, very important and very pretentious
+When I look back I might be mad that I gave this attention
+Yeah, but it's weighin' heavy on my conscience
+Yeah, and fuck, you left a boy no options
+I wanna see my niggas go insane
+You gon' make me step out of my fuckin' frame
+You gon' make me buy bottles for Charlamagne
+You gon' make me go out of my fuckin' way
+I waited four days, nigga, where y'all at?
+I drove here in the Wraith playin' AR-AB
+I'm not sure what it was that really made y'all mad
+But I guess this is what I gotta do to make y'all rap
+I mean woah, can't fool the city, man, they know what's up
+Second floor at Tootsies, gettin' shoulder rubs
+This for y'all to think that I don't write enough
+They just mad cause I got the midas touch
+You love her, then you gotta give the world to her
+Is that a world tour or your girl's tour?
+I know that you gotta be a thug for her
+This ain't what she meant when she told you to open up more
+Yeah, trigger fingers turn to twitter fingers
+You gettin' bodied by a singin' nigga
+I'm not the type of nigga that'll type to niggas
+And shout-out all my boss bitches wife-in niggas
+Make sure you hit him with the prenup
+Then tell that man to ease up
+I did another one, I did another one
+You still ain't did shit about the other one
+I got the drink in me goin' back to back
+Yeah, goin' back to back
+I got the drink in me goin' back to back
+Yeah, I'm goin' back to back
+I don't wanna hear about this ever again
+Not even when she tell 'em that they better as friends
+Not even when you sayin', "Drizzy, tell 'em again"
+I been puttin' on a show, it was a sell out event
+Oh, you need better seatin'
+I didn't wanna do it, gave me every reason
+The point I'm tryna make is I don't ever need 'em
+Seen what you'd do for fame or what you'd do for freedom
+Please, check 'em for a wire or a earpiece
+Please, please do not let these niggas near me
+Please, think before you come for the great one
+Please, who's a real nigga and who ain't one?
+Please, somebody stop me
+I'm talkin' bousy and gwanin wassy
+I got the fest in five days and it's my shit
+Soon as a nigga hit the stage, they gon'
+They gon' ask if I can play this shit back to back
+Yeah, they want it back to back
+They gon' ask if I can play this shit back to back
+I took a break from Views, now it's back to that, nigga
+(Six)
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_11868235/su_0/tr_B13HFOLwRp7lU8mPb8ADDrx3JI78U5KQZzKC0z25QDxmMhz-FpJl0t9Z8JvnHbn-0nfSMaViYcIscX64TGklDjVKnDB9clQGv4IITkpxlzGpSKlYaiZ9U6kwV82UuqApFHHm3SAt6QNhNc70Z8kLcvgnWqtLamXlBEeCUYImLq_LaQVri0Ehyb-HIlzIeJT0IPBIKIX8CS28wg-BNRHoArgfLrOYp-KPGB5wZ_4xeOkwls5eiTNQu-7AegTING-4k22boAxw18UkYg6y5SOu5KvoAuLkD1lyk044mWA9z3jA6g8-ETkHB2ndSWwQIxBhz1HcGoXQO1MCyKwvJXME63PEr4hkZKVotieepwwnhVdSFUZ6xbpDtF_udcZpIDTi/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Tyler for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Back To Back (Freestyle)" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

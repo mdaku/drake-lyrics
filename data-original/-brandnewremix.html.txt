@@ -1,0 +1,290 @@
+DRAKE LYRICS - Brand New (Remix)
+ArtistName = "DRAKE";
+SongName = "Brand New (Remix)";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Brand New (Remix)" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Brand New (Remix)"
+
+[Drake]
+This here is on some truthful shit
+It seems like everything I do, your used to it
+And I hate hearing stories bout who you've been with
+Swear I gotta hide, what I'm feelin inside
+So you still think I'm confident and dumb
+Is this gonna last? Your up on a pedestal
+Are we moving too fast?
+Feel like I'm in crazy competition with the past
+This why I gotta ask, is 
+Anything I'm doin brand new?
+Brand new, brand new, brand new, brand new
+Is anything I'm doin brand new?
+Brand new, brand new, brand new, brand new
+Brand new girl[Lil Wayne]
+This here is on some remix shit
+It seems like everything I do they're leakin it
+And I hate hearin stories of who I'm sleepin wit
+Thats when I gotta hide who I got in the ride
+So she still thinks I'm confident and down
+How long will this last
+My life is on a pedestal am I movin to fast
+It feels like I am in crazy competition wit my past
+Thats why I gotta ask. . . .
+Is anything I'm doin brand new
+Brand new
+Brand new
+Brand new
+Brand new
+Is anything I'm doin brand new
+Brand new
+Brand new
+Brand new
+Brand new
+Remix baby. .
+If he can do good, then I can do better
+Now baby any man would if he would know better
+I don't wanna hear about him anymore
+And I know you've heard this song before
+Is anything I'm doin brand new?. . . 
+Brand new
+Brand new
+Brand new
+Brand new
+Show me if this is brand new
+Brand new
+Brand new
+Brand new
+Brand new
+This is the remix baby
+Weezy baby drazzy
+Young mula baby
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_8028889/su_0/tr_jNlq-IDgZ4eBs6LQKJifS35AxYqCY7ZQlf5IyVlxUyjRKJsryEQt7Eb3Eg2Je2kbn7foHMXmIuLgZ6Gcn-KLjQ7TpkbYGgt97-ECfY-Iie6zNr9byEfztGwrBYLcWKiNOMej4LodytyUTPEdnxau5c6KbezG_NjIH13qgvXGYPw1npj3_K1is5EjRLXqbKph7ObvozUFurOR6haR5EdpBw4hRqmghe8LEwcN9II29DTxZ5MWjZKiXxbDOtU2Q2gZhf7C6-693121-yN-ojOshwj6XRugVcggLHLovLHTixNw6QIaXPyQxwfla1hItV-PjLfephClW2auwNbli4K2bq94ittom0LwI4iD0fRTZGwWrlOKfOwHedkIbKucchMc/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to jabre hunter for adding these lyrics.
+
+
+
+
+
+
+
+Writer(s): Calvin Broadus, Thom Bell, Linda Creed, Jasiel Robinson, William Roberts, Dana Ramey
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Brand New (Remix)" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

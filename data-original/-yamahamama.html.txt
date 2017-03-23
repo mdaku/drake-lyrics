@@ -1,0 +1,279 @@
+DRAKE LYRICS - Yamaha Mama
+ArtistName = "DRAKE";
+SongName = "Yamaha Mama";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Yamaha Mama" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Yamaha Mama"(feat. Chris Brown)
+
+[Drake]
+Listen girl, you so bad and you single
+What’s this I hear, we ain't met yet
+My name Drake and I’ma take the world over, this my year
+This I swear, had my share of women that I been with
+I’m young, can you blame me
+I know you feel like a lot of things off limits
+At least let me describe what it can be
+Be faithful, I do that, not really baby girl
+I’ll do that
+Cause everybody break up when the cake up
+We can be the couple that’ll never go through that
+Yeah and if we’re ever falling off
+I swear I’ll remind you that we’re not who they are
+Now all I really gotta do is find you
+Where you at?[Chris Brown - Chorus]
+From the east to the west, scream for me if your my number one lady
+Take a lead in the race you can go fast speed it up for me baby
+I’ma a G, whats next? One night with me would drive you crazy (crazy)
+One night with me would drive you crazy.
+Starters are you ready, take your marks and get steady
+You know that its about to get heavy
+Cause shes a rider (a rider)
+My Yamaha mama [x4]
+Aye aye[Drake]
+Tell me how I locate you
+I know satellites are a breakthrough
+But they don’t really lead me straight to
+And I gotta arrive ‘fore somebody take you
+Know there’s someone you don’t mean a lot to
+And you would hate to know that I got you
+I even got a speech in my head that write
+and recite at the moment I spot you
+Hey there, your name is?
+I like that, it suits ya
+I’m young but I’m different
+I’m not what your used to at all
+If we stop at the same red light
+I’ma celebrate the fact that I found you girl
+And I’ma ride for ya too as soon as it turn green
+Wanna hear from all my ladies from around the world
+Where you at?[Chris Brown - Chorus]
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_8499345/su_0/tr_o0UYMxfhycWYGVjleavXqYctN71dgodu3oR277yeTYyFoRSySozmELOztAfY_YtRWKEX_CcYqT2zj3e12Z7ZWLvNsJZ1WW6JowtqhWQFnJ4Rv1tOsd7bQrjOxNhyuCr9HGODFTfqpNsWtUQmXpoStBMYR8EakOQ6kjEpQ-aH8FtC3yyfUaXEAE6vQ9wy6XMX_rYkqiTGNhq5UtDIKzmxad4a0AuHrea6gODcOSRojwLg9lzhlvVxjGFlmUowCOvyfmkDHeRaHFq-k6VzAEDyfjhgOd-aZB6c2gFpp2sUP_Gzs3KdYXHJn9i89ifkqPgCS1tDHLfWxc4Og28GC81lRP4tucTASnSHkJLnT2xDgX-SlCoIpJ46qxPSpsgcvABF/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): Jamal F. Jones, Christopher Maurice Brown, Deandre Way, Bryan Williams, Tristan Jones, Dwayne Carter, Lamar Taylor, Darnell O. Dalton, Jasper Tremaine Cameron
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Yamaha Mama" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

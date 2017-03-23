@@ -1,0 +1,310 @@
+DRAKE LYRICS - Legend
+ArtistName = "DRAKE";
+SongName = "Legend";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Legend" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Legend"
+
+When I pull up on a nigga
+Tell that nigga back back
+I'm too good with these words
+Watch a nigga backtrack
+If I die, all I know is I'm a motherfucking legend
+It's too late for my city
+I'm the youngest nigga reppin
+Oh my God, oh my God
+If I die, I'm a legend
+Oh my God, oh my God
+If I die, I'm a legend
+I'm up first, I'm on tour
+Got a girl, she from the South
+Used to work, used to dance in Texas
+Now she clean the house
+Everyday, I was strugglin' to learn what life's about
+On my way, money taught me Spanish
+Make it andale
+Way up north, packed in Honda cars
+They 'ont know who we are
+Fuck em all, they only pussy niggas shooting at the star
+Right or wrong, I'm a write my wrongs
+They can't live this long
+You don't know where you're gonna go
+I got this shit mapped out strong
+When I pull up on a nigga
+Tell that nigga back back
+I'm too good with these words
+Watch a nigga backtrack
+All I know, if I die, I'm a motherfucking legend
+It's too late for my city
+I'm the youngest nigga reppin
+Oh my God, oh my God
+If I die, I'm a legend
+Oh my God, oh my God
+If I die, I'm a legend
+I'm the one, one
+Why do I feel like the only one?
+Why do I feel like you owe me one?
+6 G-O-D I'm the holy one
+Yeah, you know what's up
+They been off for a minute now
+You know they all sentimental now
+You know they all actin' different now
+And I, I just can't pretend
+Seen too much, it's so hard for me to let new people in
+I can't change, this shit set in stone
+They can't live this long
+You don't know where you're gonna go
+I got this shit mapped out strong
+When I pull up on a nigga
+Tell that nigga back back
+I'm too good with these words
+Watch a nigga backtrack
+All I know, if I die, I'm a motherfucking legend
+It's too late for my city
+I'm the youngest nigga reppin
+Oh my God, oh my God
+If I die, I'm a legend
+Oh my God, oh my God
+If I die, I'm a legend
+I'm the one...
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_10318226/su_0/tr_vnDQrEtBAXbaiVBhzEiBeKPOlQ1mwiGhG5teJPvs8bjtXjPl4nB_OHQ9sSzteSeuDerLTT4SHmIdxSLSVr-_ZISOLRVEZ7IFTByQ5Ndh-LVC6-c4Q132viXbszDZaUYSpPu7ZPAcooKVcQ86MxUjmQ9I48ahP244vbbD5xbYCULJ0e2Zkhekbm1kU7fLRTdmALK1YdgIAUhkJGwCnRmT06477R3uEjBcn_USzILPQ32Rtejp_EWlWXUfomNv--g69w1956HvHK5N5B-dt_oDs8xPIgcpxeDtd_wqtC22mhN3t7_N4cm5AHiiTv6Xzh6ej1990czk9QHQRGKSv_DkOw/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to may, Tiago Oliveira, Molly, Lyric Fixerr, Max Utsler for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "If You're Reading This It's Too Late" (2015)
+
+
+
+
+LegendEnergy10 BandsKnow YourselfNo Tellin'Madonna6 GodStar67PreachWednesday Night InterludeUsed To6 ManNow & ForeverCompanyYou & The 6Jungle6PM In New York[Bonus Track]My Side[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Legend" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

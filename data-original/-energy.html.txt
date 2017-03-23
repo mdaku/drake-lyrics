@@ -1,0 +1,306 @@
+DRAKE LYRICS - Energy
+ArtistName = "DRAKE";
+SongName = "Energy";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Energy" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Energy"
+
+Lickwood means rewind, a gunshot means forward
+You requested it so we rewind
+Yeah
+Way, way, way up
+Turn it all up
+Yeah
+Look
+I got enemies, got a lotta enemies
+Got a lotta people tryna drain me of my energy
+They tryna take the wave from a nigga
+Fuckin' with the kid and pray for your nigga
+I got girls in real life tryna fuck up my day
+Fuck goin' online that ain't part of my day
+I got real shit poppin' with my family too
+I got niggas that can never leave Canada too
+I got two mortgages, thirty million in total
+I got niggas that'll still try fuckin' me over
+I got rap niggas that I gotta act like I like
+But my actin' days are over, fuck them niggas for life, yea
+I got enemies, got a lotta enemies
+Got a lotta people tryna drain me of this energy
+They tryna take the wave from a nigga
+Fuckin' with the kid and pray for your nigga
+I got people talkin' down, man, like I give a fuck
+I bought this one a purse, I bought this one a truck
+I bought this one a house, I bought this one a mall
+I keep buyin' shit just make sure you keep track of it all
+I got bitches askin' me about the code for the Wi-Fi
+So they can talk about they timeline
+And show me pictures of they friends
+Just to tell me they ain't really friends
+Ex-girl she the female version of me
+I got strippers in my life, but they virgins to me
+I heard everybody talking bout what they gonna be
+I got high hopes for you niggas, we gon' see
+I got money in the courts so all my niggas are free
+Bout to call your ass a Uber, I got somewhere to be
+I hear fairy tales 'bout how they gon' run up on me
+Well run up when you see me then and we gon' see
+I got enemies, got a lotta enemies
+Got a lotta people tryna drain me of this energy
+They tryna take the wave from a nigga
+Fuckin' with the kid and pray for your nigga
+Naw, fuck all of you niggas I ain't finished
+Y'all don't wanna hear me say it's a go
+Y'all don't wanna see wayne win 50 award
+I got real ones livin' past Kennedy Road
+I got real ones with me everywhere that I go
+I'm tryna tell ya, I got enemies, got a lotta enemies
+Every time I see 'em somethin' wrong with they memory
+Tryna take the wave from a nigga
+So tired of savin' all these niggas, mayne!
+Yeah
+Run up
+I got enemies, got a lotta enemies
+Got a lotta people tryna drain me of this energy
+They tryna take the wave from a nigga
+Fuckin' with the kid and pray for your nigga
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_10318223/su_0/tr_qurrBHalgNlAiRgJ6KshHtiRJO5xHF5N2_1GLCKKKocjMB23cBtCbqsVol1LuwMbh0xq8V_hFXzsbNhD55V-YmxgRz72U2p5_Pkd3z32V1Z9lAm_Qc3lgnl0mx-FAx0SyPCLMxFQSWmuVl_ApAPSZZFlxsrDZ-sHcppNymZe85wx5xegdewNuw9xFVPOtF-TA_a2qtiH1MciEfLYgGgy8s2xpnzudFRgkL0uL6jcB-Rq8OkBrF9-JHoLiFtnUXWmpR5ZzcAceSq-CGzqlIZZgTJCiJKmQEu2gTJMRAxAYVhVdziaddIJi-DvzbDfqqWsnLuXlHj1Bqrn7Nsn9j9I7w/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Gracye, Dopest_breezy, ManDeezy1, Veronica Rodriguez, Gabriela Figueira for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "If You're Reading This It's Too Late" (2015)
+
+
+
+
+LegendEnergy10 BandsKnow YourselfNo Tellin'Madonna6 GodStar67PreachWednesday Night InterludeUsed To6 ManNow & ForeverCompanyYou & The 6Jungle6PM In New York[Bonus Track]My Side[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Energy" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

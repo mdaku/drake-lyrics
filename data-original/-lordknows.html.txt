@@ -1,0 +1,328 @@
+DRAKE LYRICS - Lord Knows
+ArtistName = "DRAKE";
+SongName = "Lord Knows";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Lord Knows" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Lord Knows"(feat. Rick Ross)
+
+[Intro: Rick Ross]
+All we wanted was opportunity
+Just Blaze, Lord Knows![Verse 1: Drake]
+It’s your worst nightmare, it’s my first night here
+And this girl right here, who knows what she knows?
+So I’m going through her phone if she go to the bathroom
+And her purse right there, I don’t trust these hoes at all
+But that’s just the result of me paying attention
+To all these women that think like men with the same intentions
+Talking strippers and models that try to gain attention
+Even a couple pornstars that I’m ashamed to mention
+But Weezy and Stunna are my only role models
+Heffer and Jordan are my only role models
+That’s why I walk around with all this gold on
+And every time I run into these niggas they want no problems
+Buy them sixes and chains, and some bracelets and rings
+All of the little accents that make me a king
+I never hear the disses they try and point out to me
+But it’s whatever if somebody wan’ make it a thing
+I’m more concerned what niggas thinkin’ about Christmas in August
+Do anything to buy gifts for they daughters
+Get some shake a brick in the press
+And chef it like Mrs. Fields they’re making the cookie stretch
+I know it so well, I know the hustle so well
+Stunt like I’m workin’ overnighters right by the motel
+Drug money, outfit record clean
+Spend it all on me and my fuckin’ team
+Matchin’ Rollies for real, matchin’ Rovers for real
+Places they say they’ve been, we’ve actually going for real
+I’m really killin’ shit, fuck all the jiggy rappin’
+I’m going trigga happy just to see my niggas happy
+Mixtape legend, underground kings
+Lookin’ for the right way to do the wrong things
+With my new bitch that’s living in Palm Springs
+Young ass nigga, lifelong dreams
+They take the greats from the past and compare us
+I wonder if they’d ever survive in this era
+In a time where it’s recreation
+To pull all your skeletons out the closet like Halloween decorations
+I know of all the things that I hear they be pokin’ fun at
+Never the flow though, they know I run that
+Fuck you all, I claim that whenever
+I change rap forever, the game back together, yup
+YM, I remain that forever
+In the same place my brother Wayne that forever
+I’m a descendent of either Marley or Hendrix
+I haven’t figured it out cause my story is far from finished
+I’m hearing all of the jokes, I know that they tryna push me
+I know that showin’ emotion don’t ever mean I’m a pussy
+Know that I don’t make music for niggas who don’t get pussy
+So those are the ones I count on to diss me or overlook me
+Lord knows, Lord knows, I’m heavy, I got my weight up
+Roll this and boost your rate up, it’s time that somebody paid up
+A lot of niggas came up off of a style that I made up
+But if all I hear is me, then who should I be afraid of?
+Bought a white Ghost, now shit is gettin’ spooky
+Very, very scary, like shit you see in the movies
+In this bitch all drinks on the house like Snoopy
+That’s why all the real soldiers salute me
+Trill nigga, for real[Interlude: Rick Ross]
+You know I love this
+YOLO, You Only Live Once
+I’m going so hard my nigga, I swear homie
+Everyday is another opportunity to reach that goal[Verse 2: Rick Ross]
+I fell in love with the pen, started fucking in ink
+The hustle’s an art, I paint it what I would think
+Still allergic to broke, prescription straight to the paper
+Destined for greatness, but got a place in Jamaica
+Villa on the water with the wonderful views
+Only fat nigga in the sauna with Jews
+Went and got a yacht, I’m talkin’ Carnival cruise
+And these niggas talkin like hoes, they mad they not in my shoes
+It’s the red bottom boss, came to buy the bar
+Every by week, shit, I’m bound to buy a car
+Murder-cedes Benz of that bubble double R
+Headlights flickin’, lookin’ like a fallin’ star
+Everyday them hammers bang, whippin' yay like Anna Mae
+I run the game but the ladies think I’m running game
+Mink coats making women wanna fornicate
+Rosay and Drake, I’m gettin’ cake, nothin’ short of great
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_13787590/su_0/tr_0WkNQo4yTaR60YasPBYyEo1CgRkWWMKaK8jUxcmTOHbGAzizQlcNoFtl7uFoz44KyFCJ7KBJojrCzbsQ6xeG09-WFb5a6z2N0R2XvM26yPmr8AVQwDl_uSbNXYVWS2PEK512pQ_t69IOvUkao10nkfghqLCrjraysRghOu-8YuC8f5j9_-1znPIK0Kvip5C1oYO5LZ9EWTOt9d0KHJsJqfbNHGr9MrPYGbbuV3HWsoKeInIfj5YEdGWKFrhPXPaID6u3_XbcAwePgi_EysTJNzeRg8l77ifdK2NCQADexBjTeLU_S-F5phq49SjNiUFIYkkQiHCTai6BeY-Fuua5kfLgTQ7-fbVCHuXaOGtIz6V7JN7fxuy0UW4F-Tn8F0RJ/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Mariah Demauchet, Wes Lancaster for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Take Care" (2011)
+
+
+
+
+Over My Dead BodyShot For MeHeadlinesCrew LoveTake CareMarvin's RoomBuried Alive (Interlude)Under Ground KingsWe'll Be FineMake Me ProudLord KnowsCamerasGood Ones Go (Interlude)Doing It WrongThe Real HerHYFR (Hell Ya Fuckin' Right)Look What You've DonePracticeThe RideHate Sleeping Alone[iTunes Bonus Track]The Motto[Deluxe Edition Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Lord Knows" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

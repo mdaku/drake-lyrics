@@ -1,0 +1,284 @@
+DRAKE LYRICS - I Get Lonely Too
+ArtistName = "DRAKE";
+SongName = "I Get Lonely Too";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"I Get Lonely Too" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"I Get Lonely Too"
+
+[Verse 1:]
+Waited on you for so long
+Too many days since January
+I'm still sitting here alone
+We shoulda did this already
+Said I gotta email today
+Kinda thought that you forgot about me
+But I wanna hit you back to say
+Just like you, I get lonely[Chorus:]
+Baby, I could really get to know you
+Take my time and show you
+Don't tell anybody what we do
+When I get lonely
+Take me to another place where I'll be
+Face to face, just you and me with no rules
+Just like you, I get lonely too
+Just like you, I get lonely too
+Just like you, I get lonely[Verse 2:]
+Ready for us to get it on
+Ain't got a love to call steady
+Hope it ain't like that for long
+I'll be your friend if you let me
+Don't wanna come on strong
+'Cause too many people wanna get me
+But you know I do what I gotta do
+Just like you, I get lonely too[Chorus:]
+Baby, I could really get to know you
+Take my time and show you
+Don't tell anybody what we do
+When I get lonely
+Take me to another place where I'll be
+Face to face, just you and me with no rules
+Just like you, I get lonely too
+Just like you, I get lonely too
+Just like you, I get lonely[Chorus:]
+Baby, I could really get to know you
+Take my time and show you
+Don't tell anybody what we do
+When I get lonely
+Take me to another place where I'll be
+Face to face, just you and me with no rules
+Just like you, I get lonely too
+Just like you, I get lonely too
+Just like you, I get lonely
+I get lonely
+I get lonely
+Just like you
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_6268664/su_0/tr_VwWhLJiKIEh_KLnV-wmGow0xZ0eBvyCXeAaDBv78Db1PFL9WhJETKuQqvBQPHsyXWn7JRycPnnwSgijj1h4WNr8aFbIyUjTmnYiHV_lMxFs8MfyplmSxI0X7eHqNca1b7ytClYNd-TJjIPdKx5IUgV3c-XEM_R9hqaXYMWPe6sj70A3bh0uj2f1l2S5p2GuLhLorLXBu0p7OotyD32nOlKiTuiQfxABecs7Jfx0Ea3WXurMHFDIwP49gZUOtAzGsxKdjxK10ukbgaD4ZAxm1NND5Ai_E-CqiiGyJ7z98mJ4WlC1po6MFIoo5_O9IbP_CstVa8TjWM_vUSUDpyFXaeUb3YS0m3tr5oCPzy9eKPGqOuQkuD8GAr-KJ4JApv2ve/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Selena for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "I Get Lonely Too" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

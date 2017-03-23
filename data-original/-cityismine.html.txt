@@ -1,0 +1,323 @@
+DRAKE LYRICS - City Is Mine
+ArtistName = "DRAKE";
+SongName = "City Is Mine";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"City Is Mine" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"City Is Mine"
+
+[VERSE 1]
+This the record that my backpack underground fans get to get to skippin
+Back back, Southern town fans get to tippin
+Chasin fat stacks, runnin down grands and submission
+I don't back track, every single sound for me different
+I don't own no ice, just got clean rap
+Don't ever two step, I just rock, lean, snap
+We could take it out to Houston where the rides all glossed up
+Anybody I'm standin beside's all bossed up
+Burgular ? they say I'm servin them rhymers
+And me and Nickel F go together like burgers and diners, yes
+I'm like a waiter and you something like a hater
+With trays in both hands, place an order I can cater uh
+I got the diamonds in my teeth flow
+Memphis is the reason that my rhyming and my *chopped voice* speech slow
+Peep though, I only got pity for you lames
+Sitting pretty in the game, in the city that I claim[CHORUS]
+Yo, the city is mine (which one?)
+T-O-R-O-N-T-O
+D-R-A-K-E that's me
+You know how the story goes
+Pull up, range rove, yo chick, wanna roll
+And I play myself in the stereo
+And I make 'em wanna 
+Shake shake it, drop it drop it, bounce it bounce it, wop it wop it
+Girl, move that thang like you gettin money for college, go!
+Shake shake it, drop it drop it, bounce it bounce it, wop it wop it
+Girl, move that thang like you gettin money for college, go![VERSE 2]
+Break it down like you working for your tuition at Howard
+Mama, get it how you live, that thang that you working is power
+Tryna be generous, so honey here's a tip
+Now-a-days it's gettin cheaper to put 20's on the whip
+So if you a opportunist look for 20's in the clip
+And if you find 'em attractive and funny, that's when you dip, dip
+And it's a trip, my city broke into sections
+Up North I got me a couple of troubles, couple connections
+And it's nothing that I created on purpose, there's people that gotta problem
+But they scared to let it surface, uh
+Ya boy say this, that, and the third to 'em
+See me out and they never utter a word to 'em
+Expect me not to draw a card from the deck
+Anybody in my city going hard I respect but,
+You gotta debt and you choose not to pay that
+Imma hop ya fence, come into your yard and collect, lect uh
+It ain't a problem of concern bruh, I always end up with exactly what I earn bruh
+This ain't last year, money like a cashier, so hand your receipt if you tryna make a return bruh
+Yessir, I live in a city where a lot of people don't get shine, shine
+And, I be on by the fence as soon as anybody stepping out of line, line
+And I got way too much love, for the city I can never get too much of
+And if anybody hatin on me, I deport 'em, the city is mine boy[CHORUS]
+Yo, the city is mine (which one?)
+T-O-R-O-N-T-O
+D-R-A-K-E that's me
+You know how the story goes
+Pull up, range rove, yo chick, wanna roll
+And I play myself in the stereo
+And I make 'em wanna 
+Shake shake it, drop it drop it, bounce it bounce it, wop it wop it
+Girl, move that thang like you gettin money for college, go!
+Shake shake it, drop it drop it, bounce it bounce it, wop it wop it
+Girl, move that thang like you gettin money for college, go!
+Break it down, break it break it down
+Break it down, break it break it down
+Break it down, break it break it down
+Break it down, break it break it down
+Break it down
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_6141936/su_0/tr_-oR1vbSXXY0FI0y1o8t66z-ACqHBufTQWwJ1MtE6iEyTiuxyZPFHP2NciQkujBd8v4kLwSgXs1k776QhP_cDOYRwvj0AvMJRqnicOnnX298QWOc2zCll90Y1EWNkYr7HaNE7qWc7HA_zDggmcNBNkM8DiDdzszwvID_uF9JUay2K-EjHoq2lXzCoZTUSGzQNeXgaGWC5XNytgE57g6vg4px4Llik8ZGEOSKBeGr1WK4KwjPHyhLJ2EB6pnsFcgoFh00GFHq0_b5Ux71ervRMEui88iBfzz_wMXRbptUCB7fixYmH-3nHrrB2UWr-T50_F0J512EeA1-fZqBItYQZC3OG5xQt5MW4MtAX-zTf7VMOLC4n74Er8cofyBMjTJz4/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): Aubrey Drake Graham, Matthew Samuels, Omar Forbes, Joseph Dako
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Room For Improvement" (2006)
+
+
+
+
+IntroSpecialDo What You DoMoney (Remix)A.M. 2 P.M.City Is MineBad Meanin' GoodThrill Is GoneMake Things RightVideo GirlCome WinterExtra SpecialAbout The Game (Remix)All This LoveA Scorpio's MindS.T.R.E.S.S.Try HarderKick, Push (Remix)
+
+
+
+  "Comeback Season" (2007)
+
+
+
+
+The PresentationComeback SeasonCloserReplacement GirlCity Is MineBarry Bonds FreestyleGoing In For LifeWhere To NowShareGive YaDon't You Have A ManBitch Is CrazyThe Last HopeMust Hate MoneyAsthma TeamDo What U Do (Remix)Easy To PleaseFadedUnderdogThink Good ThoughtsTeach U A LessonMissin' You (Remix)Man Of The Year (Remix)
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "City Is Mine" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

@@ -1,0 +1,270 @@
+DRAKE LYRICS - Take You Down
+ArtistName = "DRAKE";
+SongName = "Take You Down";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Take You Down" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Take You Down"
+
+[Intro][Drake Talking/ad-libing:]
+Its Young Money Baby
+I got something for these niggas to ride to
+Fa'sho
+Here I go[Verse 1:]
+Let me do me, you just do you
+I'm double cupped right now,
+Su-woop to the bangers,
+Su-woop to the bangers, (yeah)
+And I say, I be on some G shit
+I be on some G shit
+Check out what I done, and
+Check out who I be with
+I'm me bitch, I said I'm me bitch
+Then it goes young, young, young, young, YOUNG[Guitar Break][Verse 2:]
+Bust that pussy open, then I tell her bring it back
+Make sure you don't fall in love,
+Cuz I don't have the time for that
+Only thing I chase is money, if you tell me where its at
+When you rich, there is a certain type of woman you attract
+I say I be on some G shit, I be on some G shit
+Check some other niggaz for that louis shopping spree shit
+Not me bitch, I said not me bitch
+And it goes young, young, young, young, YOUNG[Guitar Break/Breakdown/Solo][Outro Verse]
+I ain't have sex in a long time [x3]
+Are we havin is sex tonight?
+Ladies say, I ain't have sex in a long time
+I ain't have sex in a long ass time
+Baby, I ain't have sex in a long time
+Are we havin is sex tonight, sex tonight
+Let me do me, you just do you
+I'm double cupped right now
+Su-woop to the (whoa oh oh ohh)
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_6382203/su_0/tr_2RpLyk8Pkjo6FQ6Y8c3dUwH8bvf_rbihVmlIpV7d9MzMBvf-7I_IoaPxtEbE7AN56K1996TKaFeHws7vgnzYKjrn6L0PwHlia6NCDJnmI3--OafGDNbKIIX55tWNNEbeJ1o-r246hoEkn_n3TRQnHrx-RRUOns37WsdsbzcjWzY5KdNiFpHLGvv6_JxHeof21L7qLOQ09GNoJvPoA_4mt1LfmfpwyJtatu5t9RzwBaq7tYmTe5kN5BhHzmdK-ZTzr5-sgV4jRLQJ7le-F_QNOB_uZ-ic4d8HjTnfL2uH8fiFHCkS0YCk0BMQ71wfljU-vVpI6muNJ9BfkPRPtatDVVL1AsG-W5fi7n0EIVHNXjyG-i-_rkzS0CCivIo_PT70/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Tifani for adding these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Take You Down" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

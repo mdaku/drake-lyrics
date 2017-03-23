@@ -1,0 +1,319 @@
+DRAKE LYRICS - Faithful
+ArtistName = "DRAKE";
+SongName = "Faithful";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Faithful" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Faithful"(feat. Pimp C)
+
+[Pimp C, Drake & Amber Rose:]
+Check, 1-2, 1-2, bitch
+You expensive. You know that?
+I'm high maintenance a little bit but not in a—not in a negative way
+I just like extremely expensive things[Pimp C:]
+Foot off in their ass is what Ken told me
+Niggas like to play games 'cause they feel like they know me
+You don't know me, nigga, I done changed
+So don't be trying to be putting on shit off in the game
+This ain't no motherfucking 91
+We out here rapping for money you niggas rapping for fun
+I don't fuck with nobody in this shit but Bun[Drake:]
+You would think it's all mine the way I took it
+You would think it broke down the way I push it
+You hate it when I coat things all in sugar
+You want to hear the real talk, well, girl, who wouldn't?
+Working, working, working, working, ain't ya?
+You don't have no time to lay up
+You just trying to be somebody
+Fore you say you need somebody
+Get all your affairs in order
+I won't have affairs, I'm yours, girl
+Faithful, faithful, faithful, faithful
+You hit me like I know you're there with someone else
+That pussy knows me better than I know myself
+On my way from the studio so get undressed
+Let's do the things that we say on text
+I want to get straight to the climax
+Have you coming all summer like a season pass
+I want to turn you out like pitch black
+Want to watch you do work while I sit back
+'Cause you talk like you got what I need
+You talk like you got the juice and the squeeze
+You talk like you bet it all on me
+And you can't take no Ls off me,
+I know you've been
+Working, working, working, working, ain't ya?
+You don't have no time to lay up
+You just trying to be somebody
+Fore you say you need somebody
+Get all your affairs in order
+I won't have affairs, I'm yours, girl
+Faithful, faithful, faithful, faithful
+How far we go
+Always seems to get better with time
+Won't you, outsmart me
+Told me that your brain works better than mine
+Tell me I should know you
+I got to know you again
+You want me to show you
+I'm gonna show you again
+Now we're in the zone
+Gon' let me all in again
+And now you're coming over
+Over and over and over and over and over again
+Over and over again
+Over and over again
+Now you're coming over
+Over and over again
+Over and over again
+You tell me I should know you
+But I'll get to know you again
+And you want me to show you
+I'm gonna show you again
+When we're in the zone
+You gon' let me own it again
+And now you're coming over
+Over and over and over and over and over again
+Now you're coming over
+You're coming over
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_15220789/su_0/tr_7yANW6BMySPB-hClLJc3wevqCpJ9dojKi-axcbsbvwHWMxvhaZIjbf-EgEXR7fU6N6r1xao7d-qWicnR08xX-K49MYeSx3V6HF_pjPH_e_6Lzi2b4vaIrInE3BUI1fKOT0pq-KymTtHXCqOC18Hk1RufxY1l1LoqRjy8DEPDLhN7FnPlm14KCcaYCAGD9---YjF7DW8bYEmzZhzPpoudgiu5yLsBAYTHrryuvYTxpFHLWeS0iBb0lXCKGEnTcn4dATL3pj7VkFcjIa_MI4r72MyuWRbzYdidVTqMmKn4Fba2Br-xSSQS4BKdno4ThhLLMEgqcsirsJIb3vQaIwndkR0Ba6eaWlSyetAgVq578MRlIPUwl85IQj8H9LXjHCj4/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Shae, Derek, Nadine ZC for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Composer Author Unknown, Bryan Michael Paul Cox, Daniel Daley, Chad L. Butler, Kevin Hicks, Johnta Austin, Matthew Samuels, Paul Jefferies, Aubrey Drake Graham, Noah Shebib
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Views" (2016)
+
+
+
+
+Keep The Family Close9U With Me?Feel No WaysHypeWeston Road FlowsRedemptionWith YouFaithfulStill HereControllaOne DanceGrammysChild's PlayPop StyleToo GoodSummer's Over (Interlude)Fire & DesireViewsHotline Bling[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Faithful" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

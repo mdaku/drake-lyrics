@@ -1,0 +1,292 @@
+DRAKE LYRICS - My Side
+ArtistName = "DRAKE";
+SongName = "My Side";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"My Side" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"My Side"
+
+Yeah, that's about it
+This shit sound like what being rich feel like
+Fo real
+This life shit, is everywhere you can't control it
+Too much going on
+Too much, too much, too much, too much
+Too much, too much
+You, you, you
+Make me wanna take ya down through there
+Make me wanna take ya down through there
+I'll take it down
+Why you never come to where I stay?
+Always hiding out in your New York condo
+Why you never come to where I stay?
+If anybody knows, girl you know, I know
+Why are we wasting our relationship on a relationship?
+Why are we rushing and forcing it? This isn't making sense
+Why are we focused on things that don't even mean nothing, girl?
+Why can we not find the time and sit down and discuss it, girl?
+Let me at least tell you my side of things, man
+Aw man, aw man
+Aw, man
+Me and you are playing house, start think that I'm losing touch
+Got a tight grip on ya now, maybe I should loosen up
+When I leave you and I go home, I start forgetting what it is
+Start to think I got to get it how I live
+We too busy for a wedding or a kid
+If I'm working then I know you working
+Keep in touch with other women, cause you make me nervous
+I empower girls that don't deserve it
+I don't mean to do that shit on purpose
+It's just that when I go home, I start forgetting what it is
+The dream is over, I get lost up in the 6
+You don't ever come to where I stay
+You just rather stay up in your New York condo
+You don't ever come to where I stay
+If anybody knows, girl you know, I know
+Why are we wasting our relationship on a relationship?
+You know how sticky these situation get
+You go up higher than me some days
+You know what I think we could be some day
+Let me at least show you my side of things, man
+Aw man, aw man
+Aw man
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_11206539/su_0/tr_lQgik8TWPHaSlKASEisEcKNxnBP_z1ECk7F5IfnGUiURj2LXSDR6_8X6xD2hRp54d3Kz0oUp5Pf8w8muZrMsN4ugGYmKPPBnC350OwKPWToLz__BGi1Ky0jLscLDaVGClkauAqn1FiSzdhFtKsw_IFFxNCREf5YzBlppHt18LVT_G6pGUe4l626E3hI7mQMsXZozIFcKNqxMcGUoWINbyEZG4KIF5v_cW027-6lsFl_XtrKkbnFGfc5fadNce5QwFwEFe0oOuY5N9rAC2dSYM7d6a4GZoMUML8amACvwoGPF_kPXGt81iurAzT9wLDCZ_iBZ02nH1PlkpklWX6cM1g/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): Noel Cadastre, Aubrey Graham, Matthew Samuels, Noah James Shebib, Jahron Brathwaite
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "If You're Reading This It's Too Late" (2015)
+
+
+
+
+LegendEnergy10 BandsKnow YourselfNo Tellin'Madonna6 GodStar67PreachWednesday Night InterludeUsed To6 ManNow & ForeverCompanyYou & The 6Jungle6PM In New York[Bonus Track]My Side[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "My Side" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

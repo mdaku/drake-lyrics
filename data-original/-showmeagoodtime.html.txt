@@ -1,0 +1,296 @@
+DRAKE LYRICS - Show Me A Good Time
+ArtistName = "DRAKE";
+SongName = "Show Me A Good Time";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Show Me A Good Time" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Show Me A Good Time"
+
+[Chorus]
+How did I end up right here with you
+after all the things that I been through
+it's been one of those days
+you tryin’ forget about
+take a shot and let it out
+let’s get right
+now that I’m here baby...[Hook]
+show me a good time
+(oh yeah, oh yeah)
+show me a good time
+(oh yeah, oh yeah)
+show me a good
+show me a good
+show me a good time
+(oh yeah, oh yeah)[Verse 1]
+I live for the nights that I can’t remember,
+with the people that I won’t forget
+spending all the money I just work my ass off
+for the things that I won’t regret
+I’ve been waiting way too long long long long
+tellin’ everybody that I know we about to be on on on on
+I ain’t tryin’ look like I lie to these niggas that I came up with
+that’s my team, never would I let a woman come between
+what we doing right now
+this our dream, Wu Tang Clan niggas want that cream
+I’m the Osirus of the shit right now
+go to guy for the hits right now
+whatever you wanna drink girl pick right now
+if you can’t hold your liquor you better quit right now[Chorus][Hook][Drake - Verse 2]
+How ’bout you and all your morals in that outfit that you borrowed
+make the most out of tonight and worry bout it all tomorrow
+understand girl, we fam girl
+can’t get me right and I do Wayne
+Cash money young money pop champagne
+Presidential suite girl Barrack Hussain
+Tell me can we kick it like Ali Shaheed and Phife Dawg
+people really hate when a backpack rapper get rich
+and start livin’ that life dawg
+feels like when you gettin’ to that paper hip hop hates ya
+they would do it just like I do if they could
+its in our nature
+ahh, young and rich and out of control
+Out in LA blowing clouds of that killer
+I came up in the underground though
+so I’ma spend another ten thousand for Dilla
+call me over rated or creative or too jaded
+because any way you put it bitch I made it, YUP[Chorus][Hook]
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_15402782/su_0/tr_b4plHW_kGfvOaKCc41NOH966LkLDMx5Scoycn7FBnjK9_p44r1tCMzaU3wX1pQS9EbZ4f-n0NUgxMPZXpS7HQuJHzUc94G0Q6L_Ha5SCcK2K_2v3GtTTTaa5yzmZtO4TArhqaRtzxCM60H4OtNwT6ZRlp8lwZC4N91xDyCAWTrF2lq5AEcMJ6c1lh3uymDR9uS7xKy1tcFhxahE8R1XUgbliR1eA0IocAUiY500NmVfm1NVrPa4RaHrX_z1_gysdgaW-bmczjnMcKdZByIpG4wDzXYbYq1cRsyVwwSTmIQxTcAGW2Nqqby9Q-BOUnpVjJ5NPeChazWpm5B-QUfccw12JyVXplAQGnY43_muG5271dS0_L0dYYxDO4jbFgdhp/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to kandicole for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Thank Me Later" (2010)
+
+
+
+
+FireworksKaraokeThe ResistanceOverShow Me A Good TimeUp All NightFancyShut It DownUnforgettableLight UpMiss MeCece's InterludeFind Your LoveThank Me Now
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Show Me A Good Time" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

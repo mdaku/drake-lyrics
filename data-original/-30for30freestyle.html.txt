@@ -1,0 +1,322 @@
+DRAKE LYRICS - 30 For 30 Freestyle
+ArtistName = "DRAKE";
+SongName = "30 For 30 Freestyle";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"30 For 30 Freestyle" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"30 For 30 Freestyle"(with Future)
+
+[Drake:]
+Never thought I'd be talking from this perspective
+But I'm not really sure what else you expected
+When the higher-ups have all come together as a collective
+With conspiracies to end my run and send me a message
+40, did you get the message?
+Cause I just checked my phone and I didn't get it
+I mean, I say hats off for a solid effort
+But we didn't flinch for a second, we got our shit together
+Yeah, not here to fight wars
+But niggas wanna talk high scores
+PARTY just dipped off in a white Porsche
+And I just came from dinner where I ate some well done seared scallops that were to die for
+But I got bigger fish to fry
+I'm talking bigger shit than you and I
+Kids'll lose their lives, got me scared of losing mine
+And if I hold my tongue about it, I get crucified
+Wrote this shit on a bumpy flight on a summer night
+Flying over Chattanooga, out here trying to spread the movement
+I just got me the Mercedes Pullman
+You niggas never heard of it, you gotta hit up Google
+Back in the city, shit is getting brutal
+These kids'll hit your noodle then take a girl to the movies
+They've been dropping out on both sides
+We ain't in it, we just ghost ride
+The pen is working if you niggas need some ghost lines
+I thought you wanted yours like I want mine
+I guess you just making moves on your own time
+But just know it'll be January in no time
+And your absence is very concerning
+It's like you went on vacation with no plan of returning
+Shit is purely for sport, I need it 30 for 30
+Banners are ready in case we need to retire your jersey
+I got a club in the Raptors arena
+Championships, celebrations during regular seasons
+Paternity testing for women that I never slept with
+I'm legally obligated if they request it
+So much legal action like I'm Michael Jackson
+Luckily, I'm great at avoiding distraction
+Used to get no reaction, now I'm overreacting
+Ah nigga, that shit gotta go platinum
+I just listened to Closer To My Dreams
+Wide eyed and uneducated at 19
+I can't rap like that, all young and naive
+Not after all of the shit I've seen and the things I believe
+Drastically changing, thank you for all your patience
+I'm just in a different space and I choose to embrace it
+4,000 square feet just isn't as spacious
+You loved me back in the basement, guess it is what we make it
+I'm tired of awkward exchanges and nigga's crooked ways
+Tired of champagne toasts with people that look away
+Peyton and Eli when niggas called me they brother the season start
+And I don't wanna see you end up with nothing
+Y'all throw the word "family" around too much in discussion
+Rookie season, I would've never thought this was coming
+They knees give out and they passing to you all of a sudden
+Now you the one getting buckets
+They put their arm around you, now you becoming the crutches
+Kids got on your number cause you the one they look up to
+And women that you seen on TV look better in person
+And either they wanna fuck you or convince you that they can to see where it goes from there
+But these ain't the girls from Brampton, this ain't that local action
+The haters just bringing me and my people closer, actually
+What happened to the things you niggas said was supposed to happen?
+Are we just supposed to ignore the fact that it never happened?
+We just supposed to get the pie and then split it in two?
+Supposed to forget your mistakes but not forget about you?
+My plan was always to make the product jump off the shelf
+And treat the money like secrets, keep that shit to ourselves
+Papi champú, young pablito de seis dios
+6 G-O-D, I think I was destined for this shit when I was 'round Keyshia Cole and T.I
+And Young Dro was popping off, well ain't I?
+Way before niggas had they hands out like they doing macarena
+But who am I to complain now, I'm still around, they know
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_12600826/su_0/tr_x9Nwqyc-HCxtK1bXJhVfvm0syneL6YcqVRn4klczYOdqEO_W6TKEdnBAVdN_gCIfBCdCsxsAMiSoLitsWUXAUtTj5CnkDvGmvNWtw9RMbvRqj2leP81Fac2pGCRqXLQt-DsUMubB1sHS0rFbAloUfYKE7kcaq6m-uEq1gmh-L9PPUc0B-1KP_rJnGWjcl3TlmrzxdTiqebiQZu3gleac-_kpP4WW6Q-du_7qc4OhgVQL4Wv0D2rSOi13e1J-uJH6rK5Zw_IN-HO0ZGrmDoIPfsD-J5D9E_glmYHTIyMfUYPHQY2hsbK2LlERPiC4iuS-esZJ1Da6I-NaheME_Qz5Dn2ofu_-vICD1m-xmIv8R8ZzVr-G21pu8eyXuW8mL8p8/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): Noah Shebib, Aubrey Graham
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "What A Time To Be Alive" (2015)
+
+
+
+
+Digital DashBig RingsLive From The GutterDiamonds DancingScholarshipsPlastic BagI'm The PlugChange LocationsJumpmanJersey30 For 30 Freestyle
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "30 For 30 Freestyle" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

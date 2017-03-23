@@ -1,0 +1,304 @@
+DRAKE LYRICS - Headlines
+ArtistName = "DRAKE";
+SongName = "Headlines";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Headlines" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Headlines"
+
+[Verse 1:]
+I might be too strung out on compliments
+Overdosed on confidence
+Started not to give a fuck and stopped fearing the consequence
+Drinking every night because we drink to my accomplishments
+Faded way too long I'm floating in and out of consciousness
+And they sayin' I'm back, I'd agree with that
+I just take my time with all this shit, I still believe in that
+I had someone tell me I fell off, ooh I needed that
+And they wanna see me pick back up, well where'd I leave it at
+I know I exaggerated things, now I got it like that
+Tuck my napkin in my shirt, cause I'm just mobbin' like that
+You know good and well that you don't want a problem like that
+You gone make someone around me catch a body like that
+No, don't do it, (aye) please don't do it, (aye) cause one of us goes in
+And we all go through it (aye)
+Drizzy got the money, so Drizzy gonna pay it
+Those my brothers, I ain't even gotta say it
+That's just something they know[Chorus:]
+They know, they know, they know
+They know, they know, they know
+They know, they know, they know
+Yeah they know yeah
+That the real is on the rise
+Fuck them other guys
+I even gave them a chance to decide
+Now it's something they know
+They know, they know, they know,[Verse 2:]
+Yeah, I be yelling out money over everything, money on my mind.
+Then she wanna ask when it got so empty
+Tell her I apologize it happened over time
+She says they missed the old drake, girl don't tempt me
+If they don't get it, they'll be over you
+That new shit that you got is overdue
+You better do what you suppose to do
+I'm like why I gotta be all that but still I can't deny the fact that it's true
+Listen to you expressing all them feelings
+Soap opera rappers all these niggas sound like all my children
+And that's who you thinking is 'bout to come and make a killing
+I guess it really is just me, myself and all my millions.
+You know that they ain't even got it like that.
+You gone hype me up and make me catch a body like that
+Cause I live for this it isn't just a hobby like that.
+When they get my shit and play it, I ain't even gotta say it, they know[Chorus:]
+They know, they know, they know
+They know, they know, they know
+They know, they know, they know
+Yeah they know yeah
+That the real is on the rise
+Fuck them other guys
+I even gave them a chance to decide
+Now it's something they know
+They know, they know, they know,
+I be yelling out money over everything, money on my mind (mind, mind, mind)
+Tell em' I apologize it happened over time (time, time, time)
+They know
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_16418052/su_0/tr_vjBjJCK65HKJrnAm9D3z1qm_XdqEq2nXFlQyu9XoYMFuX3wC80io15dbXDZ_Gmx4oFfIE_FU5xVcZyRSqg5fkR7Cszmcqv-_hFdK8Irmq7cUUaywwAhUGy2KdMT5imTqvOV12DHWJaJPcSxNYquP2rOPiuJJoq6PRsbkFo2WrYZdEmahpQZ9LnAFd9OrpAfcleABnm33tcI3QRtQ6tDiwxivRP_IAMtrkQnGsfiH9Dy18lUKXBvB6bPwDz-J_oTduNGzLRR_0OiJBR8Lx69PykPrcqOXIOukpUbCglm7nVG90KGUsmTHAR6bkOIXp93zygJLu_OwOGPSMN-mF8nN2w/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Sean C, Joseph Ayer, vebby, tony quinonez, Brian for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Take Care" (2011)
+
+
+
+
+Over My Dead BodyShot For MeHeadlinesCrew LoveTake CareMarvin's RoomBuried Alive (Interlude)Under Ground KingsWe'll Be FineMake Me ProudLord KnowsCamerasGood Ones Go (Interlude)Doing It WrongThe Real HerHYFR (Hell Ya Fuckin' Right)Look What You've DonePracticeThe RideHate Sleeping Alone[iTunes Bonus Track]The Motto[Deluxe Edition Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Headlines" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

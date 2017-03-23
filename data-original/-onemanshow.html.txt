@@ -1,0 +1,274 @@
+DRAKE LYRICS - One Man Show
+ArtistName = "DRAKE";
+SongName = "One Man Show";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"One Man Show" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"One Man Show"
+
+Look, I ain't never had a benzo
+Nope, I pushed me an Ac wit the tintzo
+Nosey niggas is peakin' in my window
+Have a hard time looking
+I tell you second hand that's a hard grind cooking
+Cause my pop was in it so deep
+If his son wanted in it these dealers would probably drop percentage
+Instead, I drop bars like I'm two months sober
+Its my time now so them you months over
+Yeah if I want it I find me a way to get that
+I'm trying to get to the point where I can sit back
+Took a lot of patience and action
+I grind so I'm anticipating relaxing
+I'm thinking bout replacing the Jacksons on top of the charts
+I don't need brothers fillin' space in the back than.
+So from the kid with the sun tan flow
+The hottest ticket in town to this one man show[Chorus]
+I think that you know as well as I know
+Bitches checkin' for me every where that I go
+What you gotta understand that it's me I be
+Until the motherfucking day that I D.I.E.[repeat][Verse 2]
+I can easily make'em admit to bounce back
+Without knowing exactly where my accounts at
+Yeah you best believe that I often tend to surpass what the rest achieve
+So they don't like me and throw parties and yet they never invite me
+I can't lie sometime it bother me slightly
+Either way the true fans yell
+I appear calm and its obvious so who can tell
+And no this ain't Blu Cantrell
+This is like perfection though we both got the light complexion
+Couple things that I do that well
+And the way that I Jack-son you think that Drake new Sam-L [As in Samuel Jackson]
+I've been real though [?]
+They stay kicking it with me like a field goal
+See I'm humble but I live vain
+With more deals on the table than a bridge game[Chorus]
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_7354670/su_0/tr_V5H5sNo9M9bdOaS3_jCYOXRQ7gxGA0AZc3yM3-2qcZReBrGBr8w_m9iBXkKAnVKXrvMlroJDpV-8DZe4nuR7gys2wVqVGntmdXTM7loqorvbQ55wGgG7NvM4xOyVEe2p4j_kaYIqoZ0gy_AwIlbYEOaPC_aqlqps2Ej6B7_HS4BDLJ4rPjatyhpvp1ZKvHrkXrxKv3exoaxd6CBIjTWS9TZxHm9t2-v_kxnxyMeIz71ZvS-Tlslv6IcXtGbSMT4mxtkaCTz0JTtSbxTLH8HHS9uEnYv8goBiVkUzlIvFubOq_FC0d6i0cktGqRFMveg2d4C5X2ygy4tuMpBxDAi3orKs18WXtwdTeEpn4BDMyxZSKLPPf0pQJ9fi5gKhEjqM/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to jabre hunter for adding these lyrics.
+Thanks to Erik Montano for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "One Man Show" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

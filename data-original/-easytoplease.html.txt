@@ -1,0 +1,273 @@
+DRAKE LYRICS - Easy To Please
+ArtistName = "DRAKE";
+SongName = "Easy To Please";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Easy To Please" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Easy To Please"
+
+[Drake]
+Yeah, look...
+Me and sos? we from two different walks of life
+usually we understand theres a problem we don't talk to vice
+the watch is yellowy-green thas sum awkward ice
+I never signed for a mill' but been offered twice
+I'm awful nice, lyrics that I often write
+Spyin no talent rappers to get off the mic
+And I could pick you up from work when you get off the night
+drop you at the house soon as you get off the pike, man
+I flow so cool like autumn nights
+When I body this, tell me if the coffin's light
+but don't try and tell me that a dolphins white
+mislead drake that is not at all polite
+It's a shame cause that's how the biz goes
+Imagine if these other niggas flop and his blows
+Bet I get a co-sign somethin like no time
+They'll be trynna sub a nigga in like Quizno's[Chorus: Sos & Drake]
+All I need is sum weight, my scale, sum money for bail
+A lil booth at the club for the whole cartel
+nigga my drink, my smoke, a bird on E
+And somethin heavy on my waist man I'm easy to please
+I need my moms, my pa, a bottle of cliqua
+the whole ATF you kno who we are..
+my women, my money, and leave me the keys
+of somethin fast and I'm good man I'm easy to please
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_7803952/su_0/tr_RSeXJzBjJWI42UC3-kTD9-iQBqPQMs5lZLXfD31K--1Ev4Jjf1gbVvOUAxsWtA-SzhzQu57uNY98E6qIhZi1FamPJMnTaqGtxgoIL9aOM15Hd4JkS5yvuLEWETEg9leINLs1nWNudVMEt8DDhvaN97sWsfa3zsAvLS2pOqtJAN15VnGqExtgbKjDNc1fEdt7RthGmJoeNVT6690-qaoXTbtPXHiN83bT2U0TnpY6r_Z3TBpIBp_Bm4YFjBZ3QV6Wf2bNnWBooU1VMMvE8UTlhteuKAyuVvBAYYjoDGQBiH3ZfhhywkhU-PROIixmo3sPjPkA5tPkl_Yxyo3FDRB4OXh-PTD-86-VYV9orzzI4hv4tIUzKUYDFL8wRqlp3ZaC/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Comeback Season" (2007)
+
+
+
+
+The PresentationComeback SeasonCloserReplacement GirlCity Is MineBarry Bonds FreestyleGoing In For LifeWhere To NowShareGive YaDon't You Have A ManBitch Is CrazyThe Last HopeMust Hate MoneyAsthma TeamDo What U Do (Remix)Easy To PleaseFadedUnderdogThink Good ThoughtsTeach U A LessonMissin' You (Remix)Man Of The Year (Remix)
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Easy To Please" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

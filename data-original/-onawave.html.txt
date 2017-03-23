@@ -1,0 +1,270 @@
+DRAKE LYRICS - On A Wave
+ArtistName = "DRAKE";
+SongName = "On A Wave";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"On A Wave" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"On A Wave"(feat. Tinashe)
+
+[Drake:]
+You finally start to care
+I show up so unprepared
+You're ready for something new
+I'm still where I was last year
+Meanwhile we're talking it out
+You keep leaving things at my house
+Seems like you're wanting to stay
+But you need to know..[Drake:]
+I'm on a wave, I'm on a ride
+I'm everywhere, I'm hard to find
+You want a man, I'm just a guy
+Busy as fuck, you know what's up
+Now got a life, back where I stay
+Still pay a car note for this girl, around my way[Tinashe:]
+You got the game and the talk
+Keep turnin' out how I thought
+Kept my feelings on low, all alone
+Intuition never ever wrong
+So what the hell, mix some vodka with Italian
+Carousel, hitting circles I'm a stallion
+And I'm a real one nigga, I'm my own med
+You looking so damn thirsty, let me throw it back
+Baby we are on to something, maybe if we had the time
+Used to give my love for nothing, trust me, I'll be alright[Tinashe:]
+I'm on a wave, I'm on a ride
+I'm everywhere, I'm hard to find
+You want a girl, I'm on my grind
+Busy as fuck, you know what's up
+I got a life, back where I stay
+Alicia’s still my only girl around my way[Tinashe x2:]
+I said baby, I'm on it, I'm on it, I'm on it
+Baby I'm on it, I'm on it, I'm on it
+I'm on a wave, wave
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_11446427/su_0/tr_b6x2DG2-Hs7Njgbi883UawUyGzC6265xf3pi0uyRYRuLbgvv17vuAL9qgAbR8ANc8jid5-VxvfGkC6mIWiIb21txR6-hrvRrPjlCzXqHbA8tns3O2pze3ukOd2p3OfRwjpieVNAEoB0ElcZuAGrijLTir09wjjvMiz8BIEZ6GrHVOzboijreMfxbMj4o_23OSK2nmXC-_MmqTkemKldSfS1p1hHCDwqyGVPBPYovHP3P2MWcGbxnJYDryA15VkXVXRz4j-6wC1GYEkE89yfGF6gCCDexRkLBS_W8SLF6ZGosI0CNyj02xeviLsIdZtNalbtDgO-iPQ-CB9G5JHoGVg/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "On A Wave" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

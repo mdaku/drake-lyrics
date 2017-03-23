@@ -1,0 +1,286 @@
+DRAKE LYRICS - Right Hand
+ArtistName = "DRAKE";
+SongName = "Right Hand";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Right Hand" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Right Hand"
+
+You're my right hand, you're my go to
+Told me everything about you
+That's a bold move
+I know that you're out here
+And there's things you gotta go through
+Just know that these streets just don't love you like I do
+And they never will
+But I swear you gotta chill
+You wanna grip a Benz wheel
+And I know you can't wait
+You dream big and sleep late
+You got a lot on your plate
+That's why you're always working out
+Taking pictures of yourself
+You don't see anybody else
+You're like oh well
+You're like fuck it oh well
+My past behind me like a pony tail
+But you're my right hand, you're my go to
+Told me everything about you
+That's a bold move
+I know that you're out here
+And there's things you gotta go through
+Just know that these streets just don't love you like I do
+And they never will
+OK I know you want the Audi
+I know you want to go to Maui
+You and all your girlfriends
+The ones you never bring around me
+Cause you don't trust me like your last man
+Did he open doors for ya?
+Buy the things he can't afford for ya
+Cause he must have did a lot for ya
+I just fell back with it
+And now your past is behind you
+Like the car with the strap in it
+Thank God that's finished
+Cause now it's back to business
+Any more henny and you're past the limit
+You told me about the picture
+Now you have to send it
+I would never put you on blast when I get it[2x:]
+You're my right hand, you're my go to
+Told me everything about you
+That's a bold move
+I know that you're out here
+And there's things you gotta go through
+Just know that these streets just don't love you like I do
+And they never will
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_15490368/su_0/tr_SI_Ut4Ygmk-y-f95wlbD3KTce9n8zJ0nkFoudZDgJ8-LVHZqBvCoX9xmAgFgxgUdCKIkObjQ0I9eO-h3_0fSSY-23-Eyef-w-UV8i8-O7mabpvW2KLYer54nbx480h7uTF5gZUOeQkPDMQbOTJafYhBcXqiEYoqRZ6PnCzEasHnOHKl_DFRRR9W5bOaCABztjMLq7x000nIdbZ7Quk1_PFbkd6I3YHGd7AZYXpuQyc_2Us8NPPRBHBfM45yW_bXRiqIDSQyH5Ba8SKZK7Z4VingFB8mdEaj7QFXFhsLCiNGTPBaGIA5JC8WR6jJ1mkre28_tQpp1LXNvPDCzjnD_yh6IdrJvIlL4mit32KrsAFT7WGS9zfvYmitQa_gMie53/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): Aubrey Graham, Kaan Gunesberg, Anderson Hernandez, Adam King Feeney, Tyler Bryant
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Right Hand" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

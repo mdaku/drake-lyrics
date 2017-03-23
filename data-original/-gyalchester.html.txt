@@ -1,0 +1,289 @@
+DRAKE LYRICS - Gyalchester
+ArtistName = "DRAKE";
+SongName = "Gyalchester";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Gyalchester" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Gyalchester"
+
+Hermès link, ice-blue mink
+Tat on my ribs like I do not know what permanent is
+They want me gone, wait for the kicker
+Bury me now and I only get bigger
+That's word to my nigga
+Yeah, October Firm in the cut
+Stay at the top like I'm stuck
+That's just how I'm givin' it up
+She wanna get married tonight
+But I can't take a knee, 'cause I'm wearin' all white
+Me and my broski are twins, but we don't look alike
+I don't take naps
+Me and the money are way too attached to go and do that
+Muscle relax
+That and a spliff put me right on my back, I gotta unpack
+Virginia Black
+I could go make enough money off that and not even rap
+What's that? Facts?
+Contract max, I gotta bring that shit back
+Hermès link, ice-blue mink
+Tat on my ribs like I do not know what permanent is
+They want me gone, out of the picture
+Bury me now and I only get bigger
+That's word to my, word to my...
+I'm so hot, yeah, I'm so right now
+Who's not gang, bitch? Let me find out
+Keep hearin' clicks when I'm talkin' on the iPhone
+Feds in the city hate to see us on a high note
+I switch flow like I switch time zone
+Can't get Nobu, but you can get Milestone
+I gotta do mansion 'cause I outgrew condo
+Got a new Maybach, she wanna fuck on the drive home
+Yeah, met her once and I got through
+I'm never washed, but I'm not new
+I know I said top five, but I'm top two
+And I'm not two and I got one
+Thought you had one, but it's not one, nigga, nah
+Hermès link, ice-blue mink
+Tat on my ribs like I do not know what permanent is
+They want me gone, wait for the kicker
+Bury me now and I only get bigger
+That's word to my nigga
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_16504942/su_0/tr_V98rMe24JMrjh-4BbmohxCC-r1sGT58-uZXoR5PmInSZuv4urHPqLXAns7iLZq6UAG0pYkShQvbOmiv-7T_8PGk-x7ZMzMiszEkWH3apDpAzQZXc9J3pW7SgpTyzmRPmynWSCDp9w47Clw4FxG6BwksM3v-fSGJes3zJkPLutOrrtC3xAzcr1613KQBGRHlEa6D-rQfNPJg-SklyoKtuRRJEwU_nv7WfAdFf5LClaOK_sIRRZz-M97Wc6KZLCNJuzsUgysUzdxADMkMG0xI0MtmkFTJ0XmY8rgJVYBZd-k9uVkWlrdcthQFngdvIyXRwD4CFNz9ypVTNjGH_bn8eqA/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "More Life" (2017)
+
+
+
+
+Free SmokeNo Long TalkPassionfruitJorja InterludeGet It TogetherMadiba RiddimBlem4422GyalchesterSkepta InterludePortlandSacrificesNothings Into SomethingsTeenage FeverKMTLose YouCan't Have EverythingGlowSince Way BackFake LoveIce MeltsDo Not Disturb
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Gyalchester" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

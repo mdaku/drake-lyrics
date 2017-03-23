@@ -1,0 +1,284 @@
+DRAKE LYRICS - Brand New
+ArtistName = "DRAKE";
+SongName = "Brand New";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Brand New" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Brand New"
+
+[Verse 1]
+This here is on some truthful shit!
+Its seems like everything I do your use to it!
+And I hate hearing stories bout who you've been with!
+Thats when I gotta hide what I'm feeling inside.
+So you still think I am confident and damn
+Is this gonna last?
+Your up on a pedastool.
+Are we moving too fast?
+Feels Like I'm in crazy competition with the past.
+That's why I gotta ask...[Chorus]
+Is anything I'm doin' Brand New?
+Brand New [5x]
+Is anything I'm doin' Brand New?
+Brand New [6x]
+Girl
+(Aye Aye Aye)[Verse 2]
+This here is something personal
+I highly doubt this feeling is reversible
+Knowledge is pain and that is why it hurts to know
+That you atempt to hide and put mistakes aside
+So I don't ever question you, and damn
+I can't even find the perfect brush
+So i can paint what's going through my mind
+Racing against myself but I'm a couple steps behind
+That's why I gotta ask...[Chorus][Verse 3]
+Is anything I'm doing Brand New?
+New [5x]
+Is everything I'm doing to late?
+Late [3x]
+Did he take your clothes off just like this?
+Did he give you loving just this?
+Did you spend the night in his bed on the very 1st date?
+Tell me baby, Am I too late?[Fading w/ ad libs by Drake]
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_13093662/su_0/tr_G008xWW14uc3P5VG059bqffyoSxHdcsj6h3qvMXrq-7rREBCdyfnmYtWw-N0Lbj2fKXM63fPOk1VE3qANiDrJ67PPL_pm_NyET1ew2EdQ42It-xFsh5ApckBZ8yjroxyBVE2-l75LTrcBRttID6j1kZfIEjFCrp8SVfvWrvIwCKavHeFeWGBs63T7QSmhvVlzPTD2zv6PlUvKhpXLK2FJ62ofefzY2yiW01QFCxSr5Yuif4e_n2SW2TRUdeDfsjczgO1ZrzbCfV6133_8ljnpXgi0Z89sENy6-nSmGQT88iOCpD51evNl4o1H4da7cdPZKkTtjtwNEGMLXYdlPISbA/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Stefo for adding these lyrics.
+Thanks to Bree, mink for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Calvin Broadus, Jasiel Robinson, Thom Bell, Linda Creed, Dana Ramey, William Roberts
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "So Far Gone" (2009)
+
+
+
+
+Lust For LifeHoustatlantavegasSuccessfulLet's Call It OffNovember 18thIgnorant ShitA Night OffSay What's RealLittle BitBest I Ever HadUnstoppableUptownSooner Than LaterBria's InterludeThe CalmBrand New[Bonus Track]Congratulations[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Brand New" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

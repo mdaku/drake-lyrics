@@ -1,0 +1,260 @@
+DRAKE LYRICS - King Leon
+ArtistName = "DRAKE";
+SongName = "King Leon";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"King Leon" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"King Leon"
+
+Lets go,
+Well alright, well alright,
+Look,
+Uh, feeling sorry for the runner up,
+I’m still awake getting money while the sun is up,
+and they keep saying how they need me to deliver
+cos they hate it when the rookie star doesn’t put the numbers up,
+Man, hate is so passe, catch me anytime for a suit on draft day,
+nigga and it’s just me and my money,
+ya don’t even get to play when ya’ll leading by 20,
+yeah I infiltrated the game,
+i was hesitant at first and fear what it would change,
+now I’m high off the success and faded off of the fame,
+and still managed to keep all of my opinions the same,
+I am so far gone bitch I'm outta here,
+hotter than standing inside rocking outerwear,
+I want it all man, I never learned how to share,
+I also can no longer converse with you thousandaires,
+wow, I swear I'm killing shit I'm killing shit,
+shout out to my niggas I just made a couple million with,
+yeah from the beginning to the end,
+know I’m into making history not into making friends,
+muthafucker….
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_7073400/su_0/tr_L8lS2_GoRxGlgmmxmjwceDK8A0q9xHOi9p3pXQ6fXIEHxwpB4qjYvo47-yCCHcKizsDRgYQIMo1VIx9VN4RIypAuJNGdCid9fKJ8sl3zU2SJ656yvkrkVCgj5OGGrYb8BxZ4PlRSdWW1_6UHCrnA0WPqY1AIVSalN6qzUoxTxWiLexTVP3WtpOEu0g0BT0gm_AefgsB7a7rhumgiEdXGvS1-Rejvx5SXvoq81dcgvWVOthNE-5C82oRdO3-2-yRNGgub2U6flPch341Amy-jnOUOUH_STBvgl8peBMPkP7GDpSxjkqASQrtPFILgcyPocgRdbCPrB22f1kB9ajcgDA/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to jabre hunter for adding these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "King Leon" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

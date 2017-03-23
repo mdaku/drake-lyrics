@@ -1,0 +1,276 @@
+DRAKE LYRICS - Still Got It
+ArtistName = "DRAKE";
+SongName = "Still Got It";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Still Got It" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Still Got It"
+
+I feel good,
+I got some time off,
+Girl it's been so long,
+That you had fun cause I'ma need a cab just to get me home
+And maybe you can call in sick,
+And bring it to the crib and get all this dick
+I know, I know I'm blunt but how real is that?
+You want that feelin' back
+But you should know
+I still got it for you, I still got it for you
+I still got it for you, I still got it for you
+I still got it for you, I still got it for you
+And even though we let it go it's better that you know[2x]
+I still..
+I feel good,
+I got some time off,
+Girl it's been so long,
+That you had fun cause I'ma need a cab just to get me home
+And maybe you can call in sick,
+And bring it to the crib and get all this dick
+I know, I know I'm blunt but how real is that
+You want that feelin' back
+But you should know I still got it for you
+I still got it for you, I still got it for you
+I still got it for you, I still got it for you
+I still got it for you, I still got it for you
+And even though we let it go it's better that you know[4x]
+I still..[Outro]
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_6957681/su_0/tr_CtlKd4UNHFdt4csi7VSuA16JtReL3HOkJaMtAuodgMjL2YTYmnMDNOIRgeN1fGaPL2zlCBzxHUik1tDxDVKEC_WOVaQaqplxeViiTkEAwWdp9LBJCqsQqiW7iyje6uWt2yVb9ep9hQb2qHXJyCaPc_YRmsJVuPaQsxobJ4DRcCoOnQxzuy-MK7EbJQs0UOIPinHsdNR--q_gmcxH9VDPurD3310YcduWXsA4RedyVsY5CNk-3qkJsQbSPwMZrJCyPtPrD4kbEJLNOS-OmxDNMy6OzuBmv-S1MxEEBYBsPSDSzQvE8f17hrL2PMI7KePaLAZbldQTgpK_Epkm58sOlXMc_TkIp-OlT9ItfY53kQkoM7jS5XBHP5bp7GvAt0rD/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): Aubrey Drake Graham, Dwayne Chin-Quee, Noah Shebib, Michael Stevenson
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Young Sweet Jones" (2010)
+
+
+
+
+Messages From YouI'm Ready For YouRight Above ItDo It AllParis Morton MusicThe Resistance (Remix)Still Got ItPut It DownIn My BusinessYou Know, You KnowTo The FloorGreatness
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Still Got It" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

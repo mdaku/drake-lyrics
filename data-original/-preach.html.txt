@@ -1,0 +1,299 @@
+DRAKE LYRICS - Preach
+ArtistName = "DRAKE";
+SongName = "Preach";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Preach" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Preach"(feat. PARTYNEXTDOOR)
+
+[Intro - PARTYNEXTDOOR:]
+Young nigga preach
+Preach, preach, preach, preach, preach, preach
+Young nigga preach
+Preach, preach, preach, preach, preach, preach[Verse 1 - PARTYNEXTDOOR:]
+I'm in Miami
+I need to call up Miss Cassidy
+My name is Party, not participation
+Sorry for the miscommunication
+I need a drink and some tequila with you
+You know what I'm trying to do
+Hey, let's pop the E off at Liv
+I've got some time here to blow
+I've got the money to blow, I've got the money and blow
+Don't have to guess how I know
+Oh, it's a secret, trust me, I'll keep it
+You old niggas boring as bones
+You put the PARTY tape on
+You know what's going on, you know what's going on
+She keep it wet like tsunami
+She think she sunk the Titanic
+I get her hot like Wasabi
+She think it's wavy and gnarly
+I think I'mma pop one for you
+Drink one fuck you[Hook - PARTYNEXTDOOR:]
+Young nigga preach
+Preach, preach, preach, preach, preach, preach
+Young nigga preach
+Preach, preach, preach, preach, preach, preach
+Young nigga preach
+Preach, preach, preach, preach, preach, preach
+Preach, preach, preach, preach
+Preach, preach, preach, preach[Verse 2 - Drake:]
+Still in Miami, most of these girls are too messy
+I've got to do some reflecting
+I've got to find me one out here that is good at taking direction
+I am convinced that my calls are being recorded
+So hit my assistant to get me the message
+And make the connection like brrrrr
+I'm on that wave tonight, I hope you not the crazy type, yeah
+I'm in your state tonight, I might just break the bank tonight, yeah
+PND ain't with the ray tay, you know Jay Wray
+Got girls here going way way way way way way
+Sauga city trip the pay day
+Glo'd up off a gate way, man, you can't afford me
+Doing is one thing, doing it right is a whole different story
+Niggas is all in their feelings these days
+All in their feelings these days
+But hearing the scripture with that many sixes
+You should be afraid[Hook - PARTYNEXTDOOR]
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_10318235/su_0/tr_-95j7UKaENKVVZxo92sTbgoOH-eN1adm0On9T06xEYMAgb02shW-qDiqL1qigHRrEty6UTxIFCsnHHyj9Y7LxPEpXRkZ8zntOrTLeiizeXSRCYPJzBe1lS4IXrzYaQOZu_dMjWaiJerXzbuOClMA-eWXcShvt-BkEHLbvt9SSnNlZC6S0N1Hze182iP5BSgcrDx4164_eHMRMhNgG9e7RL-fKrLnN-8M98ZNu88i6JczVaGQMwQLKPA7lYoFAy817NoymvY7BiqH-AcTkNNqNIsNKVSDKcKDp3DwAF_nRBLjyGInTjTCmAyy7eCVUg970wzF6j7b4MYkJsCqpFloy8Bc5VmGI44dlchXQoRYJEDbfxtJLFYbeAX7NFOZn1gX/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Lezly Magana, Sydney for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Kerry Brothers Jr, Alicia Augello-Cook, Noah Shebib, Edwin Jantunen, Aubrey Graham, Jahron Brathwaite
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "If You're Reading This It's Too Late" (2015)
+
+
+
+
+LegendEnergy10 BandsKnow YourselfNo Tellin'Madonna6 GodStar67PreachWednesday Night InterludeUsed To6 ManNow & ForeverCompanyYou & The 6Jungle6PM In New York[Bonus Track]My Side[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Preach" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

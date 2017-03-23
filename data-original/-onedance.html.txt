@@ -1,0 +1,316 @@
+DRAKE LYRICS - One Dance
+ArtistName = "DRAKE";
+SongName = "One Dance";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"One Dance" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"One Dance"(feat. Kyla, Wizkid)
+
+[Intro - Kyla & Wizkid:]
+Baby, I like your style[Verse 1 - Drake:]
+Grips on your waist
+Front way, back way
+You know that I don't play
+Streets not safe
+But I never run away
+Even when I'm away
+Oti, oti, there's never much love when we go OT
+I pray to make it back in one piece
+I pray, I pray[Hook - Drake:]
+That's why I need a one dance
+Got a Hennessy in my hand
+One more time 'fore I go
+Higher powers taking a hold on me
+I need a one dance
+Got a Hennessy in my hand
+One more time 'fore I go
+Higher powers taking a hold on me[Bridge - Kyla & Wizkid:]
+Baby, I like your style[Verse 2 - Drake:]
+Strength and guidance
+All that I'm wishing for my friends
+Nobody makes it from my ends
+I had to bust up the silence
+You know you gotta stick by me
+Soon as you see the text, reply me
+I don't wanna spend time fighting
+We've got no time[Hook - Drake:]
+And that's why I need a one dance
+Got a Hennessy in my hand
+One more time 'fore I go
+Higher powers taking a hold on me
+I need a one dance
+Got a Hennessy in my hand
+One more time 'fore I go
+Higher powers taking a hold on me[Break - Wizkid:]
+Got a pretty girl and she love me long time
+Wine it, wine it, very long time
+Oh, yeah, she steady on grindin'
+Back up, back up, back up and wine it
+Back up, back up and wine it
+Back up, back up, back up and wine it
+Oh, yeah, she steady on grindin'
+Back up, back up and wine it, girl[Bridge - Kyla & Wizkid:]
+Tell me, I need to know, where do you wanna go?
+'Cause if you're down, I'll take it slow
+Make you lose control
+Where, where, where
+Where, where, where, where
+Oh, yeah, she steady on grindin'
+Where, where, where
+Back up, back up and wine it, girl
+Where, where, where, where
+'Cause if you're down
+Back up, back up and
+'Cause if you're down
+Back up, back up and
+'Cause if you're down
+Back up, back up and[Hook - Drake:]
+I need a one dance
+Got a Hennessy in my hand
+One more time 'fore I go
+Higher powers taking a hold on me
+I need a one dance
+Got a Hennessy in my hand
+One more time 'fore I go
+Higher powers taking a hold on me
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_15092857/su_0/tr_8f7KougLNHCzzCFoIswN61bwVRFqWG90qLVuCk-9BiNU-TmwOCBndk-2wHQYRr9ugBskwUQ7baTc0Wgo96CNk24MMjC07HqGTPzQj9ZRhCF17czLbPrI36iWMp_HvUCskeaTIgOSvbKD8YiDLAiHgkPm51OepKwZHB3r2StOODqXJL-JCFqk3AuAO7UvOT7q5CqnRQThx6VV0xXrGe10ELOralC_pcZkvC9wQiBLYeTw1PyUAwA5GQPdFp7RTLOnJp4H8QTVYZQRfbcnPb3Gl6nDE80xfZR9qhl3wO0tv3t5L5NvvhwSic0j86N3pZjYXrN1Tg8KvxHdc639MJ9fHV7Uth07Biz199jaqaCcPM71j4heEp9NsopPawB5Vkj8/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Jacob Niconenco, Beliz, shelley, shadyfan, Keinz for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Luke Reid, Noah Shebib, Errol Reid, Kyla Smith, Aubrey Graham, Paul Jefferies, Ayodeji Ibrahim Balogun
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Views" (2016)
+
+
+
+
+Keep The Family Close9U With Me?Feel No WaysHypeWeston Road FlowsRedemptionWith YouFaithfulStill HereControllaOne DanceGrammysChild's PlayPop StyleToo GoodSummer's Over (Interlude)Fire & DesireViewsHotline Bling[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "One Dance" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

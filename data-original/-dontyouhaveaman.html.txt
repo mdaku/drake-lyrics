@@ -1,0 +1,310 @@
+DRAKE LYRICS - Don't You Have A Man
+ArtistName = "DRAKE";
+SongName = "Don't You Have A Man";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Don't You Have A Man" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Don't You Have A Man"(feat. Little Brother, Dwele)
+
+[Chorus: Dwele]
+Don't you have a man? (Don't you got a man?)
+Why are you trying to be my girl?
+I can't believe it
+Don't you have a man? (Don't you GOT a man?)
+It's alllll-right with me, my girl
+We can do anything[Drake:]
+Why you over there lookin at me?
+Why your man stand-in right beside ya?
+The temporary happiness he might provide ya
+but you know and I know, that nobody gon do ya like me
+Tryna say you like a goalie in line of sight
+I know that I feel a bit slowly, I'm kinda like,
+"I'on't really wanna hit this girl"
+and so she want this chef stick like Napoleon Dynamite
+Well, I'ma give it to you, honeybunches
+You feel it all under ya ribs like some tummy crunches
+All my other girls all up on that subtle shit
+They don't wanna cut it, they wanna wrap it and cuddle with
+Consequences keep weighin me down
+So whenever she thinks I'm serious, I'm playin around
+It gets deeper and cold-ER, the funny thing is
+I'm writin this in my head and she asleep on my shoulder like...[Chorus][Rapper Big Pooh:]
+Look...we had a lil' thing, a wintertime fling
+You some (Getback) for your man mistreat thing
+But that was then, you know some hush-hush
+I ain't never really see a future in us
+Plus your man still there, let's be fair
+You'll do the same things to me
+My feelings never did go past, some late night smash
+I'on't wanna take the place of he!
+Late night's 85 South on my way to the crib
+and somebody got a song for me
+I already know what you about, cause I been the other man
+and you NOT gonna trap me witcha silly lil plan
+It's my bad, shoulda chose a wo-man
+but I'm in the mix with this lil' girl playin
+I'm sayin, you need to do what you do
+I'm NOT tryna take it any further with you, C'MON[Chorus][Phonte:]
+Uh...uh...I met her at the bar sippin on Patron
+And now it's been three years off and on
+Cause the same page, we are rarely off and on
+Cause when I'm in, she out, and when she in, I'm gone (c'mon)
+We lost contact like ? shalom
+But regained it while she was buildin her house a home
+wit this new cat, sayin that he doin her right
+It just proves that, she don't know what to do wit her life
+Cause if so, she wouldn't have to change her strategy
+And wouldn't need me to recharge her batteries
+One minute she mad at me, next minute it's all good
+and I'm in her body like Grey's Anatomy
+I don't understand why God sent me to you
+And I cain't try to justify that foul shit we do (uh)
+All I know is that each time I'm stickin you
+I think to myself, "Damn, if only her nigga knew", what?[chuckles] yeah..[Chorus][Outro: Dwele]
+Don't you have a man? (Don't you got a man?)
+Why are you trying to be my girl?
+I can't believe it
+Don't you have a man? (Don't you GOT a man?)
+It's alllll-right with me, my girl
+We can do anything, ba-bayyyy...
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_7781105/su_0/tr_bda7buWW2B7SO-JmMyITAiBPvZKczUH0wj3h-5RTGpfBcGoniz3tCXo_WnWkdtrtftFNDct7dI05pACLjWzSiWvSnPnlsDxbjC3gWVBPCwMGAMnZbIYL3ekTvFu4KKO2IOercieBZiMqDOrP908pIHvD0LjG3w24kEEaG5Am3OkKfVl7fEooJUzwn64x0vcHw5JDE7pGoH1dV3tNmj4XgL95IYcngYJfymATGwREpxRYP53bhI9aRQmFHR6USjxPNSP3_93NdcYNAF6d9CncSSdwRA8zPx-Rk1VdVDyUWM6Th7Suw3CC8F5gOfI01HC0thsDG6BXe17PdN-P5SjlsrRbp6vQIhnCPNVJsgW5HquGiQH4hLKjuT8N6km9y-Sc/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Clarissa for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Andwele Gardner, Aubrey Drake Graham, Matthew Samuels, Phonte Lyshod Coleman, Thomas L. Jones Iii, Dalton Tennant
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Comeback Season" (2007)
+
+
+
+
+The PresentationComeback SeasonCloserReplacement GirlCity Is MineBarry Bonds FreestyleGoing In For LifeWhere To NowShareGive YaDon't You Have A ManBitch Is CrazyThe Last HopeMust Hate MoneyAsthma TeamDo What U Do (Remix)Easy To PleaseFadedUnderdogThink Good ThoughtsTeach U A LessonMissin' You (Remix)Man Of The Year (Remix)
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Don't You Have A Man" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

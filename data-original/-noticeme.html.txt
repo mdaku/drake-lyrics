@@ -1,0 +1,259 @@
+DRAKE LYRICS - Notice Me
+ArtistName = "DRAKE";
+SongName = "Notice Me";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Notice Me" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Notice Me"
+
+We both wake up, staring at the sky
+Don’t remember how we got here but we don’t wonder why
+Right now we living life like there’s no way we can die
+But we bout to do our thing they couldn’t stop us if they try
+Keep the weapon for the haters if they try to blow our high
+How the fuck would they stop us if we by each other’s side
+We were meant to be together we get inside
+How the hell would they kill us when we’re feeling so alive
+Ooh girl I know you want a G
+It’s kinda hard not to notice me
+Cause I'm right here where you wanna be
+I can take you where you wanna go, oh, oh, oh, oh, oh, oh, oh, oh.
+Baby I can give what you want and everything you need
+Put us both in a position where we can both succeed
+And if it takes a sacrifice I promise I will bleed
+All the blessings that I get I promise you’ll receive
+fuck them other niggas all they do is deceive
+Let me take away your pain, my job is to relieve
+Ooh girl I know you want a G
+It’s kinda hard not to notice me
+Cause I'm right here where you wanna be
+I can take you where you wanna go, oh, oh, oh, oh, oh, oh, oh, oh.
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/DFd9gOgOCmSkm2rJwzJTH0h7MhmH9tbW/24pKHf8q53RR2n8vE0b0h4eyM+2npkkedcgqcCJRqS4JqCZdim0I0UIPD9sjLz+jw0h2a2hSLXlCJt9G8wR2nHjqVb+yG3QvgWBZ3VYhX1bqUk1UAyQtlGHOlGLdPfhr2yuHrLLPqM=/?artist_name=DRAKE&track_name=Notice+Me&s=c20d2a4cad5be11a529c8739ddae9599" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to NIc for adding these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Notice Me" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

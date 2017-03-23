@@ -1,0 +1,289 @@
+DRAKE LYRICS - KMT
+ArtistName = "DRAKE";
+SongName = "KMT";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"KMT" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"KMT"(feat. Giggs)
+
+[Drake:]
+(Ness on the beat)
+Yeah
+Okay, okay
+Okay
+B Man just got out the can
+I gave my bro an advance (yeah)
+Love is just not in my plans
+Not even takin' a chance
+Studio right in my yard
+I'm doin' ten in a week
+How long I been on this streak?
+Dream about work in my sleep
+Okay, I got a lock on the streets
+Shoutout to T, he did three
+And he brought it in 'cause of me
+You don't know nothin' 'bout me
+Life for my bruddas is deep
+Long as they all on they feet
+Long as they pockets is grease (grease!)
+I'm in the penthouse, but still nothin' is sweet (yeah)
+Dust a man down with the pen, it's a sweep (Mmmm!)
+Taller in person, you'll see when we meet
+I heard your new shit and I'm kissin' my teeth
+(Jheeze)[Giggs:]
+Bringin' that dirty, dirty, bringin' that certy
+Nizzy with the quick extension, ringin' off thirty
+I've got bitches and they're murky, swervin', lookin' all curvy
+And you already know I love them breasts, lookin' all perky
+Lookin' all Christmas gift-wrapped, lookin' all turkey
+Spend jumped out the Ghost in a suit, lookin' all churchy
+Fingers all itchin', twitchin', lookin' all jerky
+Whippin' that white girl, cookin' that Cersei
+I'm just pushin' that dark shit, pushin' that charcoal
+Now this is that big bad, this is Gustavo
+Look at them jokers, look at that arsehole
+Man are gettin' bread now, this is that hard dough
+Clap man, dominant murder
+I'm a black man, government earner
+Could've just slapped man, but he wanted it further
+Batman, da-na-na-da-na
+October Firm
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_16504934/su_0/tr_zOk_j9pLwiGvbuvVk5uYipyT9zyu15sBQ8neWtCHzUz7s2aJOjna3zrSYaH-OEuwFX3fBKxs7qYqAtpJVHGz6e7jDl4caVADVW2DE_EYk9b_9wjZSVXFnuvkVb9FzKjoQos4CehdIh2OCgNzzvIqDRQnAA8MGhxi-ovPyPRPa99BE8flwnW2RhlSuz906sgyIXpWHlsawTTYXOfY8QALCz8P0jFpG6pQwO3F5hTsu2PTN5FOFa4b8Py2d1Ql-EVNXxzS7kl5_Lj2Aa-vsVz2vY-9_MdVJZWsfIewRCy7whT6tdB6ZeQ5hP4zbucUpPHy_C3H-9MI2PqOkQmKjpkcsuBvYXOkk7x9w_0uMWjU18f3miAc7fEVRZsbNQGtnx-Z/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "More Life" (2017)
+
+
+
+
+Free SmokeNo Long TalkPassionfruitJorja InterludeGet It TogetherMadiba RiddimBlem4422GyalchesterSkepta InterludePortlandSacrificesNothings Into SomethingsTeenage FeverKMTLose YouCan't Have EverythingGlowSince Way BackFake LoveIce MeltsDo Not Disturb
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "KMT" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

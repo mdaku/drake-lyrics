@@ -1,0 +1,354 @@
+DRAKE LYRICS - Grammys
+ArtistName = "DRAKE";
+SongName = "Grammys";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Grammys" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Grammys"(feat. Future)
+
+[Drake:]
+Yeah, yeah
+Yeah, yeah
+Jeez
+Yeah
+Right
+Look
+Look
+Tell me how you really feel
+Tell me how you really feel
+I would ask you what's the deal
+But you don't even got a deal
+Most niggas with a deal
+Couldn't make a greatest hits
+Y'all a whole lot of things
+But you still ain't this
+I don't know no one
+That could tell me what to do
+Heard yo never claimed the hood
+Hear the hood claimed you
+That can't sit well
+Oh well, ship sailed
+Still mine, all mine
+Cosign, cosign
+I pull up in yachts so big that they try to hit me with boat fines
+Hype Williams, Big Pimpin'
+Yeah, just like the old times
+Same niggas from the old days
+Lot of sides on the same side
+OVO we a gold mine
+But I'm going to go no time
+Doing plat, plat only
+Boys better back off
+Hall of fame, hall of fame
+Like I'm shirt off, Like I'm shirt off
+Like I'm shirt off shorty
+Whole city going crazy
+Whole city going crazy
+Top 5 no debating
+Top 5, top 5, top 5
+And the whole city rave me
+And I'm back inside a matrix
+And I said that we'd make it
+Aim squad with some traitors
+Knew my niggas from the basement
+This ain't no met-on-the-way shit
+We'd really put some days in[Future:]
+Hey why you so excited? What happened
+Did you win the grammy? God damn
+You acting like you fucking won a trophy
+This nigga turnt the fuck up
+They gon' think I won a Grammy
+They gon' think I won a Grammy
+Swerving off, Panoramic
+I'm hanging out, they can't stand me
+They gon' think I won a Grammy
+They gon' think I won a Grammy
+They gon' think I won a Grammy
+They gon' think I won a Grammy
+I'm showing out, they can't stand me
+I'm showing out, they can't stand me
+I'm swerving out, they can't stand me
+I'm err, can't stand me
+They gon' think I won a Grammy
+They gon' think I won a Grammy
+They gon' think I won a Grammy
+They gon' think I won a Grammy
+Gonna peel off like a bandit
+I'm noddin' off on a xan niggas
+Get pissed off, start airing it
+Get a head start, ain't friendly
+I stand out, don't blend in
+When I say that I meant that
+I don't want to talk to you has-beens
+I don't want features or add-ins
+I don't want features or nothin
+You can't even get on my guest list
+They want me to go to the met gala
+I want a percocet and a gallon
+The activis high takin' don't matter
+We sitting right on the courtside
+I know players on both side
+I'm cashing out, fuck a cosign
+I wear the chain like a bowtie
+I wear the ring like a fo'-five
+Keep a fo'-five for the poor guys
+Black tint low profile
+Celebrating everyday cause I'm really really fresh at the coke house
+Counting up every single day bout to bring a whole 'nother whip out
+They gon' think I won a Grammy
+They gon' think I won a Grammy
+Swerving out, Panaramic
+I'm hanging out, they can't stand me
+They gon' think I won a Grammy
+They gon' think I won a Grammy
+They gon' think I won a Grammy
+They gon' think I won a Grammy
+I'm showing out, they can't stand me
+I'm showing out, they can't stand me
+I'm swerving out, they can't stand me
+I'm err, can't stand me
+They gon' think I won a Grammy
+They gon' think I won a Grammy
+They gon' think I won a Grammy
+They gon' think I won a Grammy
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_15300160/su_0/tr_8u787SgPOydYsdxYRdLHySn9g7zYjmzZUCIuSa7BwvXEQpHxvQX8XhT_4R_I19fDxDiD3c7rwU4FUCEYuC7IZsM82afuswaaTT3eub51CQZeLnG3p-M-DbplQczSJfj2TKgx22IelsEG8LYmPBfwakr7u8mCW2A4CZjufFEQ0ATnjzzOz0sm5yUgFd5gc23QWXOMt8uycHq1s6cXfhtROG8dVVMXyv3svrUQTftyfE6Y6hlRib6ZYJxbVc6kRXTeizFhjjUaEsPo0NqwjqcCgnf57DnaBzuuZel-h1iZp5hRnJbUkySXZ2e3m3koQg1N26N2gUMBs12ArR02dhIfNvIqitJ4DEORQRHckdZaLASlkeLPQncYb40yt6yDSrgc/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Navya Shetty, Daniela, Anderson gibson, Justin, Colton Sather for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Brock Korsan, Noah James Shebib, Joshua Luellen, Aubrey Graham, Nayvadius Demun Wilburn, Daveon Lamont Jackson, Ronald N. la Tour
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Views" (2016)
+
+
+
+
+Keep The Family Close9U With Me?Feel No WaysHypeWeston Road FlowsRedemptionWith YouFaithfulStill HereControllaOne DanceGrammysChild's PlayPop StyleToo GoodSummer's Over (Interlude)Fire & DesireViewsHotline Bling[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Grammys" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

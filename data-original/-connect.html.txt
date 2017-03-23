@@ -1,0 +1,299 @@
+DRAKE LYRICS - Connect
+ArtistName = "DRAKE";
+SongName = "Connect";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Connect" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Connect"
+
+[Verse 1:]
+Isn't it amazing how you talk all this shit and we still lack communication
+How beautiful our kids will be, girl, I don't need convincing
+How every conversation starts with this time will be different
+Oh the idea is fun, oh the idea is fun
+Oh the idea is so fun every time
+At least we try for homerun every time[Hook:]
+Swanging, eyes closed just swanging
+Same city, same friends if you're looking for me
+Same city, same friends if you're looking
+I'll be here just swanging
+Don't talk to me like I'm famous
+And don't assume cause I don't respect assumptions babe
+I'm just tryna connect with somethin' babe
+Swangin'[Verse 2:]
+She just wanna run around the city and make memories
+That she can barely remember
+And I'd allow her, talk about pussy power
+She just wanna run over my feelin's
+Like she drinkin' and drivin' in an 18 wheeler
+And I'd allow her, talk about pussy power
+She used to say "You can be whoever you want, even yourself"
+Yeah, I show up knowin' exactly who I was and never leave as myself
+But when it falls apart, I'm always still down
+To pick a million tiny little pieces off the ground
+Cause you would learn to love people and use things
+And not the other way around[Hook][Verse 3:]
+I remember when my schedule was as flexible as she is
+She call and tell me be here before the sun up
+I be dressed before we hung up
+I take Eglinton to 401 east
+And exit at Markham road and the East end
+Where all the pretty girls are sleeping
+My license been expired I renew it after the weekend
+Fuck I know I said that shit the last 7 weekends
+Girl I guess procrastination is my weakness
+I hate stoppin' for gas this late
+Cause this nigga's creepin and I like how we're creepin'
+Summer is comin' know you could feel it
+20 on pump whatever I ain't got enough to fill it
+Won't knock on your door
+My uncle say, "You drive my whip like it's yours"
+I got the pedal to the floor
+I'm on my motherfuckin' way swangin'[Outro:]
+Don't fall asleep on me, hang in there
+I'll be there just swangin'
+I'll be there just swangin'
+I treat you good girl like you're famous
+I know I'm late it's always the same shit
+But don't fall asleep on me, hang in there
+I'm on the road right now swangin, girl
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_12143641/su_0/tr_n8ptgX9KatAw0YV_Hckq8HWZ4ARIIagNMLX4Zzz9H2NdZhM2pctWG_EiAbK1oJMmdvItWqsvQKcsBPccOx3g7r8IgyuiLevyaojfQebb1oYpCF9lukGZkgNcoG3IEivO8eaR5NieWYBx8P2iLUXMcOKhfMv6yUkvPxJb40PTXkb_GUIFX8lUJgUTOs60hvETpK9u8HxlH5kYtPxcka-4NrrrhDUSRy3LVZsehSyT6imxE7lItSjApWYrALeYuNXzm7934Q6KZl8p2YZpGRBsO2_l180rgw__DDSciO80JmZQyFU_FLPd8vHcpS0pqRyM-oJwacf4Z96YBZUxYGBjgQ/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): A. Palman, N. Shebib, R. Brichard, BIRCHARD ROSS MATTHEW, GRAHAM AUBREY DRAKE, K. Samir, GRAHAM
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Nothing Was The Same" (2013)
+
+
+
+
+Tuscan LeatherFurthest ThingStarted From The BottomWu-Tang ForeverOwn ItWorst BehaviorFrom TimeHold On We're Going HomeConnectThe Language305 To My CityToo MuchPound Cake / Paris Morton Music 2Come Thru[Deluxe Edition Bonus Track]All Me[Deluxe Edition Bonus Track]The Motion[Best Buy Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Connect" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

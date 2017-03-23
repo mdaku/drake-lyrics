@@ -1,0 +1,312 @@
+DRAKE LYRICS - Controlla
+ArtistName = "DRAKE";
+SongName = "Controlla";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Controlla" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Controlla"(feat. Beenie Man)
+
+[Drake:]
+Right, my yiy just changed
+You just buzzed the front gate
+I thank God you came
+How many more days could I wait?
+I made plans with you
+And I won't let em fall through
+I, I, I, I, I
+I think I'd lie for you
+I think I'd die for you
+Jodeci "Cry For You"
+Do things when you want me to
+Like controlla, controlla
+Yeah, like controlla, controlla
+Yeah, okay, you like it
+When I get, aggressive, tell you to
+Go slower, go faster
+Like controlla, controlla
+Yeah, like controlla, controlla
+And I’m never on a waste ting shorty
+I do it how you say you want it
+Them girls, they just wanna take my money
+They don't want me to give you nothing
+They don't want you to have nothing
+They don't wanna see me find your lovin'
+They don't wanna see me
+Smiling back when they pree
+Knowing I'd lie for you
+Thinking I'd die for you
+Jodeci "Cry For You"
+Do things when you want me to
+Like controlla, controlla
+Yeah, like controlla, controlla[Beenie Man:]
+Gyal a tear off mi garments
+And a bawl fi come inna mi apartment (Woi!)
+Di gyal dem want di length and strength
+Action speak louder than argument well[Drake:]
+But you can't just diss and come tell man sorry
+You can't listen to me talk and go tell my story
+Nah, it don't work like that when you love somebody
+My old flex is my new flex now and we're workin' on it
+And that's why I need all the energy that you bring to me
+My last girl would tear me apart, but she'd never wanna split a ting with me
+But when it comes to you, you
+I think I'd lie for you
+I think I'd die for you
+Do things when you want me too
+Like controlla, controlla
+Yeah, like controlla, controlla
+And I’m never on a waste ting shorty
+I do it how you say you want it
+Them girls, they just wanna take my money
+They don't want me to give you nothing
+They don't want you to have nothing
+They don't wanna see me find your lovin'
+They don't wanna see me
+Smiling back when they pree
+Jheeze![Beenie Man:]
+Music a drop
+Gyal a whine up dem bumpa
+Dis is di summa summa controlla
+Drake from Canada, Beenie Man from Jamaica
+Dah one yah a murda!
+Zagga
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_15523075/su_0/tr_4-tp4j9gaetYYP1_9iHba7YJKMbqRt24mzTetxnToh3PfbI7Rn6WfYDS8plAUlC34t8oO1kmeGRgb90BgrNmbEYyYajjBvVsXxsBUTEwCXHgvv_pLfZ2VuugVq212jq0LQ4zhwa6z_CXY62OuTX2tiM16mKMykczaGFENBNbmJBLwCuJ7m2MNjAtL-D23l73QTaVE47Nmrs6k1m_7F9AZ_KTxEjYyi94pvW1qzC-ZIAO_TPLVz15P0zjDhLiM3t_rKFfgFvJtrvZGJ8Z2GwGCyDAlL6nXb18Xff9xZ01WDUkaPczZT8HBRsYqZy8IAaOtSdCyGCX_CpzsDuYbvn9Rg/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): Garfield Riley, Andrew Thomas, Dwayne Chin-Quee, Patrick Leroy Roberts, Stephen Mcgregor, Aquaman, Gary Lewis Jackson, Donald Anthony Dennis, Moses Anthony Davis, Allen Ritter, Aubrey Graham, Matthew Samuels
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Views" (2016)
+
+
+
+
+Keep The Family Close9U With Me?Feel No WaysHypeWeston Road FlowsRedemptionWith YouFaithfulStill HereControllaOne DanceGrammysChild's PlayPop StyleToo GoodSummer's Over (Interlude)Fire & DesireViewsHotline Bling[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Controlla" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

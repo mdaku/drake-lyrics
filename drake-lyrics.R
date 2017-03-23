@@ -133,11 +133,11 @@ download_links <- function(links, new_dir="data", prefix=NULL, suffix=".txt"){
   }
 }
 
-all_lyrics <- get_links(url="http://www.azlyrics.com/d/drake.html", ld="lyrics/drake/", next_text="Next", prefix="http://www.azlyrics.com/lyrics/")
-
-# We can get the first ten and then go from there?
-all_lyrics <- all_lyrics[100:150]
-download_links(all_lyrics, new_dir="data", prefix="http://www.azlyrics.com/lyrics/drake/")
+# all_lyrics <- get_links(url="http://www.azlyrics.com/d/drake.html", ld="lyrics/drake/", next_text="Next", prefix="http://www.azlyrics.com/lyrics/")
+# 
+# # We can get the first ten and then go from there?
+# all_lyrics_f <- all_lyrics
+# download_links(all_lyrics_f, new_dir="data", prefix="http://www.azlyrics.com/lyrics/drake/")
 
 # Still having trouble downloading all of the lyrics - AZ tends to boot us out after downloading too many
 
@@ -148,12 +148,98 @@ sent <- lex("dc",md="LSD2015.lc3")
 # Let's build the overall dataset
 drake_songs <- wc %>% left_join(sent, by="case") %>% left_join(read_delim("albums.tab", "\t"), by="case")
 
+# We are blocked by the server - so we want to write this thing to file
+write_delim(drake_songs,"drake-songs-new.tab","\t") 
 drake_songs$sentiment <- drake_songs$positive-drake_songs$negative
+drake_songs$sent_percent <- drake_songs$sentiment/drake_songs$wordcount
 
-ggplot(drake_songs) + geom_point(mapping=aes(x=case, y=sentiment, color=album)) + geom_smooth()
+# Drop the songs from the EP
+drake_songs<-filter(drake_songs, album!="So Far Gone EP")
 
-ggplot(drake_songs) + geom_bar(mapping=aes(x=album, y=sentiment), stat="summary")
-stat_
+# Drop songs not on an album
+drake_songs<-filter(drake_songs, album!="Other")
+#drake_songs <- drake_songs[with(drake_songs, order(year, album)),]
+
+drake_songs$date_name <- paste(drake_songs$year, drake_songs$album, sep=" - ") 
+# drake_songs<-sort(drake_songs$year)
+# ggplot(drake_songs) + geom_point(mapping=aes(x=case, y=sentiment, color=album)) + geom_smooth()
+
+
+# Sentiment plot 1
+ggplot(drake_songs) + geom_bar(mapping=aes(x=date_name, y=sent_percent), stat="summary") + scale_x_discrete(name="Album") + scale_y_continuous(name="Sentiment") + theme(axis.text.x = element_text(angle = 90, hjust = 1)) 
+
+# Sentiment plot 2
+ggplot(drake_songs) + geom_bar(mapping=aes(x=date_name, y=sentiment), stat="summary") + scale_x_discrete(name="Album") + scale_y_continuous(name="Sentiment") + theme(axis.text.x = element_text(angle = 90, hjust = 1)) 
+
+drake_songs$outlier <- 1
+drake_songs$outlier[drake_songs$name=="digitaldash"]<- 0
+
+# Sentiment plot 3
+ ggplot(drake_songs) + geom_point(mapping=aes(x=date_name, y=sentiment),size=1, position=position_jitter(width=0.3, height=0))+ scale_x_discrete(name="Album") + scale_y_continuous(name="Sentiment") + theme(axis.text.x = element_text(angle = 90, hjust = 1)) + geom_abline(show.legend = F)
+
+ # Sentiment plot 4
+ ggplot(filter(drake_songs, album=="What A Time To Be Alive")) + geom_bar(mapping=aes(x=date_name, y=sentiment), stat="identity", size=1, position=position_jitter(width=0.3, height=0))+ scale_x_discrete(name="Album") + scale_y_continuous(name="Sentiment")
+ 
+ # Sentiment plot 5
+ ggplot(drake_songs,mapping=aes(x=date_name, y=sentiment)) + geom_point(show.legend = F, size=1, position=position_jitter(width=0.3, height=0))+ scale_x_discrete(name="Album") + scale_y_continuous(name="Sentiment") + theme(axis.text.x = element_text(angle = 90, hjust = 1)) + geom_abline(show.legend = F)
+ 
+ # Seems to suggest that the more feelings there are, the more they tend to be negative
+ggplot(drake_songs) + geom_smooth(mapping=aes(x=negative, y=positive))
+
+ #+ scale_x_discrete(name="Affiliation") + scale_y_continuous(name="Count") + theme(axis.text.x = element_text(angle = 90, hjust = 1)) 
+
+# Let's take out the outliers
+drake_songs <- filter(drake_songs, sentiment > -20 & sentiment < 20)
+
+# Sentiment plot 1
+ggplot(drake_songs) + geom_bar(mapping=aes(x=date_name, y=sent_percent), stat="summary") + scale_x_discrete(name="Album") + scale_y_continuous(name="Sentiment") + theme(axis.text.x = element_text(angle = 90, hjust = 1)) 
+
+# Sentiment plot 2
+ggplot(drake_songs) + geom_bar(mapping=aes(x=date_name, y=sentiment), stat="summary") + scale_x_discrete(name="Album") + scale_y_continuous(name="Sentiment") + theme(axis.text.x = element_text(angle = 90, hjust = 1)) 
+
+# Sentiment plot 3
+ggplot(drake_songs) + geom_point(mapping=aes(x=date_name, y=sentiment), size=1, position=position_jitter(width=0.3, height=0))+ scale_x_discrete(name="Album") + scale_y_continuous(name="Sentiment") + theme(axis.text.x = element_text(angle = 90, hjust = 1)) + geom_abline(show.legend = TRUE)
+
+ggplot(drake_songs) + geom_bar(mapping=aes(x=album, fill=drake_songs$positive_song)) + theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+# Seems to suggest that the more feelings there are, the more they tend to be negative
+ggplot(drake_songs) + geom_smooth(mapping=aes(x=negative, y=positive))
+
 # What we really want to do here is summarize by 
 mean(drake_songs$sentiment)
 # ggplot(data=drake_songs) + geom_bar(mapping=aes(x=case, y=sentiment), stat="identity", position=position_dodge()) + facet_grid(. ~ album)
+
+
+
+
+# We want to add Release Date Information to this
+
+
+### 
+
+# NOT USED
+# # ```{r plot-1, echo=FALSE}
+# <!-- ggplot(filter(drake_songs, album=="What A Time To Be Alive"),mapping=aes(x=date_name, y=sentiment)) + geom_point(show.legend = F, size=1, position=position_jitter(width=0.3, height=0))+ scale_x_discrete(name="Album") + scale_y_continuous(name="Sentiment") -->
+#   <!-- ``` -->
+#   
+
+# aggdata <-aggregate(mtcars, by=list(cyl,vs), FUN=mean, na.rm=TRUE)
+# collapse1 <- summaryBy(socst + math ~ prog + ses + female, FUN=c(mean,sd), data=hsb2)
+
+
+#ggplot(dataset, aes(x = x, y = y, colour = fCategory)) + geom_point()
+
+# Not used
+# ggplot(data=drake_songs) +
+#   geom_bar(stat="identity", aes(x=album, y=positive_song))  + theme(axis.text.x = element_text(angle = 90, hjust = 1)) + scale_x_discrete(name="Album") + scale_y_continuous(name="Number of Positive Songs")
+# ```
+# 
+# ```{r album-counts-2, echo=FALSE}
+# ggplot(data=drake_songs) +
+#   geom_bar(stat="identity", aes(x=album, y=negative_song))  + theme(axis.text.x = element_text(angle = 90, hjust = 1)) + scale_x_discrete(name="Album") + scale_y_continuous(name="Number of Negative Songs")
+# ```
+
+# ```{r album-counts, echo=FALSE}
+#table(drake_songs$date_name, drake_songs$positive_song)
+
+#```

@@ -1,0 +1,274 @@
+DRAKE LYRICS - Can I?
+ArtistName = "DRAKE";
+SongName = "Can I?";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Can I?" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Can I?"(feat. Beyoncé)
+
+[Beyoncé:]
+Can I, baby? Can I, baby?
+Can I, baby? Can I, baby?[Beyoncé & Drake:]
+Can I bring you to the six where I really stay, baby?
+Show you why I am the way I am
+Can I tell you what I think my biggest flaw is, baby?
+I try to be consistent, but I can't
+Can I have an honest moment wit' you right now, baby?
+Tell me who the fuck you want to be
+Can I get an honest answer from you right now, baby
+Cause all we ever talk about is me
+Can I before I turn the lights out
+'Fore I turn the lights out, tell me who the fuck you want to be
+Can I call instead of text you on the hotline?
+Sometimes a nigga wanna hear your voice
+Can I see you right now, I know the sun is up, baby?
+Sorry, I don't really have a choice
+Can I ever make you feel like I'm down for you, baby?
+You do so much more than that for me
+Can I finally take the time and open up to you, baby?
+Cause that's the side you never get to see
+Can I before I turn the lights out?
+'Fore I turn the lights out, tell me who the fuck you want to be[Beyoncé:]
+Can I, baby? Can I, baby?
+Can I, baby? Can I, baby?
+Can I, baby? Can I, baby?
+Can I, baby? Can I, baby?
+Can I before I turn the lights out
+Can I, baby? Can I, baby?
+Can I, baby? Can I, baby?
+Can I, baby? Can I, baby?
+Can I, baby? Can I, baby?
+Can I, baby? Can I, baby?
+Can I before I turn the lights out
+Can I, baby? Can I, baby?
+Can I, baby? Can I, baby?
+Can I, baby? Can I, baby?
+Can I, baby? Can I, baby?
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_11430808/su_0/tr_LHWZajuat5xotb-4pyMAq-XvxVSJOdxUUScAmIHGSreY7GB1Q9SH7R0bEnBWLpeg1RQoNRRxg3x-HqkXaF-OTQwPr1ZS7fQbjdT2LergGwBcfDR9n-F-sa_xLNfvWn6jeV7RSeYUoVmEY5kOoIk-XJu1OBFMDbXMCEEiIqmaBPxgka_Qx6lZOFM5LeJANnEU-Tb7HUZdKfXS1GZqSicN8gc1hiMTcgfnx5mfg1Wogosd46xtwwK33ys_dcZqJESZxkUgQaaCQSIQruadLWyYlihydFhXnaaUiZhDRhwb8pUalPGIwUniUuX8gxSpxEzhb69CLRwoi0Mrt0s-JYumT2ROwsynbGO7OaRxS-yw-e5-IMaPOYTxvp9Q21-Ba8qJ/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Can I?" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

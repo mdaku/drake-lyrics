@@ -1,0 +1,288 @@
+DRAKE LYRICS - 6 Man
+ArtistName = "DRAKE";
+SongName = "6 Man";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"6 Man" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"6 Man"
+
+Boomin' out in South Gwinnett like Lou Will
+6 man like Lou Will, 2 girls and they get along like I'm...
+Like I'm Lou Will, I just got the new deal
+I am in the Matrix and I just took the blue pill
+No ho shit, no fuckin' ho shit, save that for your shit
+I don't need no fuckin' body, I run my own shit
+I told yah, thought I told yah, you didn't listen
+Fieri, I'm in the kitchen, I'm a magician
+I'm on it, I'm like Macgyver, I'm Michael Meyers
+I kill careers and cut the lights off, this shit is frightenin'
+I knew it would end up like this, I'm fuckin' psychic
+Young but I'm makin' millions to work the night shift
+(Yeah) Work the night shift
+Young but I'm makin' millions to work the night shift
+Work, work the night shift
+Young but I'm gettin' every single motherfuckin' thing
+I'm owed, you gotta know
+I'm here to fuck with niggas souls, my heart is cold
+It's prolly cause I'm from the snow, with all my woes
+I know they wanna see me go, I'm on a roll
+I mean I'm back on this again, I'm here again
+You know the truth, this not pretend, I'm not your friend
+Not your guy, I'm not your buddy, show no lovin'
+I might go DeMarcus Cousins out in public
+Man, I'm back on this again, I'm here again
+I didn't do this fuckin' tape for CNN
+I am not tryna win awards, that shit looked forced
+It's nothin' like this
+Young but I'm makin' millions to work the night shift
+(Yeah) Work the night shift
+Young but I'm makin' millions to work the night shift
+Work, work the night shift
+If you were worried 'bout where
+I've been or who I saw or
+What club I went to with the homies
+Baby don't worry, you know that you got me
+I'm never worried 'bout where
+I'm at or who I saw or
+What club I go to with the homies
+Baby don't worry, I know that they got me
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_10425607/su_0/tr_H1FvnQvsiDJy7LwORBYen5ie7-88Y_hEtyOioqKU9OAagHoHs7XPIHvDsW_w4lPU_wL1eHzll08TrRjn2Asj22vrtCr5LgaFCuOMgC_TAWxYLrZYVSrUFpIwhEFz5BzWa6Os7lkMY3BY3WGgYrzeSyg9AWyBVAt7oSJcXpeacy6fEvwmmCpF3cbbUX_Wq772chzTCDswgJAm5ZOyzXiGBv92SE4LiEoV2w1H8QYGuQfVhSA1ymKcurObkaoHwO_B5-qx7NnlLxiYIY7VW3fCgiuWMiKkO8AROpc7VElzWj04d7DhW7Vst_0Uax6OVkJsERjmJXbU06jtJDXT1lElBA/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Deanna Wilson, Yesenia Hernandez for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "If You're Reading This It's Too Late" (2015)
+
+
+
+
+LegendEnergy10 BandsKnow YourselfNo Tellin'Madonna6 GodStar67PreachWednesday Night InterludeUsed To6 ManNow & ForeverCompanyYou & The 6Jungle6PM In New York[Bonus Track]My Side[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "6 Man" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

@@ -1,0 +1,329 @@
+DRAKE LYRICS - Do What U Do (Remix)
+ArtistName = "DRAKE";
+SongName = "Do What U Do (Remix)";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Do What U Do (Remix)" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Do What U Do (Remix)"(feat. The Clipse & Nickelus F)
+
+[TALKING:]
+I do this for ya'll man
+Malice, Nickelus F, it's the REMIX![VERSE 1: Malice]
+Lights slow motion, steppin' out the Phantom
+All eyes on me, peekin' and glancin'
+Leanin' on the wall, with b-boys dancin'
+Ears, neck, and wrists lookin' like the king's ransom
+One chick, each arm, makin' it a tandem
+Flat here costing' like fifty grand standard
+Bottles poppin', cars wit' options
+We livin' like kings, homie, you just watchin'
+And I'm a show for ya, marble flo' for ya
+And that thing in the driveway, came with the spoiler
+I ain't bluffin', cop jewels off the Russian
+Diamonds in the Jesus, look like he's blushin'
+Miami breezes, we cross seasons
+Escaped indictments, thank you Jesus
+Y'all haters ain't even got a clue
+While we get this paper, and that's how we do[BACKGROUND:]
+R-E U-P G-A-N-G
+R-E U-P G-A-N-G[CHORUS:]
+Stance on lean, leg up on the wall
+My people they chill, why you haters wanna ball
+I'm satisfied with a little, why you haters want it all
+You waiting for the Spring, and I'm gettin it in the fall
+But uh, do what you do what you, I do what I do
+Do's what you do, I do what I do
+Stance on lean, leg up on the wall
+My people they chill, why you haters wanna ball
+I'm satisfied with a little, why you haters want it all
+You waiting for the Spring, and I'm gettin it in the fall
+But uh, do what you do what you, I do what I do
+Do's what you do, I do what I do[VERSE 2:]
+Check, the verses I'm writing you might wanna learn it
+You hatin my song but your wife wanna burn it
+So now you at the store for some blank CDs
+You can't see me, for your sake might wanna return it
+Cause, if you bring them discs home to ya girl, she'll forget you
+and I'll be the only one she concerned with
+To the people that ignored me before this
+This one is for you as a song re-recorded
+Funny thing is, you just notice me now but I was here along
+your vision's just been distorted
+I'm so [?] I live this, you ask me what the business
+and I write a sixteen and record it, uh
+The waiting is over I think music need it
+Drake cuttin his records without gettin weeded
+People in the South want it chopped and screwed, I got this dude
+they expectations Imma exceed it uh
+Like a singer with only backgrounds ya'll record it
+When it's done ya lyrics tend to mislead ish
+Finally here Imma star with the timing
+My swagger is chill, and my flow is reclining
+This for anybody that's searchin for cash, and purchasing fast
+you only get the dough when you grindin
+And so I grind like I'm listening to I Wayne
+MY pain, you can experience through the rhyming boy![CHORUS:]
+Stance on lean, leg up on the wall
+My people they chill, why you haters wanna ball
+I'm satisfied with a little, why you haters want it all
+You waiting for the Spring, and I'm gettin it in the fall
+But uh, do what you do what you, I do what I do
+Do's what you do, I do what I do
+Stance on lean, leg up on the wall
+My people they chill, why you haters wanna ball
+I'm satisfied with a little, why you haters want it all
+You waiting for the Spring, and I'm gettin it in the fall
+But uh, do what you do what you, I do what I do
+Do's what you do, I do what I do[VERSE 3: Nickelus F][CHORUS:]
+Stance on lean, leg up on the wall
+My people they chill, why you haters wanna ball
+I'm satisfied with a little, why you haters want it all
+You waiting for the Spring, and I'm gettin it in the fall
+But uh, do what you do what you, I do what I do
+Do's what you do, I do what I do
+Stance on lean, leg up on the wall
+My people they chill, why you haters wanna ball
+I'm satisfied with a little, why you haters want it all
+You waiting for the Spring, and I'm gettin it in the fall
+But uh, do what you do what you, I do what I do
+Do's what you do, I do what I do
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_2105366/su_0/tr_BSgBIw63hLXcPx5nqH3CdgiRxamP0_tNatis-0HgTzQPhu7NgDOTxhQRzaEfuytkGTL6Pu9Z8sH5rU4mUbz-INRFo0WB-Can7i7X_UnLDHpsnRJQ_i1jZH3oTpboexmUNRbtNjpBSj3y44iCyPp1Rhb9LW_5YwpnJN-gyRJUFy-h1ALVI2Gqxvv4vrgI0_Spmq6OeJ6-2JJRrWjAWWhaE5D3nKpnIXmiGzVbU4C8Tfu_pTxKKuk9jkN-JeMwIm8Pzt43nhpr7BIzoXpxNQk9OfpxYwtnGf56TOamDuRJAD6KXCgF1MqQsIciNzPBfGyKqht_HvU611NQLoJGcG7SagFu_em_WG3dzzti4TM7HGKnILIOttRvbqnkxAvk8KEs/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): Aubrey Drake Graham, Matthew Samuels
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Comeback Season" (2007)
+
+
+
+
+The PresentationComeback SeasonCloserReplacement GirlCity Is MineBarry Bonds FreestyleGoing In For LifeWhere To NowShareGive YaDon't You Have A ManBitch Is CrazyThe Last HopeMust Hate MoneyAsthma TeamDo What U Do (Remix)Easy To PleaseFadedUnderdogThink Good ThoughtsTeach U A LessonMissin' You (Remix)Man Of The Year (Remix)
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Do What U Do (Remix)" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

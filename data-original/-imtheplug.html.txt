@@ -1,0 +1,300 @@
+DRAKE LYRICS - I'm The Plug
+ArtistName = "DRAKE";
+SongName = "I'm The Plug";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"I'm The Plug" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"I'm The Plug"(with Future)
+
+[Future:]
+Draped in all designer, draped in all designer
+Draped in all designer, draped in all designer[Future:]
+I got all exotic bitches you gon' think I'm racist
+I just called a gang of bitches out of immigration
+You gon' think we printing money cause the way we make it
+I got all these fucking whips and ain't got no payments[Future:]
+Pink slips sitting in the dash fuck with me
+Got a gang of broads riding and they on drugs with me
+Got a gang of cash on me like I brought the plug with me
+Niggas for looking for the plug nigga I the plug really[Future:]
+Really I'm the plug, really I'm the plug
+I dropped a few whoopty whoops in my cup
+Put it on my tab put her on my tab
+Franchise tag on me Bron Bron
+Steph Curry wrists nigga Oakland
+Percies for the bitches Bishop magic Don Juan
+Standing ovation and an encore
+And I keep the check Nike concord[Future:]
+Pink slips sitting in the dash fuck with me
+Got a gang of broads riding with me, on drugs with me
+Got a gang of cash on me like I brought the plug with me
+Niggas for looking for the plug nigga I the plug really[Future:]
+Really I'm the plug, really I'm the plug
+Really I'm the plug, really I'm the plug
+Really I'm the plug, really I'm the plug[Drake:]
+Whole time I was ready
+They was like "hold up wait a minute" I was like "nah nigga let's get it"
+This that OVO Halloween gang, you know how I'm rocking already
+If you come here trying to take some there's a lot more where that came from
+And it really ain't no thing, I got Summer P in this thing
+I just drop the jig in my Red Bull and it really gave me wings
+Ya, ya up and away
+Y'all should have seen this shit coming in May
+We doing 300 records a day
+Who really think they can get in the way
+Nah, nah, niggas is bitter they hurting
+Look at the business mergers
+Throwed back when I'm swerving
+Big body my Suburban
+Everything I do on purpose
+I'm blowing up like I'm urgent
+And she was acting like a virgin
+I gave it to her then I curved her[Future:]
+Pink slips sitting in the dash fuck with me
+Got a gang of broads riding and they on drugs with me
+Got a gang of cash on me like I brought the plug with me
+Niggas for looking for the plug nigga I the plug really[Future:]
+Really I'm the plug, really I'm the plug
+Really I'm the plug, really I'm the plug
+Really I'm the plug, really I'm the plug
+Really I'm the plug, really I'm the plug
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_12211286/su_0/tr_0f6ZDZnfGIbyk4kx1pNT-SyBePLDSHwPHIrySvb0KID73rUF_529BwK2CZUJ5yhpIMjSmy54bpeNvfMltr3gNnkdmyJxRLXNfuqFB51L_vxw8ySSpnYnLkEjZq_6kbzfady_KR87WOvnRdyb_99i61u6lUJLrgLlr_72P0MPBnPL8-ktYgdhi4Rp9kAj6b_9tDeGVjLto96uwRqW3KPPWkEWSsE-YJ7YhmRhLdWf5VL19DdHctGalIOKXpas1Qu7hH6t4WamJPOMy1fl7xeDLpTis1NbucokPdOZnPKa2P9kQM7Dng4kf2I7hMJcgJDtxxtFvjZzUToYRo-Qp5GMN1Q6N1e2HdoCWPWGVQedrAklg23Fv_pyJ__uUN1qJzC5/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+Writer(s): AUBREY GRAHAM, JOSHUA HOWARD LUELLEN, Nayvadius Wilburn
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "What A Time To Be Alive" (2015)
+
+
+
+
+Digital DashBig RingsLive From The GutterDiamonds DancingScholarshipsPlastic BagI'm The PlugChange LocationsJumpmanJersey30 For 30 Freestyle
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "I'm The Plug" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

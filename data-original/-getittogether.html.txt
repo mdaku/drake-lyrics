@@ -1,0 +1,281 @@
+DRAKE LYRICS - Get It Together
+ArtistName = "DRAKE";
+SongName = "Get It Together";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Get It Together" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Get It Together"(feat. Black Coffee & Jorja Smith)
+
+[Jorja Smith:]
+Hello
+I've been hurt so many times
+It got to a point
+When I decided
+I can't do this anymore
+I need someone to hold me
+I need someone that needs me
+I need someone that loves me[Drake:]
+You need me to get that shit together
+So we can get together
+You need me to get that shit together
+So we can get together[Jorja Smith:]
+You need me to
+You need me to
+You know, we don't have to be dramatic
+Just romantic
+Do all the little things, little things, little things
+That excites me
+And as your woman
+Give me a kiss goodnight
+On the phone
+When you're working late
+When you're out of town
+Tell me how much you need this
+'Cause we deserve it
+We can be together[Drake & Jorja Smith:]
+You need me to get that shit together
+So we can get together
+You need me to get that shit together
+So we can get together
+You need me to (Yeah, oh-oh, yeah)
+You need me to (Yeah)
+You need me to
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_16505319/su_0/tr_wCdLhtxZdC6QJlufX99cRd7O44b5GiC5f7Gh23fv-H_VwcnaWOgJNVj1VX3EvuR45URBnSP-dRFDffx88lB8-q2PpMGYmvGmqcf6SBGqMdfjTVts46y3SbVwZg_fp_M-FUNoF3ILhqe0Hy1y0t7_IyTUrxDMKZIkGV3CWsQq_aune6Qay-wK8XsvKDHOrwvvA51gu_z-XsmsPGXmNEDTT8QW7maIX-Csgh48mC3E-v1oO-yaDShixTwr5BF5-_4zXTcQTxZ48NF_1w7HS3NMeJescy9GEtgofZUER9vBxjevo5HsURLjGpNz-enc7OaiSHXKT1gzuG7FpqolhVW4-Wrh989UDh4hjxTIQtXjaIFGjui5jfgBSKakzHdqBtaLkAnFW08iE-N8xMGKlhZC0dnC5OwJ3LeML8k6Ko5fMBA/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "More Life" (2017)
+
+
+
+
+Free SmokeNo Long TalkPassionfruitJorja InterludeGet It TogetherMadiba RiddimBlem4422GyalchesterSkepta InterludePortlandSacrificesNothings Into SomethingsTeenage FeverKMTLose YouCan't Have EverythingGlowSince Way BackFake LoveIce MeltsDo Not Disturb
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Get It Together" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

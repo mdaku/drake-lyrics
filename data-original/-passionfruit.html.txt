@@ -1,0 +1,278 @@
+DRAKE LYRICS - Passionfruit
+ArtistName = "DRAKE";
+SongName = "Passionfruit";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Passionfruit" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Passionfruit"
+
+[Moodymann:]
+Hold on, hold on, fuck that. Fuck that shit. Hold on, I got to start this mothafuckin' record over again, wait a minute. Fuck that shit. Still on this mothafuckin' record. I'm a play this mothafucka for y'all. Ayy, y'all get some more drinks goin' on, I'll sound a whole lot better.[Drake:]
+Listen, seeing you got ritualistic
+Cleansin' my soul of addiction for now
+'Cause I'm fallin' apart, yeah
+Tension between us just like picket fences
+You got issues that I won't mention for now
+'Cause we're fallin' apart
+Passionate from miles away
+Passive with the things you say
+Passin' up on my old ways
+I can't blame you, no, no
+Passionate from miles away
+Passive with the things you say
+Passin' up on my old ways
+I can't blame you, no, no
+Listen, hard at buildin' trust from a distance
+I think we should rule out commitment for now
+'Cause we're fallin' apart
+Leavin', you're just doing that to get even
+Don't pick up the pieces, just leave it for now
+They keep fallin' apart
+Passionate from miles away
+Passive with the things you say
+Passin' up on my old ways
+I can't blame you, no, no
+Passionate from miles away
+Passive with the things you say
+Passin' up on my old ways
+I can't blame you, no, no
+Trying to think of the right thing to say
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_16505048/su_0/tr_gaCkTw051iBveC4z5WsUQsQX3IYbqpkoJBuvOiIdwDbMhoZVIIREP8vjiQ7WN4I0ySbdmnX2zBFxQdWNfi-zuSi80y2mYnCWQUEHorfzsm8xPX2stlXeHH502CYPzYE9J0GXTdtJ5yXhar65GbntuTAlaK3OdliVCuncQO4J0VNrfRk0JAQUiDjDMY0TGWIweN-qMx0FgxULXS4vWEUD5SWEk4XNlFmtDJ1z0eYJ4EYjHBy0AqBbCSBwiqrG9bmvyaUt-GB4zwHdjQmVavveZ8NWdC2g7FsqhqEwswiOmUPVuobN0IZzxIGO49hxuxMXUKIaKwEpWg5Z7hJwJRcsCA/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "More Life" (2017)
+
+
+
+
+Free SmokeNo Long TalkPassionfruitJorja InterludeGet It TogetherMadiba RiddimBlem4422GyalchesterSkepta InterludePortlandSacrificesNothings Into SomethingsTeenage FeverKMTLose YouCan't Have EverythingGlowSince Way BackFake LoveIce MeltsDo Not Disturb
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Passionfruit" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

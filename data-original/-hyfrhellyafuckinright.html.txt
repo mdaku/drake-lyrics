@@ -1,0 +1,343 @@
+DRAKE LYRICS - HYFR (Hell Ya Fuckin' Right)
+ArtistName = "DRAKE";
+SongName = "HYFR (Hell Ya Fuckin' Right)";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"HYFR (Hell Ya Fuckin' Right)" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"HYFR (Hell Ya Fuckin' Right)"(feat. Lil' Wayne)
+
+[Drake]
+(Gotta do what I gotta do, yeah)
+All my exes live in Texas like I’m George Strait
+Or they go to Georgia State where-
+Tuition is handled by some random nigga that live in Atlanta
+That she only see when she feels obligated
+Admitted it to me the first time we dated
+But she was no angel, and we never waited
+I took her for sushi, she wanted to fuck
+So we took it to go, told them don’t even plate it
+And we never talked too much after I blew up
+Just only ‘hello’ or ‘happy belated’
+And I think I text her and told her I made it
+And that’s when she text me and told me she prayed it
+And that’s when I text her and told her I love it
+Then right after text her and I told her I’m faded
+She asked
+What have I learned since getting richer
+I learned working with the negatives can make for better pictures
+I learned Hennessy and enemies is one hell of a mixture
+Even though it’s fucked up, girl, I’m still fucking wit ya
+Damn, is it the fall
+Time for me to revisit the past
+It’s women to call
+There’s albums to drop, there’s liquor involved
+There’s stories to tell, we been through it all
+Interviews are like confessions
+Get the fuck about my dressing room, confusing me with questions
+Like:[Bridge - Lil Wayne:]
+Do you love this shit?
+Are you high right now?
+Do you ever get nervous?
+Are you single?
+I heard you fucked your girl, is it true?
+You getting money? You think them niggas you with is wit’ you?
+And I say
+Hell yeah
+Hell yeah, hell yeah
+Fuckin’ right
+Fuckin’ right, all right
+(And we say) Hell yeah
+Hell yeah, hell yeah
+Fuckin’ right
+Fuckin’ right, all right[Lil Wayne]
+So much for being optimistic
+They say love is in the air, so I
+Hold my breath 'til my face turn purple
+Keep a few bad bitches in my circle
+My nuts hang like ain’t no curfew
+Bitch if you wave, then I will surf you
+I flew jet, she flew commercial
+But we still met, later that night
+After my session, she came over
+I was aggressive, and she was sober
+I gave her a pill
+She started confessing and started undressing
+And ask me to hold her
+And so I did, but that was last month
+And now she’s texting me, asking for closure
+Damn
+She say this shit gon’ catch up to me
+I keep tissue paper
+We eat each other whenever we at the dinner table
+She say she hate that she love me
+And she wish I was average
+Shit, sometimes I wish the same
+And I wish she wasn’t married
+Promises, I hope I never break ‘em
+Met a female dragon, had a fire conversation but
+Interviews are like confessions
+Get the fuck up out my bedroom confusing me with questions like[Bridge]
+Do you love this shit?
+Are you high right now?
+Do you ever get nervous?
+Are you single?
+I heard you fucked your girl, is it true?
+You getting money? You think them niggas you with is wit’ you?[Hook]
+(And I say) Hell yeah
+Hell yeah, hell yeah
+Fuckin’ right
+Fuckin right, all right
+(And we say) Hell yeah
+Hell yeah, hell yeah
+Fuckin’ right
+Damn right, all right[Drake]
+(And we say) Hell yeah
+Hell yeah, hell yeah
+Fuckin’ right
+Fuckin’ right, all right
+(And we say) Hell yeah
+Hell yeah, hell yeah
+Fuckin’ right
+Damn right, all right
+Aw Yeah
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_10237202/su_0/tr_xi7NGNvKX9K9yXR3nc7VdfZGCxWPV1O5KklOv-Od1Rbzdcb8CqU_KSs02wmEKPAPYu7xsvLcabQwPEWqlzorFtXTjU5sqFG6JwOz1HSC4yC-xdTonf_nG9LkJBO25KVEGg-jykgLQPwtnXsWpI1dTl_B0EUG4x5fPXngUwihw_jXu3sSp4H7nraaiejoyKNWj2shcAUvE3M0KulW1Bjys-_7PBfZ3wfN0PPhPMTVRLDHbvBxESwOVel50jqcn5_jrlv98Ho41kY0Q_4IFxCzkXGqqc5xaJjjC3f2qVVrksvfnnpJByeo9g8XYyvTs0AV12aOanCsE-UcvdEAvMDWNhUlyZUJacZLnPYWSOIp0ayWlNtvOE2egTSVtWBNqPZf/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to dANIEL EVerest, Kimberly, Eddie square, Sian, sebastian for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Anthony Palman, Aubrey Graham, Kenza Samir, Tyler Williams, Dwayne Carter, Cedric Dormaine Hill, Unknown Sample Author
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Take Care" (2011)
+
+
+
+
+Over My Dead BodyShot For MeHeadlinesCrew LoveTake CareMarvin's RoomBuried Alive (Interlude)Under Ground KingsWe'll Be FineMake Me ProudLord KnowsCamerasGood Ones Go (Interlude)Doing It WrongThe Real HerHYFR (Hell Ya Fuckin' Right)Look What You've DonePracticeThe RideHate Sleeping Alone[iTunes Bonus Track]The Motto[Deluxe Edition Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "HYFR (Hell Ya Fuckin' Right)" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

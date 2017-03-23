@@ -1,0 +1,290 @@
+DRAKE LYRICS - Madiba Riddim
+ArtistName = "DRAKE";
+SongName = "Madiba Riddim";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Madiba Riddim" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Madiba Riddim"
+
+I cannot tell who is my friend
+I need distance between me and them
+Gonna have to teach me how to love you again
+God knows I'm trying
+God knows I'm trying for you
+God knows I'm trying
+God knows it
+Your mind impure, soul I possess, he knows it
+Anointed and protected, I was chosen
+My heart is way too frozen to get broken
+I seen man turn fool for the money
+One too many times
+I seen some girls turn they back
+On they best friend from time
+I heard you say things that you can't take back, girl, no time
+I need you to go easy now and fix up one time
+I cannot tell who is my friend
+I need distance between me and them
+Gonna have to teach me how to love you again
+God knows I'm trying
+God knows I'm trying for you
+God knows I'm trying
+People change, I'm not surprised
+Devil's working overtime
+Voodoo spells put on my life
+It won't work, they all have tried
+I seen man turn fool for the money
+One too many times
+I seen some girls turn they back
+On they best friend from time
+I heard you say things that you can't take back, girl, no time
+I need you to go easy now and fix up one time
+I cannot tell who is my friend
+I need distance between me and them
+Gonna have to teach me how to love you again
+God knows I'm trying
+God knows I'm trying for you
+God knows I'm trying
+You put food on the table for me, aye?
+Alright, fam, soft. I see you, aye?
+You pay my bills, right?
+It's light
+You're a wasteman
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_16505321/su_0/tr_BU1b1TFIqF9slG7Gm8sbwq0V58uap-LR7zTZUL4ObZqB3N4dmnSonKVe7fWkpCo3vEtQGiop8kR6l1dChW0h-GGTS3uP6UB6Qbo7aH-uU4-AoNbzou9mi8KAy7cC5RXmDIRkvTeeE141qHhulLDslDRrsGXSVKwDVFjrg-_WZFC9wmgL1-wmc03r_eY-ApOfOgoJ8rjuDrPzqfmLhP5ZXFWCEMiX2X7SrpMrrhcnjse1CLoAOsspWVaKEoj4yBfLwIyzOzVYud7wbSdT09b1XtHe9Th8Rp0HNVzyILb23Dz3u2t5jJEmoK-diC-8XleehwDqLA72JZ2u3eSG95FUnJt655xQyTbEHu__SrLzDNhyPsWGheMIc2dry-FGLf6G/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "More Life" (2017)
+
+
+
+
+Free SmokeNo Long TalkPassionfruitJorja InterludeGet It TogetherMadiba RiddimBlem4422GyalchesterSkepta InterludePortlandSacrificesNothings Into SomethingsTeenage FeverKMTLose YouCan't Have EverythingGlowSince Way BackFake LoveIce MeltsDo Not Disturb
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Madiba Riddim" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

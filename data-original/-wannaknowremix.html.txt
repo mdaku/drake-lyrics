@@ -1,0 +1,293 @@
+DRAKE LYRICS - Wanna Know (Remix)
+ArtistName = "DRAKE";
+SongName = "Wanna Know (Remix)";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Wanna Know (Remix)" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Wanna Know (Remix)"(feat. Dave)
+
+[Drake:]
+Yeah, they try to send for me
+Envy and jealousy is everything I wish upon my enemies
+All that for them, right back at them
+What my mind keeps telling me
+Mind keeps telling me
+I hear everything, I don't answer cause it's all there cause it better be
+Trust me it better be, no long talking or settling
+Just when I've never won no wrestling
+But he's on a big belt medal ting
+Streets unruly
+More life for my brother's trying out better things, cause
+All my man dem are running to the money
+We be running like ay, ay, ay, ay
+And all my man dem are running from them hoes in the roads like whoa whoa whoa, whoa
+Like whoa, a month ago you didn't wanna know, but now I'm seeing dough
+These catties they be calling up my phone
+All these man dem and they applaud me on the road[Dave:]
+I put corn in for my bro
+Man dem keep on talking on a low
+Man dem keep talkin on a low, but all my man are bros
+All my man, all my man are bros
+My man dem will have your man dem on the ropes
+I'll have man dem on your roads
+Man dem in a batch on they own
+With a bat or with a pole
+I got man dem that will slap a man with both
+Nike jacket on my back i'm looking cold
+It's funny how these catties wanna know, but
+All my man dem are running to the money
+We be running like ay, ay, ay, ay
+And all my man dem are running from them hoes in the roads like whoa whoa whoa, whoa
+Like whoa, a month ago you didn't wanna know, but now I'm seeing dough
+These catties they be calling up my phone
+All these man dem and they applaud me on the road[Drake:]
+Free Smoke
+Anybody want it they can get it, no joke
+Call up landlord, nigga that's broke
+I only link with the real ones, lord knows
+On fo', I love to see a fake nigga go broke
+I don't run to Twitter with the things I know
+I fall back to see how it unfolds
+Yeah, like whoa, whoa, whoa, whoa
+Like whoa, years ago they didn't wanna know
+But now I'm seeing dough
+Catties they be calling up my phone
+Trying to get tickets to a show
+Yeah, I got U.K. tings on the WhatsApp now
+Like +44 on the road[Dave & Drake:]
+Like whoa, whoa, whoa, whoa
+Like whoa
+A month ago you didn't wanna know, but now I'm seeing dough
+These catties they be calling up my phone
+All these man dem they applaud me on the road
+I put corn in for my bro
+Man dem keep on talking on a low
+Man dem keep talkin on a low, low, low
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_16001831/su_0/tr_cacEt8SbmB-KON8RT7RTMQ7_0EDH3eK10iktRCFn_D0PdT6I4EhOz5u_EZNPNbJUMa7tfILUibAuBCXhg7Ngk4x3VzIdhTc3V2bwTK8g-OszTsz-zguAA5DxOmwtfnSSW_YfxodIWqicBI_uG1kWy4YTxCYUG2bvnu9RBHQUw1D3F48k3JMFP6Br7g0DRtcN2LmjuDMu3vbBro2XzHZxAhWmb4N0YyHKxt-zpaTq0Gv02WxQ0cxLdHZh4MDESvRcTcBB-TfmKS9ZGrwG4bQAwx0sSP6_RlRqJJq4Ln--KYmozCFfUKkV6NOpBYELbFznHSV_5oljdfKz_0zUY-00_5_9KJ3-D4J1AqpKVEeY5H8Ird2V6pega_HYRDqhu488/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Wanna Know (Remix)" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

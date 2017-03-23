@@ -1,0 +1,293 @@
+DRAKE LYRICS - Pop Style
+ArtistName = "DRAKE";
+SongName = "Pop Style";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Pop Style" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Pop Style"(feat. The Throne)
+
+[Intro - Drake:]
+Yeah, yeah[Hook - Drake:]
+Dropped outta school now we dumb rich, dumb rich
+This sound like some forty-three-oh-one shit, one shit
+All my niggas wanna do is pop style, pop style
+Turn my birthday into a lifestyle, lifestyle[Verse 1 - Drake:]
+Tell my mom I love her if I do not make it, do not make it
+Got so many chains they call me Chaining Tatum
+They do, they do
+And I like to finish what you think you started
+Man you boys just got to Hollywood, you boys just started
+You don't know what you just started
+All I do is hang with the young and heartless
+All this is for my family, man, I try my hardest
+It's all I ever did and look where it got him
+Yeah, you've been on my mind lately
+You've still got my number, girl you need to call me
+I feel like they wanna see me learn the hard way
+But you know I always handle that one my way
+Girl let me rock, rock, rock, rock, rock your body
+Justin Timberlake and then I hit the highway
+I can't trust no fuckin' body
+They still out to get me cause they never got me[Verse 2 - Kanye West & Jay-Z (as The Throne):]
+They still out to get me, they don't get it
+I can not be got, and that's a given
+They like Pablo, "why are all the windows tinted on your Tahoe?"
+Why do you know every single bitch that I know?
+Why can't you just shut your mouth and take the high road?
+Fuck if I know, that's that Chicago, aye
+South, south, side, that's the motto, aye
+Cop a crib and spend ten million on remodel
+Take the devils out my life and preach the gospel, cause I know
+We went way, way past the line of scrimmage, aye
+Throne is back up in it, aye
+In the field like Emmitt, aye, y'all get so offended, aye
+I be blacking out, I ain't backing out
+Jay about his business, and I'mma let you finish but I...
+I just, I just, I just, I just wanna rock your body
+Take you to the garage and do some karate
+Chop it, chop it, chop it, chop it sipping sake
+Throw a thick bitch on a Kawasaki
+(Perfect)[Hook - Drake:]
+Dropped outta school now we dumb rich, dumb rich
+This sound like some forty-three-oh-one shit, one shit
+All my niggas wanna do is pop style, pop style
+Turn my birthday into a lifestyle, lifestyle
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_15068235/su_0/tr_zlVViLbk1myDUCGx8r1JWAnCoRiyMuPLSp4XTG7YUSb3C7isAqsrEyz55qp0m2bPiEc4sNdTA2fjq8-t-QJ1-2MO6OPrOOJ9QLqHH_jW8C-fOSrRs-_CIOV9g9kYh8EifImwCRJRm543YQyO7tRlcFbMh1ei_O4puDxE1sxzS94Ahzt7_Y0rTftzuoj2KWQsuoNfq8bybKlxQZEamdU-kTjrZqStwhdDJVjShvzBl0HYJ5r60rCQcAyYcff1BQ6ANjcONBLdodhyXBs8piYPFZw4UoeXoFt9Cw9e1LmtIWnY6rZXtsd91fOpjpOa1K3EV_wL1cmPdr69X1-2XC80oLO6fS7wg2aDZwlJx3p72iBAKpsty7yzUMqAC4RLMSuK/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Views" (2016)
+
+
+
+
+Keep The Family Close9U With Me?Feel No WaysHypeWeston Road FlowsRedemptionWith YouFaithfulStill HereControllaOne DanceGrammysChild's PlayPop StyleToo GoodSummer's Over (Interlude)Fire & DesireViewsHotline Bling[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Pop Style" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

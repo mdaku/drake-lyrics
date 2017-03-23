@@ -1,0 +1,298 @@
+DRAKE LYRICS - Teenage Fever
+ArtistName = "DRAKE";
+SongName = "Teenage Fever";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Teenage Fever" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Teenage Fever"
+
+[Drake:]
+Your heart is hard to carry after dark
+You're to blame for what we could have been
+'Cause look at what we are
+Your friends are scared to tell you you're in too far
+Funny that it's always been all about you from the start
+I met someone new last night and we kicked it
+And I'm going back there tonight
+And you know what's on my mind, this time
+Going back there tonight
+And you know what's on my mind[Jennifer Lopez:]
+If you had my love
+And I gave you all my trust
+Would you comfort me?
+And if somehow you knew
+That your love would be untrue
+Would you lie to me?
+If you had my love
+And I gave you all my trust
+Would you comfort me?
+And if somehow you knew
+That your love would be untrue
+Would you lie to me?[Drake:]
+Out of body
+That's just how I feel when I'm around you, shawty
+Last night we didn't say it
+But girl, we both thought it
+Why second guess? I should have stayed
+You say the word, I'm on the way
+This shit feels like teenage fever
+I'm not scared of it, she ain't either
+Why second guess? I should have stayed
+'Cause you know what's on my mind tonight[Jennifer Lopez:]
+If you had my love
+And I gave you all my trust
+Would you comfort me?
+And if somehow you knew
+That your love would be untrue
+Would you lie to me?
+If you had my love
+And I gave you all my trust
+Would you comfort me?
+And if somehow you knew
+That your love would be untrue
+Would you lie to me?[Santan Dave:]
+Yeah, slightly took a left turn there
+But very much 6AM
+Slightly been awake for 24 hours, so please forgive me
+More ideas and stuff comin'
+Yeah, yeah, fam
+I'm wafflin', but man is tired, fam, Jesus Christ
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_16504944/su_0/tr_bePQfXzd4-j7AzNmIIC7mWmNFkAd99cVa7GK-Z7pXsYul5yXkV081m8oCp13o3y3CjURXrQaxCJh26bOSlUVf3-jnTtvsgeqpiWpYQwB2odtpaXTVe9IyRkrYryPc0Ptp1mdLYNWQgOVVgMt0Pl3zHRJMLX75mG4hhc1KV2TDyOFT8osLWfwUWqt2WhJ2BLw2BIw2i0zFSyIvspmDDYqgf2r1Xrn-cyOnrZ2jDV_F6PgC33iy_r_GMp1URkI66ztVYkK4Zb5RfLzEezL7LjhYFPIw3h-nFdqOR1ovi79diY6QQH2hNtu1VGJktIPGJrR8LcCtyBzL0mHt-Xv2oG5i08KMOnupiB_glkLycCtA6RM9utcdxtU_utU8AQXW8yq/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "More Life" (2017)
+
+
+
+
+Free SmokeNo Long TalkPassionfruitJorja InterludeGet It TogetherMadiba RiddimBlem4422GyalchesterSkepta InterludePortlandSacrificesNothings Into SomethingsTeenage FeverKMTLose YouCan't Have EverythingGlowSince Way BackFake LoveIce MeltsDo Not Disturb
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Teenage Fever" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

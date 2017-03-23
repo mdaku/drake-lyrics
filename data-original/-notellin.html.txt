@@ -1,0 +1,307 @@
+DRAKE LYRICS - No Tellin'
+ArtistName = "DRAKE";
+SongName = "No Tellin'";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"No Tellin'" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"No Tellin'"
+
+[Hook:]
+Envelopes coming in the mail, let her open em'
+Hopin' for a check again, ain't no tellin'
+Yeah, she invite me to the telly
+Keep the blade with me when I go to check a bitch, ain't no' tellin
+Yeah, police comin' round' lookin' for some help on a case they gotta solve, we never help 'em
+Yeah, I stay up late at night, thinkin' bout' my life
+Want a lot, will I get it all? Ain't no tellin'
+Ain't no tellin', yeah, ain't no tellin'
+Yeah, no tellin'
+Ain't no tellin'[Verse 1:]
+Suitcase, I been living outta' suitcase
+Still drinkin' Henny, if it's done, I'll take the D'usse
+Oops, aye, fuck it, all you niggas two-faced
+Got the club going up on a Tuesday
+True say, I been going hard but then again
+They think I'm soft, think I'm innocent
+I'm just lookin' in the mirror like I'm really him
+Man, I'm really him, you just fillin' in, man
+I gotta blunt, can I get a light?
+Yeah, I took the summer off to get it right
+Yeah, I gave these boys a shot and they fuckin' failed
+Niggas like "you took the summer off? we couldn't tell"
+Dog, just bought a island gotta sail to it
+You pick the casket, I'll put the nail through it
+I ain't gotta do it, but fuck it somebody gotta do it
+Hate if someone else did it, fuck, I may as well do it[Hook][Verse 2:]
+Okay, I had to switch the flow up on you niggas
+The shit was gettin' too predictable
+The new shit is on steroids, I would never pass a physical
+I got it rollin' in all kinda ways, lump sum and residual, yeah
+I mean we hear about the money you be gettin' but we just never see a visual
+It's our year (aw yeah), Aw yeah
+I mean besides Ricky Ross, Aubrey the biggest boss here (grunt)
+What's the word these days?
+Buncha' niggas chasing after all these woman they don't even know
+Buncha' out of season woman fuckin' off-season niggas to get last season wardrobe
+All the rappers that you vouch for need to get out of the house more, they washed up
+And even if the team was religious with it, I can't really see another squad tryna' cross us, nah
+OVO unruly
+One shot to make it in a life
+From the six to the fucking 876[Hook][Outro:]
+I gotta' keep watchin' for Opper's cause' anything's possible, yeah
+There's no code in ethics out here, anyone will take shots at you, yeah
+Niggas think they can come take what I got, let's be logical, yeah
+V-Live, I order that Alfredo pasta then eat in the kitchen like I'm in the mafia
+Houston, they get me though
+European, my vehicle
+How much it hit me fo'?
+Ain't no tellin', yeah
+What am I willin' to give her to get what I want tonight?
+Ain't no tellin'
+Please do not speak to me like I'm that Drake from four years ago
+I'm at a higher place
+Thinkin' they lions and tigers and bears, I go huntin'
+Put heads on my fire place, oh my, take time
+Ain't no tellin'
+Oh my, ain't no tellin'
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_10318232/su_0/tr_yjB3ilHwBV9OxRxf-OuXLPmkRm_a0zUcQexR4dD3wvVr3fzKo5z4qkUVkQfYq-ocBANW2aC3gYwNYjH0Bb71hmFpX3u6mKnpSadCoB9pAwEmPrGJiuOtzS0kNx3sh4rMJmsNqz6WsQfGNmbdyULcq2pb-idNAQ-eTgmorqe3KswcU385pGtnMhWuZFmBGZ48OIPfVHPhWxGUfPQL41jycC1lF-tCtiYiSGzg_Doto92_y_ONSOYtoxqL1Vobu9a0EouDsD7VDl3DUOwPuaM6q1er4i9N_y27rA5mIOvSx_HAQSqzzuxTqYdywzrVu-vFBYayczHwTbL9fhqFVy9qWQ/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Yvan, Ray Ray for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Tommy Paxton-Beesley, Adam King Feeney, Kenza Samir, Matthew Samuels, Aubrey Graham, Graham Aubrey Drake
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "If You're Reading This It's Too Late" (2015)
+
+
+
+
+LegendEnergy10 BandsKnow YourselfNo Tellin'Madonna6 GodStar67PreachWednesday Night InterludeUsed To6 ManNow & ForeverCompanyYou & The 6Jungle6PM In New York[Bonus Track]My Side[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "No Tellin'" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

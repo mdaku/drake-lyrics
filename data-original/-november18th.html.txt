@@ -1,0 +1,310 @@
+DRAKE LYRICS - November 18th
+ArtistName = "DRAKE";
+SongName = "November 18th";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"November 18th" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"November 18th"
+
+[Chopped and screwed voice:]
+It's the ones that smoke blunts with ya
+Seen ya picture
+Now they wanna grab a gun and come and gitcha [x2]
+One time for the homie dj screw
+Already... I'm feelin throwed in this bitch[Drake:]
+I'm so high even when I'm comin down
+Just met a girl said she from the h-town
+Said my name was drizzy
+And ain't nobody reala
+Cup inside a cup
+Smokin ghostface killah
+Got these boppas goin crazy
+Nigga I'm the man
+I sent ya girl a message said I'll see you when I can
+She sent me one back
+But I ain't never read it
+Cause pussy's only pussy and I get it when I need it
+And I'm tellin you[Chopped and screwed voice:]
+(tellin you) I'm always with a dime in the winter
+And I be ridin rims if my tires any thinner
+Airports stuntin flyin charters overseas
+Full of don perignon
+And the water for the d's
+Don't know why it happens everytime we're alone
+But here we are again
+And I swear I'm in ma zone
+So I'm a sip this drink till that mofucka gone
+And you gon' get undressed
+And we gon' get it on[Drake:]
+I don't give you the time
+You deserve from me
+This is something I know
+I know, I know
+So tonight I'll just fuck you like
+We're in Houston
+Takin everything slow
+So slow, so slow,
+But I do it to her[Chopped and screwed voice:]
+Draped up dripped out
+Know what I'm talkin bout
+3 in the mornin get it poppin in the parkin lot
+It's on once again
+And I never pretend
+A nigga stay g to the end[Talking: Drake]
+I swear like, everytime
+I find myself in a situation
+I just get that feelin like
+I'm in Houston
+Candy paint switchin colors in the light
+It's about like 11 p.m
+And we just rollin through the city
+Bumpin that screw
+B.m.o
+U.g.k
+Lil keke
+And I feel like
+Everything just movin slow
+And I take my time
+I pace it baby
+Yeah I'm gone ...
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_6945293/su_0/tr_gC_oJgN-wBUAHa4Uqg7VL9AhpNraH0rlpvOacXKcfH2yeTo6EI7nDWjYgOwqANBugUPpj_F97IT_p-wjUs8qQ2Aw56_koYbb88t7XgNp7PTwSm3BwXpouwdi8FgebeIrksrqMYpB1e-N746KPgUArtw1vIwNrnvp2XdkeWqXNz4u_VJ5n4sF4O9-zyfd0kRBu0YftNnpletU1CUS0Lpb9oBoMh0vXD6kJo4_3dDJcVZog-RM4VtQo9ae5O0yBM8vVWVkoGDssoPzw3J3KisA87pTCSmIB3s104wEoqza5yyLTCGbdu4mDrfkVXp_e6ISLKOSZDQ476VvLOB9n97p2g/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Desiree for adding these lyrics.
+Thanks to Lamar for correcting these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "So Far Gone" (2009)
+
+
+
+
+Lust For LifeHoustatlantavegasSuccessfulLet's Call It OffNovember 18thIgnorant ShitA Night OffSay What's RealLittle BitBest I Ever HadUnstoppableUptownSooner Than LaterBria's InterludeThe CalmBrand New[Bonus Track]Congratulations[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "November 18th" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

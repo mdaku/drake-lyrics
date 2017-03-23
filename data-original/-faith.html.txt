@@ -1,0 +1,289 @@
+DRAKE LYRICS - Faith
+ArtistName = "DRAKE";
+SongName = "Faith";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Faith" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Faith"(feat. K-os)
+
+[Drake]
+Pay attention, its on
+Staring at my city lights through the plain window as I write this song
+Have faith, when I do it
+Imma do it bigger than they think
+I don't just flow I over flow I be filling up the sink
+Like I left the water on I run this bitch if anybody ask
+Aint much change since high school
+N-ggas still be in and out of class
+S class or the brand new cl5 on them haters
+Black paint, chrome trim same color as the logo for the raiders
+I just said that cause I'm not with california near the studio with taz
+You should give us credit n-ggas killin people we can be all doin that instead..
+But we not, we just kill the summer every single time I come around
+Never chase hoes but we do we laugh at them n-ggas tryin to run em down
+Not I, not me, YMOB, call jaz, call c,
+Bet both of them would agree
+Get viewed, get judged, get booed, get loved
+Shit get done round here, do you, not us[Chorus]
+I'm gon do what I want
+Cause this lifes made for living
+You got to know nothings for sure
+Faith in the stars
+I'm gon do what I want
+Cause this lifes what I'm given
+Gotta keep my faith in the dark clouds[K-os]
+Once upon a time I met
+On this cold explosive dosage she wrote this
+But tell me who chose this,
+Sin citys innocent really when its inside my mind
+And co-sign with a rhyme and a big pen
+Once again its an even odd
+Cant applaud with one hand
+Cant be God with one fan
+Or can you stan you
+If not pastor jackson daniels rip that hit that
+Now I sip that lightly when I'm on my mic tightly
+And I write nightly like Spike Lee
+Let me break it down
+I been having a maid since the 8th grade with a fade
+Rapping by the swings
+And the bell never really rings
+Class in session there's no recession
+For this upper echelon mic testing its
+K-dash-O-S F-R-E-S-H in the place
+With a grace in and outta space
+Gotta race
+Don't be something that you really not
+Sabotage the universal plot
+When the planet earth rock gets hot
+From the sun don't get got just get God yeah see that
+(Do you believe)[Chorus]
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_12145200/su_0/tr_i11QfH9nrt7ENJctkSSMi6bV3d0Dn09FIkTeuEG6r7pP3oKrUF-QXmj6OqI1nLsRKaHtYwB3s3F_nQQxovAxzAUOgtXM0nixVYX4F8w3spKWPPqXh3gib2QnlnE-gVvKfuCCSkR3nqHpkaME2kSxbVAPRqFaHgy_2YLJXNj3c0GtdbD94XvEM_fgMlHgpA4p77aB4-62AOckpHlQ5L9sJ6j-2V_XoeFisW6ZEdggM7iNBO8pxYOxMZb8PHHxTPWXKp8EdFPZ-JayoIQV_4Yk9mhywiABvWIlVLzRx1KEMlS_kIxND32m8_O3yqGpp3tI774eBOBHtbydP8CJaSVM7Q/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Dmitri Parker for adding these lyrics.
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Faith" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

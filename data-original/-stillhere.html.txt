@@ -1,0 +1,292 @@
+DRAKE LYRICS - Still Here
+ArtistName = "DRAKE";
+SongName = "Still Here";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Still Here" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Still Here"
+
+Doin' well dog
+Yeah, me and all my
+Yeah, me
+Yeah
+Me and all my niggas doin' well, doin' well dog
+You not from the city, I could tell, I could tell dog
+Did it, did it, did it by myself, by myself dog
+Blew up and I'm in the city still, I'm still here dog
+How did I finesse all of this shit from Jane and Weston
+Girls all in my bed and they don't trip off first impressions
+Girls all in your bed and they just ask a hundred questions
+I can't fuck with you no more cause you be actin' extra
+Do your favorite rapper like my son, like my son tho
+Nothing mutual about my funds, bout my funds tho
+All you niggas fightin' over crumbs, where the bread at
+How they feel about you , where you're from, where your bed at
+I don't need no pill to speak my mind, I don't need that
+I make people pay me for my time, yeah I need that
+And I see your girl like all the time, all the time tho
+I can't tell you if she's yours or mine, but I do know
+Me and all my niggas doin' well, doin' well dog
+You not from the city, I could tell, I could tell dog
+Did it, did it, did it by myself, by myself dog
+Blew up and I'm in the city still, I'm still here dog
+Oh, and I'm back dog
+Oh, you just went and turned your back dog
+I thought that we were family
+You showed me that we can't be
+I gotta talk to God even though he isn't near me
+Based on what I got it's hard to think that he don't hear me
+Hitting like that 30 on my jersey man I'm gifted
+Whole lot of 6's but I'm still like
+Hallelujah, Hallelujah, Hallelujah
+6 point star, lion of the Judah
+All my niggas ain't off rockin' Gucci
+One do it then we all gotta do it
+Got the key, now the doors open and we all goin' through it
+Whole city at your head for the boy
+I ain't even gotta call no one for it
+Me and all my niggas doin' well, doin' well dog
+You not from the city, I could tell, I could tell dog
+Did it, did it, did it by myself, by myself dog
+Blew up and I'm in the city still
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_15440214/su_0/tr_Nj3mSrJOszkaN_bkg4sNBXuo5_9AHtrVtUN9VoHyKm0d9Jh_anP5_3PmDiM5lEyxaa-mXHlnc0_yJei4heOZ2WYWBGS6AHzd6khwO6aGT8O2QC6vkXwguTEKQYuJ7DNnrCPo-ScUtc2k9kGM-r8hxLhCbctGY1ZXMTdA7vmnfW7z_Tvi8DlaocStiWnou3t3wa-6iw8frD0lElfPhsTpafIrgtTYn5qC392_h_DYYs7dXU_p9b_WEUYIipqKDeu0PBx3HmY3FcA1BmGEI8_Ovx2hlv55WyyuxkE06JD75kiP1hdu_1Wqnr9moRdP6UxD-b11sAHbSLMs_FoF28ryww/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Vince, victoria oropeza, Alayna for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Jahmar Carter, Maneesh Bidaye, Noah Shebib, Aubrey Graham
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Views" (2016)
+
+
+
+
+Keep The Family Close9U With Me?Feel No WaysHypeWeston Road FlowsRedemptionWith YouFaithfulStill HereControllaOne DanceGrammysChild's PlayPop StyleToo GoodSummer's Over (Interlude)Fire & DesireViewsHotline Bling[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Still Here" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

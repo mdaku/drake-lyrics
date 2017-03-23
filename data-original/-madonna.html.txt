@@ -1,0 +1,279 @@
+DRAKE LYRICS - Madonna
+ArtistName = "DRAKE";
+SongName = "Madonna";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Madonna" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Madonna"
+
+Breathe through, ride through, damn girl
+Oh man I don't know
+Pilled up filled up damn girl
+I'll be getting back to you for sure, man man
+Laced up dripped up sauced up
+Damn girl I wanna ride with you
+Waved up blowing up blowing up growing up
+Had to get it popping with you
+What if I pick you up from your house
+We should get out
+We haven't talked in a while
+We should roll to see where it goes
+I saw potential in you from the go
+You know that I did
+I don't know if you know but I know who you are
+You could be big as Madonna
+Just get in the car and let's touch the road
+Don't make other plans
+Say you get up early, you work for the man
+Well he'll understand
+Pull up I'm pulling up on you in ten
+Already on ten
+Big as Madonna I'll say it again
+Soon as you get in nah nah nah
+Breathe through, ride through, damn girl
+Oh man I don't know
+Pilled up filled up damn girl
+I'll be getting back to you for sure, man man
+Laced up dripped up sauced up
+Damn girl I wanna ride with you
+Waved up blowing up blowing up growing up
+Had to get it popping with you
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_10318233/su_0/tr_yO8krRSFBhIgMw99ivyQY-0XFR58Z2tdaUwAT2UUh3iaDL3iPtO6yhc-mIREfub9LgQ2R2lQEYbWaX6SdeogC5STTHnOP68HnlzwIX8lIgKb3MPXtSJ5V8rQMNf7SbVzHeat9KUeBvsM0Wc-moREzqYzJaMJ08abo6Ko9Yx7VIU9gSO0yAOEQyvpKMudxkHuIqe2h5Sy8luwQNOizZO3yrZHv_58iQP8U-63ovqRxE1hidE7F2WICRaaaMutwadYxLrihVtYLMUqw5w8S2ELzYmTvmanEbW0_Q0usIaRhWr4PWXG6o0vLhlOxPwcCAgbBioUgQJAnj_3DbNr2lHMIA/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "If You're Reading This It's Too Late" (2015)
+
+
+
+
+LegendEnergy10 BandsKnow YourselfNo Tellin'Madonna6 GodStar67PreachWednesday Night InterludeUsed To6 ManNow & ForeverCompanyYou & The 6Jungle6PM In New York[Bonus Track]My Side[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Madonna" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    

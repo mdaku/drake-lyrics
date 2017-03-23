@@ -1,0 +1,287 @@
+DRAKE LYRICS - Feel No Ways
+ArtistName = "DRAKE";
+SongName = "Feel No Ways";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    
+    
+      
+        
+      
+      
+        
+      
+      
+    
+    
+    
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+    J
+    K
+    L
+    M
+    N
+    O
+    P
+    Q
+    R
+    S
+    T
+    U
+    V
+    W
+    X
+    Y
+    Z
+    #
+    
+    
+    
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+    
+    
+  
+  
+    
+       
+         
+       
+    
+  
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+Print
+
+
+
+
+
+"Feel No Ways" lyrics
+
+
+DRAKE LYRICS
+
+
+
+
+
+
+"Feel No Ways"
+
+I should be downtown, whipping on the way to you
+You got something that belongs to me
+Your body language says it all
+Despite the things you said to me
+Who is it that's got you all gassed up?
+Changing your opinion on me
+I was only gone for the last few months
+But you don't have the time to wait on me
+I try with you
+There's more to life than sleeping in
+And getting high with you
+I had to let go of us to show myself what I could do
+And that just didn't sit right with you
+And now you're trying to make me feel a way, on purpose
+Now you're throwing it back in my face, on purpose
+Now you're talking down on my name, on purpose
+And you don't feel no way, you think I deserve it
+Feel a way, feel a way, young nigga feel a way
+I've stopped listening to things you say
+Cause you don't mean it anyway, yeah
+Feel a way, feel a way, young nigga feel a way
+Maybe we should have just did things my way
+Instead of the other way
+I tried with you
+There's more to life than sleeping in
+And getting high with you
+I had to let go of us to show myself what I could do
+And that just didn't sit right with you
+And now you're trying to make me feel a way, on purpose
+Now you're throwing it back in my face, on purpose
+Now you're talking down on my name, on purpose
+And you don't feel no way, you think I deserve it
+Yeah, yeah, yeah
+Yeah, yeah, yeah
+Feel a way, feel a way, young nigga feel a way
+I've stopped listening to things you say
+Feel a way, feel a way, young nigga feel a way
+I've stopped listening to things you say
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="http://adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_15440165/su_0/tr_vAgEpPii2JLZp3HFgdKe1maBSrJfmFOxe4BhAB2Tvlh4tdhLYyydSH7CkMyDa90lb9NVTcmbhAOzSukZnanL1Jo-zUqBqSu9BnNn39sKeKqKftNemtvonwQGsP1YnSlWOJ1t2cV9Zihvu9a_VEPimkaDWSU0VXGaF-H0JdO1838XwPIxvTI7lL3npwD5k-Sk3aOMzqdA8ti_FQAUt3DM3931aDcfT5K8pq8m97MFOi8sbWY83PFDQ3Qs5LTFHVtBQlvUibMYDbKuL2HVYRLRw0coe93xabx959282Lk_zpyJn7uSMfK0Q5uNry8XOQpkRySW73KKGeBvJF6h0q6wYSe_osZ_ayXPRigMy1IQ02oI_X_0uxcVOiPbyYbdh8uB/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+ Submit Corrections
+
+
+
+
+
+Visit www.azlyrics.com for these lyrics.
+
+
+
+
+Thanks to Black Bean for correcting these lyrics.
+
+
+
+
+
+
+
+Writer(s): Noah James Shebib, Nayvadius Demun Wilburn, Aubrey Drake Graham, Kanye Omari West, Anne Jennifer Dudley, Jordan K. Ullman, Malcolm Robert Andrew Mclaren
+
+
+
+A-Z Lyrics
+  D
+  DRAKE Lyrics
+
+  "Views" (2016)
+
+
+
+
+Keep The Family Close9U With Me?Feel No WaysHypeWeston Road FlowsRedemptionWith YouFaithfulStill HereControllaOne DanceGrammysChild's PlayPop StyleToo GoodSummer's Over (Interlude)Fire & DesireViewsHotline Bling[Bonus Track]
+
+
+
+
+        
+           
+		
+            	   Search
+          	
+ 	     
+	
+
+
+
+
+
+ 
+
+
+   
+
+
+  
+
+
+       
+          Request Lyrics
+            Submit Lyrics
+            Soundtracks
+            Music Videos
+            Facebook
+            Links
+           
+        
+  
+    
+       
+          
+       
+    
+  
+  
+
+
+     
+          Advertise Here
+            Privacy Policy
+            DMCA Policy
+            Contact Us
+           
+     
+          
+          Powered by 
+          
+             DRAKE lyrics are property and copyright of their owners. "Feel No Ways" lyrics provided for educational purposes and personal use only.
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             
+          
+     
+
+
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+    window.jQuery || document.write('<script src="http://images.azlyrics.com/local/jquery.min.js"><\/script>')
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="http://www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="http://www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    
